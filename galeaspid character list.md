@@ -1,10 +1,14 @@
 **Character list of galeaspids and comments**
 
-> *Characters and character states to be added in the nexus file. (To Shan and Chen)* 
+> *Characters and character states to be added in the nexus file. (To Shan, Chen, Li)* 
+
+> Source reference: Give a citing history of the relevant character. If needed, give the comments below the character.
+
+> Add the reference and taxa used in the analyis in another document.
 
 1. Median dorsal opening: (0) absent; (1) present.
 
-> Source reference: Zhu and Gai, 2006.
+> Source reference: Zhu and Gai (2006), Character #; authors (date), Character #.
 
 2. Festooned pattern of sensory canals on dorsal surface of headshield: (0) absent; (1) present.
 
@@ -221,54 +225,54 @@ crescent.
 
 55. Unclosed rostral margin: (0) present; (1) absent.
 
-Source reference: Shan et al., 2020.
+> Source reference: Shan et al., 2020.
 
 56. Ornamentation of head-shield: (0) star-shaped tubercles; (1) tiny granular tubercles; (2) coarse granular tubercles；(3) polygon-shaped tubercles; (4) central big tubercles surrounded by radially arranged tubercles.
 
-Source reference: Shan et al., 2020.
+> Source reference: Shan et al., 2020.
 
 57. Pineal organ: (0) on front of or level with posterior margin of orbital opening; (1) behind posterior margin of orbital opening.
 
-Source reference: Shan et al., 2020.
+> Source reference: Shan et al., 2020.
 
 58. Ratio between pre-pineal length and post-pineal length in mid-line of cephalic shield larger than 1.0: (0) no; (1) yes.
 
-Source reference: Shan et al., 2020.
+> Source reference: Shan et al., 2020.
 
 59. Preorbital commissure：(0) absent; (1) present.
 
-Source reference: Shan et al., 2020.
+> Source reference: Shan et al., 2020.
 
 60. Ventrally curved branchial fossae: (0) absent; (1) present.
 
-Source reference: Jiang et al., 2021.
+> Source reference: Jiang et al., 2021.
 
 61. Ventral rim of headshield: (0) absent; (1) present.
 
-Source reference: Jiang et al., 2021.
+> Source reference: Jiang et al., 2021.
 
 62. Sickle-like complex of cornual and inner cornual processes (the angle of the cornual and inner cornual processes is equal to or more than 90 degrees): (0) absent; (1) present.
 
 Source reference: Meng and Gai, 2021.
 
-63. Inner cornual process behind the posterior edge of cornual process: (0) absent; (1) present.
+> 63. Inner cornual process behind the posterior edge of cornual process: (0) absent; (1) present.
 
-Source reference: Meng and Gai, 2021.
+> Source reference: Meng and Gai, 2021.
 
 64. Middle dorsal spine of headshield: (0) absent; (1) present.
 
-Source reference: Shan et al., 2022.
+> Source reference: Shan et al., 2022.
 
 65. Central canal: (0) absent; (1) present.
 
-Source reference: Sun et al., 2022.
+> Source reference: Sun et al., 2022.
 
 66. Dermal bone of headshield: (0) no less than 1 mm in thickness; (1) less than 1 mm in thickness.
 
-Source reference: Sun et al., 2022.
+> Source reference: Sun et al., 2022.
 
 67. Vestige of median transverse canal: (0) absent; (1) present.
 
-Source reference: Sun et al., 2022.
+> Source reference: Sun et al., 2022.
 
 
