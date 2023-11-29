@@ -16,7 +16,11 @@
 
 *Wenshanaspis zhichangensis*, Pragian (Zhao et al., 2002)
 
+*Yongdongaspis littoralis*, middle-to-upper Telychian (Chen et al., 2022)
+
 **References**
+
+Chen, Y., Gai, Z.-K., LI, Q., Wang, J.-H., Peng, L.-J., Wei, G.-B., and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early Silurian of Chongqing, southwestern China. *Acta Geologica Sinica‐English Edition* **96(2)**: 430-439.
 
 Gai, Z.-K., Donoghue, P. C. J., Zhu, M., Janvier, P. and Stampanoni, M., 2011. Fossil jawless fish from China foreshadows early jawed vertebrate anatomy. *Nature* **476**: 324–327.
 
