@@ -21,6 +21,8 @@
 
 *Jiangxialepis rong*, lower Telychian (Liu et al., 2023)
 
+*Meishanaspis lehmani*, lower Telychian (Wang , 1991)
+
 *Polybranchiaspis liaojiaoshanensis*, Lochkovian (Liu, 1965; 1975)
 
 *Qingshuiaspis junqingi*, lower Telychian (Shan et al., 2022)
@@ -50,6 +52,8 @@ Liu, W.-Y., Shan, X.-R., Lin, X.-H., Shen, Y.-M., Liu, Y.-H., Zhang, Z.-H., and 
 Shan, X.-R., Gai, Z.-K., Lin, X.-H., Chen, Y., Zhu, M., and Zhao, W.-J., 2022. The oldest eugaleaspiform fishes from the Silurian red beds in Jiangxi, South China and their stratigraphic significance. *Journal of Asian Earth Sciences* **229**: 105187.
 
 Shan, X.-R., Zhao, W.-J., and Gai, Z.-K., 2023. A new species of Jiangxialepis (Galeaspida) from the lower Telychian (Silurian) of Jiangxi and its biostratigraphic significance. *Acta Geologica Sinica‐English Edition* **97(2)**： 393-403.
+
+Wang, N.-Z., 1991. Two new Silurian galeaspids (jawless craniates) from Zhejiang Province , China , with a discussion of galeaspid-gnathostome relationships. *In : Chang, M.-M., Liu, Y.-H., Zhang, G.-R., et al. Early vertebrates and related problems of evolutionary biology* Beijing: Science Press. 41-66.
 
 Zhao, W.-J., Zhu, M. and Jia L.-T., 2002. New discovery of galeaspids from Early Devonian of Wenshan, southeastern Yunnan, China. *Vert. PalAsiat.* **40**: 97–113.
 
