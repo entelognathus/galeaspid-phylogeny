@@ -300,3 +300,5 @@ Sun, H.R., Gai Z.K., Cai, J.C., Li, Q., Zhu, M., and Zhao, W.J., 2022. *Xitunasp
 Zhang, Y.M., Li, X.T., Shan, X.R., Lin, X.H., Tan, K., Li, Q., Zhao, W.J., Tang, L.Z., Zhu, M., and Gai, Z.K., 2023. The first galeaspid fish (stem-Gnathostomata) from the Silurian Xiushan formation of Hunan Province, China. Historical Biology: 1–12.
 
 Zhu, M., and Gai, Z.K., 2006. Phylogenetic relationships of galeaspids (Agnatha). Vertebrata PalAsiatica, 44(1), 1–27.
+
+Zhu, M. and Gai, Z.-K., 2007. Phylogenetic relationships of galeaspids (Agnatha). *Front. Biol. China* **2**: 1–19.
