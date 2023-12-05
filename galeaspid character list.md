@@ -262,9 +262,11 @@ Meng and Gai (2021), Character 62; Chen et al. (2022), Character 62; Shan et al.
 
 > Shan et al. (2022), Character 64; Zhang et al. (2023), Character 64; Liu et al. (2023), Character 64.
 
-65. Central canal: (0) absent; (1) present.
+65. Medial canal: (0) absent; (1) present.
 
 > Chen et al. (2022), Character 64; Sun et al. (2022), Character 64.
+
+> - Chen *et al*. (2022) used the term 'central canal' to describe a short canal issued from the middle of the dorsal commissure. As the 'central sensory canal' is conventionally used to represent the canal leaving from the infraorbital canal in placoderms, we replace the 'central canal' in galeaspids with the 'medial canal' to avoid confusion. 
 
 66. Dermal bone of headshield: (0) no less than 1 mm in thickness; (1) less than 1 mm in thickness.
 
@@ -274,7 +276,9 @@ Meng and Gai (2021), Character 62; Chen et al. (2022), Character 62; Shan et al.
 
 > Sun et al. (2022), Character 66.
 
+> 
 **References**
+
 Chen, Y., Gai, Z.K, LI, Q., Wang, J.Q., Peng, L.J., Wei, G.B., and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early Silurian of Chongqing, southwestern China. Acta Geologica Sinica‐English Edition, 96(2), 430-439.
 
 Gai, Z.K., Lu, L.W., Zhao, W.J., and Zhu, M., 2018. New polybranchiaspiform fishes (Agnatha: Galeaspida) from the Middle Palaeozoic of China and their ecomorphological implications. PLoS ONE, 13(9), e0202217.
