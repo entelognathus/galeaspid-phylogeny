@@ -2,221 +2,221 @@
 
 1. Median dorsal opening: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 1; Gai *et al*. (2018), Character 1; Shan *et al*. (2020), Character 1; Jiang *et al*. (2021), Character 1; Liu *et al*. (2021), Character 1; Meng and Gai (2021), Character 1; Chen *et al*. (2022), Character 1; Shan *et al*. (2022), Character 1; Sun *et al*. (2022), Character 1; Zhang *et al*. (2023), Character 1; Liu *et al*. (2023), Character 1.
+> Zhu and Gai (2006; 2007), Character 1; Gai *et al*. (2018), Character 1; Shan *et al*. (2020), Character 1; Jiang *et al*. (2021), Character 1; Liu *et al*. (2021), Character 1; Meng and Gai (2021), Character 1; Chen *et al*. (2022), Character 1; Shan *et al*. (2022), Character 1; Sun *et al*. (2022), Character 1; Zhang *et al*. (2023), Character 1; Liu *et al*. (2023), Character 1.
 
 > - If there are any comments, add them here in this way.
 
 2. Festooned pattern of sensory canals on dorsal surface of headshield: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 2; Gai *et al*. (2018), Character 2; Shan *et al*. (2020), Character 2; Jiang *et al*. (2021), Character 2; Liu *et al*. (2021), Character 2; Meng and Gai (2021), Character 2; Chen *et al*. (2022), Character 2; Shan *et al*. (2022), Character 2; Sun *et al*. (2022), Character 2; Zhang *et al*. (2023), Character 2; Liu *et al*. (2023), Character 2.
+> Zhu and Gai (2006; 2007), Character 2; Gai *et al*. (2018), Character 2; Shan *et al*. (2020), Character 2; Jiang *et al*. (2021), Character 2; Liu *et al*. (2021), Character 2; Meng and Gai (2021), Character 2; Chen *et al*. (2022), Character 2; Shan *et al*. (2022), Character 2; Sun *et al*. (2022), Character 2; Zhang *et al*. (2023), Character 2; Liu *et al*. (2023), Character 2.
 
 3. Aspidine tubercles: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 3; Gai *et al*. (2018), Character 3; Shan *et al*. (2020), Character 3; Jiang *et al*. (2021), Character 3; Liu *et al*. (2021), Character 3; Meng and Gai (2021), Character 3; Chen *et al*. (2022), Character 3; Shan *et al*. (2022), Character 3; Sun *et al*. (2022), Character 3; Zhang *et al*. (2023), Character 3; Liu *et al*. (2023), Character 3.
+> Zhu and Gai (2006; 2007), Character 3; Gai *et al*. (2018), Character 3; Shan *et al*. (2020), Character 3; Jiang *et al*. (2021), Character 3; Liu *et al*. (2021), Character 3; Meng and Gai (2021), Character 3; Chen *et al*. (2022), Character 3; Shan *et al*. (2022), Character 3; Sun *et al*. (2022), Character 3; Zhang *et al*. (2023), Character 3; Liu *et al*. (2023), Character 3.
 
 4. Shape of headshield: (0) trapezoid-like; (1) triangular-like; (2) oval-like; (3) armet-like; (4) fork-like.
    
-> Zhu and Gai (2006), Character 4; Gai *et al*. (2018), Character 4; Shan *et al*. (2020), Character 4; Jiang *et al*. (2021), Character 4; Liu *et al*. (2021), Character 4; Meng and Gai (2021), Character 4; Chen *et al*. (2022), Character 4; Shan *et al*. (2022), Character 4; Sun *et al*. (2022), Character 4; Zhang *et al*. (2023), Character 4; Liu *et al*. (2023), Character 4.
+> Zhu and Gai (2006; 2007), Character 4; Gai *et al*. (2018), Character 4; Shan *et al*. (2020), Character 4; Jiang *et al*. (2021), Character 4; Liu *et al*. (2021), Character 4; Meng and Gai (2021), Character 4; Chen *et al*. (2022), Character 4; Shan *et al*. (2022), Character 4; Sun *et al*. (2022), Character 4; Zhang *et al*. (2023), Character 4; Liu *et al*. (2023), Character 4.
 
 5. Margin of headshield: (0) serrated; (1) smooth.
 
-> Zhu and Gai (2006), Character 5; Gai *et al*. (2018), Character 5; Shan *et al*. (2020), Character 5; Jiang *et al*. (2021), Character 5; Liu *et al*. (2021), Character 5; Meng and Gai (2021), Character 5; Chen *et al*. (2022), Character 5; Shan *et al*. (2022), Character 5; Sun *et al*. (2022), Character 5; Zhang *et al*. (2023), Character 5; Liu *et al*. (2023), Character 5.
+> Zhu and Gai (2006; 2007), Character 5; Gai *et al*. (2018), Character 5; Shan *et al*. (2020), Character 5; Jiang *et al*. (2021), Character 5; Liu *et al*. (2021), Character 5; Meng and Gai (2021), Character 5; Chen *et al*. (2022), Character 5; Shan *et al*. (2022), Character 5; Sun *et al*. (2022), Character 5; Zhang *et al*. (2023), Character 5; Liu *et al*. (2023), Character 5.
 
 6. Shape of median dorsal opening: (0) transverse slit-like; (1) oval-like; (2) slender longitudinal oval;（3）transverse crescent.
 
-> Zhu and Gai (2006), Character 6; Gai *et al*. (2018), Character 6; Shan *et al*. (2020), Character 6; Jiang *et al*. (2021), Character 6; Liu *et al*. (2021), Character 6; Meng and Gai (2021), Character 6; Chen *et al*. (2022), Character 6; Shan *et al*. (2022), Character 6; Sun *et al*. (2022), Character 6; Zhang *et al*. (2023), Character 6; Liu *et al*. (2023), Character 6.
+> Zhu and Gai (2006; 2007), Character 6; Gai *et al*. (2018), Character 6; Shan *et al*. (2020), Character 6; Jiang *et al*. (2021), Character 6; Liu *et al*. (2021), Character 6; Meng and Gai (2021), Character 6; Chen *et al*. (2022), Character 6; Shan *et al*. (2022), Character 6; Sun *et al*. (2022), Character 6; Zhang *et al*. (2023), Character 6; Liu *et al*. (2023), Character 6.
 
 > - The state 'transverse crescent' was added by **which reference**?
 
 7. Longitudinal oval dorsal opening: (0) not slit-like (length/width<6); (1) slit-like (length/width>6).
 
-> Zhu and Gai (2006), Character 7; Gai *et al*. (2018), Character 7; Shan *et al*. (2020), Character 7; Jiang *et al*. (2021), Character 7; Liu *et al*. (2021), Character 7; Meng and Gai (2021), Character 7; Chen *et al*. (2022), Character 7; Shan *et al*. (2022), Character 7; Sun *et al*. (2022), Character 7; Zhang *et al*. (2023), Character 7; Liu *et al*. (2023), Character 7.
+> Zhu and Gai (2006; 2007), Character 7; Gai *et al*. (2018), Character 7; Shan *et al*. (2020), Character 7; Jiang *et al*. (2021), Character 7; Liu *et al*. (2021), Character 7; Meng and Gai (2021), Character 7; Chen *et al*. (2022), Character 7; Shan *et al*. (2022), Character 7; Sun *et al*. (2022), Character 7; Zhang *et al*. (2023), Character 7; Liu *et al*. (2023), Character 7.
 
 8. Heart-shaped median dorsal opening: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 8; Gai *et al*. (2018), Character 8; Shan *et al*. (2020), Character 8; Jiang *et al*. (2021), Character 8; Liu *et al*. (2021), Character 8; Meng and Gai (2021), Character 8; Chen *et al*. (2022), Character 8; Shan *et al*. (2022), Character 8; Sun *et al*. (2022), Character 8; Zhang *et al*. (2023), Character 8; Liu *et al*. (2023), Character 8.
+> Zhu and Gai (2006; 2007), Character 8; Gai *et al*. (2018), Character 8; Shan *et al*. (2020), Character 8; Jiang *et al*. (2021), Character 8; Liu *et al*. (2021), Character 8; Meng and Gai (2021), Character 8; Chen *et al*. (2022), Character 8; Shan *et al*. (2022), Character 8; Sun *et al*. (2022), Character 8; Zhang *et al*. (2023), Character 8; Liu *et al*. (2023), Character 8.
 
 9. Position of median dorsal opening: (0) not subterminal; (1) subterminal.
 
-> Zhu and Gai (2006), Character 9; Gai *et al*. (2018), Character 9; Shan *et al*. (2020), Character 9; Jiang *et al*. (2021), Character 9; Liu *et al*. (2021), Character 9; Meng and Gai (2021), Character 9; Chen *et al*. (2022), Character 9; Shan *et al*. (2022), Character 9; Sun *et al*. (2022), Character 9; Zhang *et al*. (2023), Character 9; Liu *et al*. (2023), Character 9.
+> Zhu and Gai (2006; 2007), Character 9; Gai *et al*. (2018), Character 9; Shan *et al*. (2020), Character 9; Jiang *et al*. (2021), Character 9; Liu *et al*. (2021), Character 9; Meng and Gai (2021), Character 9; Chen *et al*. (2022), Character 9; Shan *et al*. (2022), Character 9; Sun *et al*. (2022), Character 9; Zhang *et al*. (2023), Character 9; Liu *et al*. (2023), Character 9.
 
 10. Anterior end of median dorsal opening: (0) subterminal; (1) some distance behind rostral margin of shield; (2) terminal.
 
-> Zhu and Gai (2006), Character 10; Gai *et al*. (2018), Character 10; Shan *et al*. (2020), Character 10; Jiang *et al*. (2021), Character 10; Liu *et al*. (2021), Character 10; Meng and Gai (2021), Character 10; Chen *et al*. (2022), Character 10; Shan *et al*. (2022), Character 10; Sun *et al*. (2022), Character 10; Zhang *et al*. (2023), Character 10; Liu *et al*. (2023), Character 10.
+> Zhu and Gai (2006; 2007), Character 10; Gai *et al*. (2018), Character 10; Shan *et al*. (2020), Character 10; Jiang *et al*. (2021), Character 10; Liu *et al*. (2021), Character 10; Meng and Gai (2021), Character 10; Chen *et al*. (2022), Character 10; Shan *et al*. (2022), Character 10; Sun *et al*. (2022), Character 10; Zhang *et al*. (2023), Character 10; Liu *et al*. (2023), Character 10.
 
 11. Posterior end of median dorsal opening: (0) in front of or level with anterior margin of orbital opening; (1) between anterior margin of orbital opening and posterior margin of orbital opening; (2) posteriorly beyond posterior margin of orbital opening.
 
-> Zhu and Gai (2006), Character 11; Gai *et al*. (2018), Character 11; Shan *et al*. (2020), Character 11; Jiang *et al*. (2021), Character 11; Liu *et al*. (2021), Character 11; Meng and Gai (2021), Character 11; Chen *et al*. (2022), Character 11; Shan *et al*. (2022), Character 11; Sun *et al*. (2022), Character 11; Zhang *et al*. (2023), Character 11; Liu *et al*. (2023), Character 11.
+> Zhu and Gai (2006; 2007), Character 11; Gai *et al*. (2018), Character 11; Shan *et al*. (2020), Character 11; Jiang *et al*. (2021), Character 11; Liu *et al*. (2021), Character 11; Meng and Gai (2021), Character 11; Chen *et al*. (2022), Character 11; Shan *et al*. (2022), Character 11; Sun *et al*. (2022), Character 11; Zhang *et al*. (2023), Character 11; Liu *et al*. (2023), Character 11.
 
 12. Size of orbital openings: (0) large; (1) small.
 
-> Zhu and Gai (2006), Character 12; Gai *et al*. (2018), Character 12; Shan *et al*. (2020), Character 12; Jiang *et al*. (2021), Character 12; Liu *et al*. (2021), Character 12; Meng and Gai (2021), Character 12; Chen *et al*. (2022), Character 12; Shan *et al*. (2022), Character 12; Sun *et al*. (2022), Character 12; Zhang *et al*. (2023), Character 12; Liu *et al*. (2023), Character 12.
+> Zhu and Gai (2006; 2007), Character 12; Gai *et al*. (2018), Character 12; Shan *et al*. (2020), Character 12; Jiang *et al*. (2021), Character 12; Liu *et al*. (2021), Character 12; Meng and Gai (2021), Character 12; Chen *et al*. (2022), Character 12; Shan *et al*. (2022), Character 12; Sun *et al*. (2022), Character 12; Zhang *et al*. (2023), Character 12; Liu *et al*. (2023), Character 12.
 
 13. Position of orbital openings: (0) dorsal position and close to mid-line of headshield; (1) dorsal position and not close to mid-line of headshield; (2) lateral position; (3) ventrolaterally placed.
 
-> Zhu and Gai (2006), Character 13; Gai *et al*. (2018), Character 13; Shan *et al*. (2020), Character 13; Jiang *et al*. (2021), Character 13; Liu *et al*. (2021), Character 13; Meng and Gai (2021), Character 13; Chen *et al*. (2022), Character 13; Shan *et al*. (2022), Character 13; Sun *et al*. (2022), Character 13; Zhang *et al*. (2023), Character 13; Liu *et al*. (2023), Character 13.
+> Zhu and Gai (2006; 2007), Character 13; Gai *et al*. (2018), Character 13; Shan *et al*. (2020), Character 13; Jiang *et al*. (2021), Character 13; Liu *et al*. (2021), Character 13; Meng and Gai (2021), Character 13; Chen *et al*. (2022), Character 13; Shan *et al*. (2022), Character 13; Sun *et al*. (2022), Character 13; Zhang *et al*. (2023), Character 13; Liu *et al*. (2023), Character 13.
 
 > - The state 'ventrolaterally placed' was added by **which reference**?
 
 14. Cornual process: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 14; Gai *et al*. (2018), Character 14; Shan *et al*. (2020), Character 14; Jiang *et al*. (2021), Character 14; Liu *et al*. (2021), Character 14; Meng and Gai (2021), Character 14; Chen *et al*. (2022), Character 14; Shan *et al*. (2022), Character 14; Sun *et al*. (2022), Character 14; Zhang *et al*. (2023), Character 14; Liu *et al*. (2023), Character 14.
+> Zhu and Gai (2006; 2007), Character 14; Gai *et al*. (2018), Character 14; Shan *et al*. (2020), Character 14; Jiang *et al*. (2021), Character 14; Liu *et al*. (2021), Character 14; Meng and Gai (2021), Character 14; Chen *et al*. (2022), Character 14; Shan *et al*. (2022), Character 14; Sun *et al*. (2022), Character 14; Zhang *et al*. (2023), Character 14; Liu *et al*. (2023), Character 14.
 
 15. Extending trajectory of cornual process: (0) projecting posterolaterally; (1) projecting laterally; (2) projecting backward.
 
-> Zhu and Gai (2006), Character 15; Gai *et al*. (2018), Character 15; Shan *et al*. (2020), Character 15; Jiang *et al*. (2021), Character 15; Liu *et al*. (2021), Character 15; Meng and Gai (2021), Character 15; Chen *et al*. (2022), Character 15; Shan *et al*. (2022), Character 15; Sun *et al*. (2022), Character 15; Zhang *et al*. (2023), Character 15; Liu *et al*. (2023), Character 15.
+> Zhu and Gai (2006; 2007), Character 15; Gai *et al*. (2018), Character 15; Shan *et al*. (2020), Character 15; Jiang *et al*. (2021), Character 15; Liu *et al*. (2021), Character 15; Meng and Gai (2021), Character 15; Chen *et al*. (2022), Character 15; Shan *et al*. (2022), Character 15; Sun *et al*. (2022), Character 15; Zhang *et al*. (2023), Character 15; Liu *et al*. (2023), Character 15.
 
 16. Portion of headshield behind cornual process: (0) short; (1) long.
 
-> Zhu and Gai (2006), Character 16; Gai *et al*. (2018), Character 16; Shan *et al*. (2020), Character 16; Jiang *et al*. (2021), Character 16; Liu *et al*. (2021), Character 16; Meng and Gai (2021), Character 16; Chen *et al*. (2022), Character 16; Shan *et al*. (2022), Character 16; Sun *et al*. (2022), Character 16; Zhang *et al*. (2023), Character 16; Liu *et al*. (2023), Character 16.
+> Zhu and Gai (2006; 2007), Character 16; Gai *et al*. (2018), Character 16; Shan *et al*. (2020), Character 16; Jiang *et al*. (2021), Character 16; Liu *et al*. (2021), Character 16; Meng and Gai (2021), Character 16; Chen *et al*. (2022), Character 16; Shan *et al*. (2022), Character 16; Sun *et al*. (2022), Character 16; Zhang *et al*. (2023), Character 16; Liu *et al*. (2023), Character 16.
 
 17. Position of cornual process base: (0) near posterior end of headshield; (1) away from posterior end of headshield.
 
-> Zhu and Gai (2006), Character 17; Gai *et al*. (2018), Character 17; Shan *et al*. (2020), Character 17; Jiang *et al*. (2021), Character 17; Liu *et al*. (2021), Character 17; Meng and Gai (2021), Character 17; Chen *et al*. (2022), Character 17; Shan *et al*. (2022), Character 17; Sun *et al*. (2022), Character 17; Zhang *et al*. (2023), Character 17; Liu *et al*. (2023), Character 17.
+> Zhu and Gai (2006; 2007), Character 17; Gai *et al*. (2018), Character 17; Shan *et al*. (2020), Character 17; Jiang *et al*. (2021), Character 17; Liu *et al*. (2021), Character 17; Meng and Gai (2021), Character 17; Chen *et al*. (2022), Character 17; Shan *et al*. (2022), Character 17; Sun *et al*. (2022), Character 17; Zhang *et al*. (2023), Character 17; Liu *et al*. (2023), Character 17.
 
 18. Spines on cornual process: (0) absent;  (1) present.
 
-> Zhu and Gai (2006), Character 18; Gai *et al*. (2018), Character 18; Shan *et al*. (2020), Character 18; Jiang *et al*. (2021), Character 18; Liu *et al*. (2021), Character 18; Meng and Gai (2021), Character 18; Chen *et al*. (2022), Character 18; Shan *et al*. (2022), Character 18; Sun *et al*. (2022), Character 18; Zhang *et al*. (2023), Character 18; Liu *et al*. (2023), Character 18.
+> Zhu and Gai (2006; 2007), Character 18; Gai *et al*. (2018), Character 18; Shan *et al*. (2020), Character 18; Jiang *et al*. (2021), Character 18; Liu *et al*. (2021), Character 18; Meng and Gai (2021), Character 18; Chen *et al*. (2022), Character 18; Shan *et al*. (2022), Character 18; Sun *et al*. (2022), Character 18; Zhang *et al*. (2023), Character 18; Liu *et al*. (2023), Character 18.
 
 19. Inner cornual process: (0) present; (1) absent.
 
-> Zhu and Gai (2006), Character 19; Gai *et al*. (2018), Character 19; Shan *et al*. (2020), Character 19; Jiang *et al*. (2021), Character 19; Liu *et al*. (2021), Character 19; Meng and Gai (2021), Character 19; Chen *et al*. (2022), Character 19; Shan *et al*. (2022), Character 19; Sun *et al*. (2022), Character 19; Zhang *et al*. (2023), Character 19; Liu *et al*. (2023), Character 19.
+> Zhu and Gai (2006; 2007), Character 19; Gai *et al*. (2018), Character 19; Shan *et al*. (2020), Character 19; Jiang *et al*. (2021), Character 19; Liu *et al*. (2021), Character 19; Meng and Gai (2021), Character 19; Chen *et al*. (2022), Character 19; Shan *et al*. (2022), Character 19; Sun *et al*. (2022), Character 19; Zhang *et al*. (2023), Character 19; Liu *et al*. (2023), Character 19.
 
 20. Shape of inner cornual process: (0) broad leaf-shaped; (1) spine-shaped.
 
-> Zhu and Gai (2006), Character 20; Gai *et al*. (2018), Character 20; Shan *et al*. (2020), Character 20; Jiang *et al*. (2021), Character 20; Liu *et al*. (2021), Character 20; Meng and Gai (2021), Character 20; Chen *et al*. (2022), Character 20; Shan *et al*. (2022), Character 20; Sun *et al*. (2022), Character 20; Zhang *et al*. (2023), Character 20; Liu *et al*. (2023), Character 20.
+> Zhu and Gai (2006; 2007), Character 20; Gai *et al*. (2018), Character 20; Shan *et al*. (2020), Character 20; Jiang *et al*. (2021), Character 20; Liu *et al*. (2021), Character 20; Meng and Gai (2021), Character 20; Chen *et al*. (2022), Character 20; Shan *et al*. (2022), Character 20; Sun *et al*. (2022), Character 20; Zhang *et al*. (2023), Character 20; Liu *et al*. (2023), Character 20.
 
 21. Rostral margin of headshield: (0) without rostral angle; (1) with rostral angle.
 
-> Zhu and Gai (2006), Character 21; Gai *et al*. (2018), Character 21; Shan *et al*. (2020), Character 21; Jiang *et al*. (2021), Character 21; Liu *et al*. (2021), Character 21; Meng and Gai (2021), Character 21; Chen *et al*. (2022), Character 21; Shan *et al*. (2022), Character 21; Sun *et al*. (2022), Character 21; Zhang *et al*. (2023), Character 21; Liu *et al*. (2023), Character 21.
+> Zhu and Gai (2006; 2007), Character 21; Gai *et al*. (2018), Character 21; Shan *et al*. (2020), Character 21; Jiang *et al*. (2021), Character 21; Liu *et al*. (2021), Character 21; Meng and Gai (2021), Character 21; Chen *et al*. (2022), Character 21; Shan *et al*. (2022), Character 21; Sun *et al*. (2022), Character 21; Zhang *et al*. (2023), Character 21; Liu *et al*. (2023), Character 21.
 
 22. Rostral process: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 22; Gai *et al*. (2018), Character 22; Shan *et al*. (2020), Character 22; Jiang *et al*. (2021), Character 22; Liu *et al*. (2021), Character 22; Meng and Gai (2021), Character 22; Chen *et al*. (2022), Character 22; Shan *et al*. (2022), Character 22; Sun *et al*. (2022), Character 22; Zhang *et al*. (2023), Character 22; Liu *et al*. (2023), Character 22.
+> Zhu and Gai (2006; 2007), Character 22; Gai *et al*. (2018), Character 22; Shan *et al*. (2020), Character 22; Jiang *et al*. (2021), Character 22; Liu *et al*. (2021), Character 22; Meng and Gai (2021), Character 22; Chen *et al*. (2022), Character 22; Shan *et al*. (2022), Character 22; Sun *et al*. (2022), Character 22; Zhang *et al*. (2023), Character 22; Liu *et al*. (2023), Character 22.
 
 23. Shape of rostral process: (0) broad; (1) slender.
 
-> Zhu and Gai (2006), Character 23; Gai *et al*. (2018), Character 23; Shan *et al*. (2020), Character 23; Jiang *et al*. (2021), Character 23; Liu *et al*. (2021), Character 23; Meng and Gai (2021), Character 23; Chen *et al*. (2022), Character 23; Shan *et al*. (2022), Character 23; Sun *et al*. (2022), Character 23; Zhang *et al*. (2023), Character 23; Liu *et al*. (2023), Character 23.
+> Zhu and Gai (2006; 2007), Character 23; Gai *et al*. (2018), Character 23; Shan *et al*. (2020), Character 23; Jiang *et al*. (2021), Character 23; Liu *et al*. (2021), Character 23; Meng and Gai (2021), Character 23; Chen *et al*. (2022), Character 23; Shan *et al*. (2022), Character 23; Sun *et al*. (2022), Character 23; Zhang *et al*. (2023), Character 23; Liu *et al*. (2023), Character 23.
 
 24. Spines or tubercles on margin of rostral process: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 24; Gai *et al*. (2018), Character 24; Shan *et al*. (2020), Character 24; Jiang *et al*. (2021), Character 24; Liu *et al*. (2021), Character 24; Meng and Gai (2021), Character 24; Chen *et al*. (2022), Character 24; Shan *et al*. (2022), Character 24; Sun *et al*. (2022), Character 24; Zhang *et al*. (2023), Character 24; Liu *et al*. (2023), Character 24.
+> Zhu and Gai (2006; 2007), Character 24; Gai *et al*. (2018), Character 24; Shan *et al*. (2020), Character 24; Jiang *et al*. (2021), Character 24; Liu *et al*. (2021), Character 24; Meng and Gai (2021), Character 24; Chen *et al*. (2022), Character 24; Shan *et al*. (2022), Character 24; Sun *et al*. (2022), Character 24; Zhang *et al*. (2023), Character 24; Liu *et al*. (2023), Character 24.
 
 25. Fenestrae on dorsal surface of headshield: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 25; Gai *et al*. (2018), Character 25; Shan *et al*. (2020), Character 25; Jiang *et al*. (2021), Character 25; Liu *et al*. (2021), Character 25; Meng and Gai (2021), Character 25; Chen *et al*. (2022), Character 25; Shan *et al*. (2022), Character 25; Sun *et al*. (2022), Character 25; Zhang *et al*. (2023), Character 25; Liu *et al*. (2023), Character 25.
+> Zhu and Gai (2006; 2007), Character 25; Gai *et al*. (2018), Character 25; Shan *et al*. (2020), Character 25; Jiang *et al*. (2021), Character 25; Liu *et al*. (2021), Character 25; Meng and Gai (2021), Character 25; Chen *et al*. (2022), Character 25; Shan *et al*. (2022), Character 25; Sun *et al*. (2022), Character 25; Zhang *et al*. (2023), Character 25; Liu *et al*. (2023), Character 25.
 
 26. Size of dorsal fenestra: (0) small; (1) large.
 
-> Zhu and Gai (2006), Character 26; Gai *et al*. (2018), Character 26; Shan *et al*. (2020), Character 26; Jiang *et al*. (2021), Character 26; Liu *et al*. (2021), Character 26; Meng and Gai (2021), Character 26; Chen *et al*. (2022), Character 26; Shan *et al*. (2022), Character 26; Sun *et al*. (2022), Character 26; Zhang *et al*. (2023), Character 26; Liu *et al*. (2023), Character 26.
+> Zhu and Gai (2006; 2007), Character 26; Gai *et al*. (2018), Character 26; Shan *et al*. (2020), Character 26; Jiang *et al*. (2021), Character 26; Liu *et al*. (2021), Character 26; Meng and Gai (2021), Character 26; Chen *et al*. (2022), Character 26; Shan *et al*. (2022), Character 26; Sun *et al*. (2022), Character 26; Zhang *et al*. (2023), Character 26; Liu *et al*. (2023), Character 26.
 
 27. Shape of dorsal fenestra: (0) slender oval-like; (1) broad bean-like.
 
-> Zhu and Gai (2006), Character 27; Gai *et al*. (2018), Character 27; Shan *et al*. (2020), Character 27; Jiang *et al*. (2021), Character 27; Liu *et al*. (2021), Character 27; Meng and Gai (2021), Character 27; Chen *et al*. (2022), Character 27; Shan *et al*. (2022), Character 27; Sun *et al*. (2022), Character 27; Zhang *et al*. (2023), Character 27; Liu *et al*. (2023), Character 27.
+> Zhu and Gai (2006; 2007), Character 27; Gai *et al*. (2018), Character 27; Shan *et al*. (2020), Character 27; Jiang *et al*. (2021), Character 27; Liu *et al*. (2021), Character 27; Meng and Gai (2021), Character 27; Chen *et al*. (2022), Character 27; Shan *et al*. (2022), Character 27; Sun *et al*. (2022), Character 27; Zhang *et al*. (2023), Character 27; Liu *et al*. (2023), Character 27.
 
 28. Position of dorsal fenestra: (0) lateral-dorsal position; (1) dorsal position.
 
-> Zhu and Gai (2006), Character 28; Gai *et al*. (2018), Character 28; Shan *et al*. (2020), Character 28; Jiang *et al*. (2021), Character 28; Liu *et al*. (2021), Character 28; Meng and Gai (2021), Character 28; Chen *et al*. (2022), Character 28; Shan *et al*. (2022), Character 28; Sun *et al*. (2022), Character 28; Zhang *et al*. (2023), Character 28; Liu *et al*. (2023), Character 28.
+> Zhu and Gai (2006; 2007), Character 28; Gai *et al*. (2018), Character 28; Shan *et al*. (2020), Character 28; Jiang *et al*. (2021), Character 28; Liu *et al*. (2021), Character 28; Meng and Gai (2021), Character 28; Chen *et al*. (2022), Character 28; Shan *et al*. (2022), Character 28; Sun *et al*. (2022), Character 28; Zhang *et al*. (2023), Character 28; Liu *et al*. (2023), Character 28.
 
 29. Position of dorsal fenestra relative to orbital opening: (0) orbital opening inside, fenestra outside; (1) orbital opening outside, fenestra inside.
 
-> Zhu and Gai (2006), Character 29; Gai *et al*. (2018), Character 29; Shan *et al*. (2020), Character 29; Jiang *et al*. (2021), Character 29; Liu *et al*. (2021), Character 29; Meng and Gai (2021), Character 29; Chen *et al*. (2022), Character 29; Shan *et al*. (2022), Character 29; Sun *et al*. (2022), Character 29; Zhang *et al*. (2023), Character 29; Liu *et al*. (2023), Character 29.
+> Zhu and Gai (2006; 2007), Character 29; Gai *et al*. (2018), Character 29; Shan *et al*. (2020), Character 29; Jiang *et al*. (2021), Character 29; Liu *et al*. (2021), Character 29; Meng and Gai (2021), Character 29; Chen *et al*. (2022), Character 29; Shan *et al*. (2022), Character 29; Sun *et al*. (2022), Character 29; Zhang *et al*. (2023), Character 29; Liu *et al*. (2023), Character 29.
 
 30. Median transverse canals: (0) two; (1) one; (2) more than two.
 
-> Zhu and Gai (2006), Character 30; Gai *et al*. (2018), Character 30; Shan *et al*. (2020), Character 30; Jiang *et al*. (2021), Character 30; Liu *et al*. (2021), Character 30; Meng and Gai (2021), Character 30; Chen *et al*. (2022), Character 30; Shan *et al*. (2022), Character 30; Sun *et al*. (2022), Character 30; Zhang *et al*. (2023), Character 30; Liu *et al*. (2023), Character 30.
+> Zhu and Gai (2006; 2007), Character 30; Gai *et al*. (2018), Character 30; Shan *et al*. (2020), Character 30; Jiang *et al*. (2021), Character 30; Liu *et al*. (2021), Character 30; Meng and Gai (2021), Character 30; Chen *et al*. (2022), Character 30; Shan *et al*. (2022), Character 30; Sun *et al*. (2022), Character 30; Zhang *et al*. (2023), Character 30; Liu *et al*. (2023), Character 30.
 
 31. Short branches running from posterior supraorbital canal: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 31; Gai *et al*. (2018), Character 31; Shan *et al*. (2020), Character 31; Jiang *et al*. (2021), Character 31; Liu *et al*. (2021), Character 31; Meng and Gai (2021), Character 31; Chen *et al*. (2022), Character 31; Shan *et al*. (2022), Character 31; Sun *et al*. (2022), Character 31; Zhang *et al*. (2023), Character 31; Liu *et al*. (2023), Character 31.
+> Zhu and Gai (2006; 2007), Character 31; Gai *et al*. (2018), Character 31; Shan *et al*. (2020), Character 31; Jiang *et al*. (2021), Character 31; Liu *et al*. (2021), Character 31; Meng and Gai (2021), Character 31; Chen *et al*. (2022), Character 31; Shan *et al*. (2022), Character 31; Sun *et al*. (2022), Character 31; Zhang *et al*. (2023), Character 31; Liu *et al*. (2023), Character 31.
 
 32.  Lateral transverse canal: (0) short; (1) long.
 
-> Zhu and Gai (2006), Character 32; Gai *et al*. (2018), Character 32; Shan *et al*. (2020), Character 32; Jiang *et al*. (2021), Character 32; Liu *et al*. (2021), Character 32; Meng and Gai (2021), Character 32; Chen *et al*. (2022), Character 32; Shan *et al*. (2022), Character 32; Sun *et al*. (2022), Character 32; Zhang *et al*. (2023), Character 32; Liu *et al*. (2023), Character 32.
+> Zhu and Gai (2006; 2007), Character 32; Gai *et al*. (2018), Character 32; Shan *et al*. (2020), Character 32; Jiang *et al*. (2021), Character 32; Liu *et al*. (2021), Character 32; Meng and Gai (2021), Character 32; Chen *et al*. (2022), Character 32; Shan *et al*. (2022), Character 32; Sun *et al*. (2022), Character 32; Zhang *et al*. (2023), Character 32; Liu *et al*. (2023), Character 32.
 
 33. Branching end of lateral transverse canal: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 33; Gai *et al*. (2018), Character 33; Shan *et al*. (2020), Character 33; Jiang *et al*. (2021), Character 33; Liu *et al*. (2021), Character 33; Meng and Gai (2021), Character 33; Chen *et al*. (2022), Character 33; Shan *et al*. (2022), Character 33; Sun *et al*. (2022), Character 33; Zhang *et al*. (2023), Character 33; Liu *et al*. (2023), Character 33.
+> Zhu and Gai (2006; 2007), Character 33; Gai *et al*. (2018), Character 33; Shan *et al*. (2020), Character 33; Jiang *et al*. (2021), Character 33; Liu *et al*. (2021), Character 33; Meng and Gai (2021), Character 33; Chen *et al*. (2022), Character 33; Shan *et al*. (2022), Character 33; Sun *et al*. (2022), Character 33; Zhang *et al*. (2023), Character 33; Liu *et al*. (2023), Character 33.
 
 34. Lateral transverse canals leaving from infraorbital canal: (0) present; (1) absent.
 
-> Zhu and Gai (2006), Character 34; Gai *et al*. (2018), Character 34; Shan *et al*. (2020), Character 34; Jiang *et al*. (2021), Character 34; Liu *et al*. (2021), Character 34; Meng and Gai (2021), Character 34; Chen *et al*. (2022), Character 34; Shan *et al*. (2022), Character 34; Sun *et al*. (2022), Character 34; Zhang *et al*. (2023), Character 34; Liu *et al*. (2023), Character 34.
+> Zhu and Gai (2006; 2007), Character 34; Gai *et al*. (2018), Character 34; Shan *et al*. (2020), Character 34; Jiang *et al*. (2021), Character 34; Liu *et al*. (2021), Character 34; Meng and Gai (2021), Character 34; Chen *et al*. (2022), Character 34; Shan *et al*. (2022), Character 34; Sun *et al*. (2022), Character 34; Zhang *et al*. (2023), Character 34; Liu *et al*. (2023), Character 34.
 
 35. Lateral transverse canals leaving from infraorbital canal before lateral transverse canal d: (0) present; (1) absent.
 
-> Zhu and Gai (2006), Character 35; Gai *et al*. (2018), Character 35; Shan *et al*. (2020), Character 35; Jiang *et al*. (2021), Character 35; Liu *et al*. (2021), Character 35; Meng and Gai (2021), Character 35; Chen *et al*. (2022), Character 35; Shan *et al*. (2022), Character 35; Sun *et al*. (2022), Character 35; Zhang *et al*. (2023), Character 35; Liu *et al*. (2023), Character 35.
+> Zhu and Gai (2006; 2007), Character 35; Gai *et al*. (2018), Character 35; Shan *et al*. (2020), Character 35; Jiang *et al*. (2021), Character 35; Liu *et al*. (2021), Character 35; Meng and Gai (2021), Character 35; Chen *et al*. (2022), Character 35; Shan *et al*. (2022), Character 35; Sun *et al*. (2022), Character 35; Zhang *et al*. (2023), Character 35; Liu *et al*. (2023), Character 35.
 
 36. Fourth lateral transverse canal: (0) present; (1) absent.
 
-> Zhu and Gai (2006), Character 36; Gai *et al*. (2018), Character 36; Shan *et al*. (2020), Character 36; Jiang *et al*. (2021), Character 36; Liu *et al*. (2021), Character 36; Meng and Gai (2021), Character 36; Chen *et al*. (2022), Character 36; Shan *et al*. (2022), Character 36; Sun *et al*. (2022), Character 36; Zhang *et al*. (2023), Character 36; Liu *et al*. (2023), Character 36.
+> Zhu and Gai (2006; 2007), Character 36; Gai *et al*. (2018), Character 36; Shan *et al*. (2020), Character 36; Jiang *et al*. (2021), Character 36; Liu *et al*. (2021), Character 36; Meng and Gai (2021), Character 36; Chen *et al*. (2022), Character 36; Shan *et al*. (2022), Character 36; Sun *et al*. (2022), Character 36; Zhang *et al*. (2023), Character 36; Liu *et al*. (2023), Character 36.
 
 37. Lateral transverse canals behind ltc4: (0) present; (1) absent.
 
-> Zhu and Gai (2006), Character 37; Gai *et al*. (2018), Character 37; Shan *et al*. (2020), Character 37; Jiang *et al*. (2021), Character 37; Liu *et al*. (2021), Character 37; Meng and Gai (2021), Character 37; Chen *et al*. (2022), Character 37; Shan *et al*. (2022), Character 37; Sun *et al*. (2022), Character 37; Zhang *et al*. (2023), Character 37; Liu *et al*. (2023), Character 37.
+> Zhu and Gai (2006; 2007), Character 37; Gai *et al*. (2018), Character 37; Shan *et al*. (2020), Character 37; Jiang *et al*. (2021), Character 37; Liu *et al*. (2021), Character 37; Meng and Gai (2021), Character 37; Chen *et al*. (2022), Character 37; Shan *et al*. (2022), Character 37; Sun *et al*. (2022), Character 37; Zhang *et al*. (2023), Character 37; Liu *et al*. (2023), Character 37.
 
 38. Anterior supraorbital canal: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 38; Gai *et al*. (2018), Character 38; Shan *et al*. (2020), Character 38; Jiang *et al*. (2021), Character 38; Liu *et al*. (2021), Character 38; Meng and Gai (2021), Character 38; Chen *et al*. (2022), Character 38; Shan *et al*. (2022), Character 38; Sun *et al*. (2022), Character 38; Zhang *et al*. (2023), Character 38; Liu *et al*. (2023), Character 38.
+> Zhu and Gai (2006; 2007), Character 38; Gai *et al*. (2018), Character 38; Shan *et al*. (2020), Character 38; Jiang *et al*. (2021), Character 38; Liu *et al*. (2021), Character 38; Meng and Gai (2021), Character 38; Chen *et al*. (2022), Character 38; Shan *et al*. (2022), Character 38; Sun *et al*. (2022), Character 38; Zhang *et al*. (2023), Character 38; Liu *et al*. (2023), Character 38.
 
 39. Posterior supraorbital canal: (0) present; (1) absent.
 
-> Zhu and Gai (2006), Character 39; Gai *et al*. (2018), Character 39; Shan *et al*. (2020), Character 39; Jiang *et al*. (2021), Character 39; Liu *et al*. (2021), Character 39; Meng and Gai (2021), Character 39; Chen *et al*. (2022), Character 39; Shan *et al*. (2022), Character 39; Sun *et al*. (2022), Character 39; Zhang *et al*. (2023), Character 39; Liu *et al*. (2023), Character 39.
+> Zhu and Gai (2006; 2007), Character 39; Gai *et al*. (2018), Character 39; Shan *et al*. (2020), Character 39; Jiang *et al*. (2021), Character 39; Liu *et al*. (2021), Character 39; Meng and Gai (2021), Character 39; Chen *et al*. (2022), Character 39; Shan *et al*. (2022), Character 39; Sun *et al*. (2022), Character 39; Zhang *et al*. (2023), Character 39; Liu *et al*. (2023), Character 39.
 
 40. Posterior supraorbital canal meets with infraorbital canal: (0) no; (1) yes.
 
-> Zhu and Gai (2006), Character 40; Gai *et al*. (2018), Character 40; Shan *et al*. (2020), Character 40; Jiang *et al*. (2021), Character 40; Liu *et al*. (2021), Character 40; Meng and Gai (2021), Character 40; Chen *et al*. (2022), Character 40; Shan *et al*. (2022), Character 40; Sun *et al*. (2022), Character 40; Zhang *et al*. (2023), Character 40; Liu *et al*. (2023), Character 40.
+> Zhu and Gai (2006; 2007), Character 40; Gai *et al*. (2018), Character 40; Shan *et al*. (2020), Character 40; Jiang *et al*. (2021), Character 40; Liu *et al*. (2021), Character 40; Meng and Gai (2021), Character 40; Chen *et al*. (2022), Character 40; Shan *et al*. (2022), Character 40; Sun *et al*. (2022), Character 40; Zhang *et al*. (2023), Character 40; Liu *et al*. (2023), Character 40.
 
 41. Posterior supraorbital canals: (0) funnel-shaped; (1) parallel; (2) V-shaped.
 
-> Zhu and Gai (2006), Character 41; Gai *et al*. (2018), Character 41; Shan *et al*. (2020), Character 41; Jiang *et al*. (2021), Character 41; Liu *et al*. (2021), Character 41; Meng and Gai (2021), Character 41; Chen *et al*. (2022), Character 41; Shan *et al*. (2022), Character 41; Sun *et al*. (2022), Character 41; Zhang *et al*. (2023), Character 41; Liu *et al*. (2023), Character 41.
+> Zhu and Gai (2006; 2007), Character 41; Gai *et al*. (2018), Character 41; Shan *et al*. (2020), Character 41; Jiang *et al*. (2021), Character 41; Liu *et al*. (2021), Character 41; Meng and Gai (2021), Character 41; Chen *et al*. (2022), Character 41; Shan *et al*. (2022), Character 41; Sun *et al*. (2022), Character 41; Zhang *et al*. (2023), Character 41; Liu *et al*. (2023), Character 41.
 
 42. Branching end of posterior supraorbital canal: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 42; Gai *et al*. (2018), Character 42; Shan *et al*. (2020), Character 42; Jiang *et al*. (2021), Character 42; Liu *et al*. (2021), Character 42; Meng and Gai (2021), Character 42; Chen *et al*. (2022), Character 42; Shan *et al*. (2022), Character 42; Sun *et al*. (2022), Character 42; Zhang *et al*. (2023), Character 42; Liu *et al*. (2023), Character 42.
+> Zhu and Gai (2006; 2007), Character 42; Gai *et al*. (2018), Character 42; Shan *et al*. (2020), Character 42; Jiang *et al*. (2021), Character 42; Liu *et al*. (2021), Character 42; Meng and Gai (2021), Character 42; Chen *et al*. (2022), Character 42; Shan *et al*. (2022), Character 42; Sun *et al*. (2022), Character 42; Zhang *et al*. (2023), Character 42; Liu *et al*. (2023), Character 42.
 
 43. Medial dorsal canal: (0) develeped; (1) degenerated; (2) absent.
 
-> Zhu and Gai (2006), Character 43; Gai *et al*. (2018), Character 43; Shan *et al*. (2020), Character 43; Jiang *et al*. (2021), Character 43; Liu *et al*. (2021), Character 43; Meng and Gai (2021), Character 43; Chen *et al*. (2022), Character 43; Shan *et al*. (2022), Character 43; Sun *et al*. (2022), Character 43; Zhang *et al*. (2023), Character 43; Liu *et al*. (2023), Character 43.
+> Zhu and Gai (2006; 2007), Character 43; Gai *et al*. (2018), Character 43; Shan *et al*. (2020), Character 43; Jiang *et al*. (2021), Character 43; Liu *et al*. (2021), Character 43; Meng and Gai (2021), Character 43; Chen *et al*. (2022), Character 43; Shan *et al*. (2022), Character 43; Sun *et al*. (2022), Character 43; Zhang *et al*. (2023), Character 43; Liu *et al*. (2023), Character 43.
 
 44. Medial dorsal canal and posterior supraorbital canal: (0) unjointed; (1) contact.
 
-> Zhu and Gai (2006), Character 44; Gai *et al*. (2018), Character 44; Shan *et al*. (2020), Character 44; Jiang *et al*. (2021), Character 44; Liu *et al*. (2021), Character 44; Meng and Gai (2021), Character 44; Chen *et al*. (2022), Character 44; Shan *et al*. (2022), Character 44; Sun *et al*. (2022), Character 44; Zhang *et al*. (2023), Character 44; Liu *et al*. (2023), Character 44.
+> Zhu and Gai (2006; 2007), Character 44; Gai *et al*. (2018), Character 44; Shan *et al*. (2020), Character 44; Jiang *et al*. (2021), Character 44; Liu *et al*. (2021), Character 44; Meng and Gai (2021), Character 44; Chen *et al*. (2022), Character 44; Shan *et al*. (2022), Character 44; Sun *et al*. (2022), Character 44; Zhang *et al*. (2023), Character 44; Liu *et al*. (2023), Character 44.
 
 45. U-shaped medial dorsal canal: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 45; Gai *et al*. (2018), Character 45; Shan *et al*. (2020), Character 45; Jiang *et al*. (2021), Character 45; Liu *et al*. (2021), Character 45; Meng and Gai (2021), Character 45; Chen *et al*. (2022), Character 45; Shan *et al*. (2022), Character 45; Sun *et al*. (2022), Character 45; Zhang *et al*. (2023), Character 45; Liu *et al*. (2023), Character 45.
+> Zhu and Gai (2006; 2007), Character 45; Gai *et al*. (2018), Character 45; Shan *et al*. (2020), Character 45; Jiang *et al*. (2021), Character 45; Liu *et al*. (2021), Character 45; Meng and Gai (2021), Character 45; Chen *et al*. (2022), Character 45; Shan *et al*. (2022), Character 45; Sun *et al*. (2022), Character 45; Zhang *et al*. (2023), Character 45; Liu *et al*. (2023), Character 45.
 
 46. Portion of headshield behind dorsal commissure proportionally: (0) long;  (1) short.
 
-> Zhu and Gai (2006), Character 46; Gai *et al*. (2018), Character 46; Shan *et al*. (2020), Character 46; Jiang *et al*. (2021), Character 46; Liu *et al*. (2021), Character 46; Meng and Gai (2021), Character 46; Chen *et al*. (2022), Character 46; Shan *et al*. (2022), Character 46; Sun *et al*. (2022), Character 46; Zhang *et al*. (2023), Character 46; Liu *et al*. (2023), Character 46.
+> Zhu and Gai (2006; 2007), Character 46; Gai *et al*. (2018), Character 46; Shan *et al*. (2020), Character 46; Jiang *et al*. (2021), Character 46; Liu *et al*. (2021), Character 46; Meng and Gai (2021), Character 46; Chen *et al*. (2022), Character 46; Shan *et al*. (2022), Character 46; Sun *et al*. (2022), Character 46; Zhang *et al*. (2023), Character 46; Liu *et al*. (2023), Character 46.
 
 47. Postbranchial wall: (0) short; (1) long.
 
-> Zhu and Gai (2006), Character 47; Gai *et al*. (2018), Character 47; Shan *et al*. (2020), Character 47; Jiang *et al*. (2021), Character 47; Liu *et al*. (2021), Character 47; Meng and Gai (2021), Character 47; Chen *et al*. (2022), Character 47; Shan *et al*. (2022), Character 47; Sun *et al*. (2022), Character 47; Zhang *et al*. (2023), Character 47; Liu *et al*. (2023), Character 47.
+> Zhu and Gai (2006; 2007), Character 47; Gai *et al*. (2018), Character 47; Shan *et al*. (2020), Character 47; Jiang *et al*. (2021), Character 47; Liu *et al*. (2021), Character 47; Meng and Gai (2021), Character 47; Chen *et al*. (2022), Character 47; Shan *et al*. (2022), Character 47; Sun *et al*. (2022), Character 47; Zhang *et al*. (2023), Character 47; Liu *et al*. (2023), Character 47.
 
 48. Elongated branchial region: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 48; Gai *et al*. (2018), Character 48; Shan *et al*. (2020), Character 48; Jiang *et al*. (2021), Character 48; Liu *et al*. (2021), Character 48; Meng and Gai (2021), Character 48; Chen *et al*. (2022), Character 48; Shan *et al*. (2022), Character 48; Sun *et al*. (2022), Character 48; Zhang *et al*. (2023), Character 48; Liu *et al*. (2023), Character 48.
+> Zhu and Gai (2006; 2007), Character 48; Gai *et al*. (2018), Character 48; Shan *et al*. (2020), Character 48; Jiang *et al*. (2021), Character 48; Liu *et al*. (2021), Character 48; Meng and Gai (2021), Character 48; Chen *et al*. (2022), Character 48; Shan *et al*. (2022), Character 48; Sun *et al*. (2022), Character 48; Zhang *et al*. (2023), Character 48; Liu *et al*. (2023), Character 48.
 
 49. Number of branchial fossae: (0) 5-7 pairs; (1) 9-17 pairs; (2) more than 20 pairs.
 
-> Zhu and Gai (2006), Character 49; Gai *et al*. (2018), Character 49; Shan *et al*. (2020), Character 49; Jiang *et al*. (2021), Character 49; Liu *et al*. (2021), Character 49; Meng and Gai (2021), Character 49; Chen *et al*. (2022), Character 49; Shan *et al*. (2022), Character 49; Sun *et al*. (2022), Character 49; Zhang *et al*. (2023), Character 49; Liu *et al*. (2023), Character 49.
+> Zhu and Gai (2006; 2007), Character 49; Gai *et al*. (2018), Character 49; Shan *et al*. (2020), Character 49; Jiang *et al*. (2021), Character 49; Liu *et al*. (2021), Character 49; Meng and Gai (2021), Character 49; Chen *et al*. (2022), Character 49; Shan *et al*. (2022), Character 49; Sun *et al*. (2022), Character 49; Zhang *et al*. (2023), Character 49; Liu *et al*. (2023), Character 49.
 
 50. Maximum width of headshield placed: (0) posteriorly; (1) medially.
 
-> Zhu and Gai (2006), Character 50; Gai *et al*. (2018), Character 50; Shan *et al*. (2020), Character 50; Jiang *et al*. (2021), Character 50; Liu *et al*. (2021), Character 50; Meng and Gai (2021), Character 50; Chen *et al*. (2022), Character 50; Shan *et al*. (2022), Character 50; Sun *et al*. (2022), Character 50; Zhang *et al*. (2023), Character 50; Liu *et al*. (2023), Character 50.
+> Zhu and Gai (2006; 2007), Character 50; Gai *et al*. (2018), Character 50; Shan *et al*. (2020), Character 50; Jiang *et al*. (2021), Character 50; Liu *et al*. (2021), Character 50; Meng and Gai (2021), Character 50; Chen *et al*. (2022), Character 50; Shan *et al*. (2022), Character 50; Sun *et al*. (2022), Character 50; Zhang *et al*. (2023), Character 50; Liu *et al*. (2023), Character 50.
 
 51. Width/length in oval-like headshield: (0) < 1; (1) >1.
 
-> Zhu and Gai (2006), Character 51; Gai *et al*. (2018), Character 51; Shan *et al*. (2020), Character 51; Jiang *et al*. (2021), Character 51; Liu *et al*. (2021), Character 51; Meng and Gai (2021), Character 51; Chen *et al*. (2022), Character 51; Shan *et al*. (2022), Character 51; Sun *et al*. (2022), Character 51; Zhang *et al*. (2023), Character 51; Liu *et al*. (2023), Character 51.
+> Zhu and Gai (2006; 2007), Character 51; Gai *et al*. (2018), Character 51; Shan *et al*. (2020), Character 51; Jiang *et al*. (2021), Character 51; Liu *et al*. (2021), Character 51; Meng and Gai (2021), Character 51; Chen *et al*. (2022), Character 51; Shan *et al*. (2022), Character 51; Sun *et al*. (2022), Character 51; Zhang *et al*. (2023), Character 51; Liu *et al*. (2023), Character 51.
 
 52. Nearly parallel lateral margins of headshield: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 52; Gai *et al*. (2018), Character 52; Shan *et al*. (2020), Character 52; Jiang *et al*. (2021), Character 52; Liu *et al*. (2021), Character 52; Meng and Gai (2021), Character 52; Chen *et al*. (2022), Character 52; Shan *et al*. (2022), Character 52; Sun *et al*. (2022), Character 52; Zhang *et al*. (2023), Character 52; Liu *et al*. (2023), Character 52.
+> Zhu and Gai (2006; 2007), Character 52; Gai *et al*. (2018), Character 52; Shan *et al*. (2020), Character 52; Jiang *et al*. (2021), Character 52; Liu *et al*. (2021), Character 52; Meng and Gai (2021), Character 52; Chen *et al*. (2022), Character 52; Shan *et al*. (2022), Character 52; Sun *et al*. (2022), Character 52; Zhang *et al*. (2023), Character 52; Liu *et al*. (2023), Character 52.
 
 53. Broad and large middle dorsal spine of headshield: (0) absent; (1) present.
 
-> Zhu and Gai (2006), Character 53; Gai *et al*. (2018), Character 53; Shan *et al*. (2020), Character 53; Jiang *et al*. (2021), Character 53; Liu *et al*. (2021), Character 53; Meng and Gai (2021), Character 53; Chen *et al*. (2022), Character 53; Shan *et al*. (2022), Character 53; Sun *et al*. (2022), Character 53; Zhang *et al*. (2023), Character 53; Liu *et al*. (2023), Character 53.
+> Zhu and Gai (2006; 2007), Character 53; Gai *et al*. (2018), Character 53; Shan *et al*. (2020), Character 53; Jiang *et al*. (2021), Character 53; Liu *et al*. (2021), Character 53; Meng and Gai (2021), Character 53; Chen *et al*. (2022), Character 53; Shan *et al*. (2022), Character 53; Sun *et al*. (2022), Character 53; Zhang *et al*. (2023), Character 53; Liu *et al*. (2023), Character 53.
 
 54. Broad ventral rim: (0) absent; (1) present.
 
