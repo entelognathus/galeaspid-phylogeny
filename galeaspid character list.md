@@ -279,26 +279,26 @@ Meng and Gai (2021), Character 62; Chen *et al*. (2022), Character 62; Shan *et 
 > 
 **References**
 
-Chen, Y., Gai, Z.K, LI, Q., Wang, J.Q., Peng, L.J., Wei, G.B., and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early Silurian of Chongqing, southwestern China. Acta Geologica Sinica‐English Edition, 96(2), 430-439.
+Chen, Y., Gai, Z.K, LI, Q., Wang, J.Q., Peng, L.J., Wei, G.B., and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early Silurian of Chongqing, southwestern China. *Acta Geologica Sinica‐English Edition*, 96(2), 430-439.
 
-Gai, Z.K., Lu, L.W., Zhao, W.J., and Zhu, M., 2018. New polybranchiaspiform fishes (Agnatha: Galeaspida) from the Middle Palaeozoic of China and their ecomorphological implications. PLoS ONE, 13(9), e0202217.
+Gai, Z.K., Lu, L.W., Zhao, W.J., and Zhu, M., 2018. New polybranchiaspiform fishes (Agnatha: Galeaspida) from the Middle Palaeozoic of China and their ecomorphological implications. *PLoS ONE*, 13(9), e0202217.
 
-Jiang, W.Y., Zhu, M., Shi, X.D., Li, Q., and Gai, Z.K., 2021. *Qushiaspis*, a new genus of gantarostrataspid fish (galeaspida, stem-gnathostomata) from the Lower Devonian of Yunnan China. Historical Biology, 33(12), 3714–3722.
+Jiang, W.Y., Zhu, M., Shi, X.D., Li, Q., and Gai, Z.K., 2021. *Qushiaspis*, a new genus of gantarostrataspid fish (Galeaspida, stem-Gnathostomata) from the Lower Devonian of Yunnan China. *Historical Biology*, 33(12), 3714–3722.
 
-Liu, W.Y., Shan, X.R., Lin, X.H., Shen, Y.M., Liu, Y.H., Zhang, Z.H., and Gai, Z.K., 2023. The first Eugaleaspiforme fish from the Silurian of the Tarim Basin reveals a close relationship between the Tarim and South China blocks at 438 mya. Palaeogeography, Palaeoclimatology, Palaeoecology, 628: 111774.
+Liu, W.Y., Shan, X.R., Lin, X.H., Shen, Y.M., Liu, Y.H., Zhang, Z.H., and Gai, Z.K., 2023. The first Eugaleaspiforme fish from the Silurian of the Tarim Basin reveals a close relationship between the Tarim and South China blocks at 438 mya. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 628: 111774.
 
-Liu, Y.L., Huang, L.B., Zong, R.W., and Gong, Y.M., 2021. The oldest eugaleaspiform (Galeaspida) from the Silurian Fentou Formation (Telychian, Llandovery) of Wuhan, South China. Journal of Systematic Palaeontology, 19(4), 253–264.
+Liu, Y.L., Huang, L.B., Zong, R.W., and Gong, Y.M., 2021. The oldest eugaleaspiform (Galeaspida) from the Silurian Fentou Formation (Telychian, Llandovery) of Wuhan, South China. *Journal of Systematic Palaeontology*, 19(4), 253–264.
 
-Meng, X.Y., and Gai, Z.K., 2021. *Falxcornus*, a new genus of Tridensaspidae (Galeaspida, stem-Gnathostomata) from the Lower Devonian in Qujing, Yunnan, China. Historical Biology, 1–10.
+Meng, X.Y., and Gai, Z.K., 2021. *Falxcornus*, a new genus of Tridensaspidae (Galeaspida, stem-Gnathostomata) from the Lower Devonian in Qujing, Yunnan, China. *Historical Biology*, 1–10.
 
-Shan, X.R., Gai, Z.K., Lin, X.H., Chen, Y., Zhu, M., and Zhao, W.J., 2022. The oldest eugaleaspiform fishes from the Silurian red beds in Jiangxi, South China and their stratigraphic significance. Journal of Asian Earth Sciences, 229: 105187.
+Shan, X.R., Gai, Z.K., Lin, X.H., Chen, Y., Zhu, M., and Zhao, W.J., 2022. The oldest eugaleaspiform fishes from the Silurian red beds in Jiangxi, South China and their stratigraphic significance. *Journal of Asian Earth Sciences*, 229: 105187.
 
-Shan, X.R., Zhu, M., Zhao, W.J., Pan, Z.H., Wang, P.L., and Gai, Z.K., 2020. A new genus ofsinogaleaspids (Galeaspida, stem-Gnathostomata) from the Silurian Period in Jiangxi, China. PeerJ, 8, e9008.
+Shan, X.R., Zhu, M., Zhao, W.J., Pan, Z.H., Wang, P.L., and Gai, Z.K., 2020. A new genus ofsinogaleaspids (Galeaspida, stem-Gnathostomata) from the Silurian Period in Jiangxi, China. *PeerJ*, 8, e9008.
 
-Sun, H.R., Gai Z.K., Cai, J.C., Li, Q., Zhu, M., and Zhao, W.J., 2022. *Xitunaspis*, a new eugaleaspid fish (Eugaleaspiformes, Galeaspida) from the Lower Devonian of Qujing, Yunnan. Vertebrata Palasiatica, 60(3): 169-183.
+Sun, H.R., Gai Z.K., Cai, J.C., Li, Q., Zhu, M., and Zhao, W.J., 2022. *Xitunaspis*, a new eugaleaspid fish (Eugaleaspiformes, Galeaspida) from the Lower Devonian of Qujing, Yunnan. *Vertebrata Palasiatica*, 60(3): 169-183.
 
-Zhang, Y.M., Li, X.T., Shan, X.R., Lin, X.H., Tan, K., Li, Q., Zhao, W.J., Tang, L.Z., Zhu, M., and Gai, Z.K., 2023. The first galeaspid fish (stem-Gnathostomata) from the Silurian Xiushan formation of Hunan Province, China. Historical Biology: 1–12.
+Zhang, Y.M., Li, X.T., Shan, X.R., Lin, X.H., Tan, K., Li, Q., Zhao, W.J., Tang, L.Z., Zhu, M., and Gai, Z.K., 2023. The first galeaspid fish (stem-Gnathostomata) from the Silurian Xiushan formation of Hunan Province, China. *Historical Biology*: 1–12.
 
-Zhu, M., and Gai, Z.K., 2006. Phylogenetic relationships of galeaspids (Agnatha). Vertebrata PalAsiatica, 44(1), 1–27.
+Zhu, M., and Gai, Z.K., 2006. Phylogenetic relationships of galeaspids (Agnatha). *Vertebrata PalAsiatica*, 44(1), 1–27.
 
 Zhu, M. and Gai, Z.-K., 2007. Phylogenetic relationships of galeaspids (Agnatha). *Front. Biol. China* **2**: 1–19.
