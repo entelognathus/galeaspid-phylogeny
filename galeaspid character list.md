@@ -1,11 +1,5 @@
 **Character list of galeaspids and comments**
 
-> *Characters and character states to be added in the nexus file. (To Shan, Chen, Li)* 
-
-> Give a citing history of the relevant character. If needed, give the comments below the character.
-
-> Add the reference and taxa used in the analyis in another document.
-
 1. Median dorsal opening: (0) absent; (1) present.
 
 > Zhu and Gai (2006), Character 1; Gai et al. (2018), Character 1; Shan et al. (2020), Character 1; Jiang et al. (2021), Character 1; Liu et al. (2021), Character 1; Meng and Gai (2021), Character 1; Chen et al. (2022), Character 1; Shan et al. (2022), Character 1; Sun et al. (2022), Character 1; Zhang et al. (2023), Character 1; Liu et al. (2023), Character 1.
@@ -28,10 +22,11 @@
 
 > Zhu and Gai (2006), Character 5; Gai et al. (2018), Character 5; Shan et al. (2020), Character 5; Jiang et al. (2021), Character 5; Liu et al. (2021), Character 5; Meng and Gai (2021), Character 5; Chen et al. (2022), Character 5; Shan et al. (2022), Character 5; Sun et al. (2022), Character 5; Zhang et al. (2023), Character 5; Liu et al. (2023), Character 5.
 
-6. Shape of median dorsal opening: (0) transverse slit-like; (1) oval-like; (2)  slender longitudinal oval（3）transverse
-crescent.
+6. Shape of median dorsal opening: (0) transverse slit-like; (1) oval-like; (2) slender longitudinal oval;（3）transverse crescent.
 
 > Zhu and Gai (2006), Character 6; Gai et al. (2018), Character 6; Shan et al. (2020), Character 6; Jiang et al. (2021), Character 6; Liu et al. (2021), Character 6; Meng and Gai (2021), Character 6; Chen et al. (2022), Character 6; Shan et al. (2022), Character 6; Sun et al. (2022), Character 6; Zhang et al. (2023), Character 6; Liu et al. (2023), Character 6.
+
+> - The state 'transverse crescent' was added by **which reference**?
 
 7. Longitudinal oval dorsal opening: (0) not slit-like (length/width<6); (1) slit-like (length/width>6).
 
@@ -57,9 +52,11 @@ crescent.
 
 > Zhu and Gai (2006), Character 12; Gai et al. (2018), Character 12; Shan et al. (2020), Character 12; Jiang et al. (2021), Character 12; Liu et al. (2021), Character 12; Meng and Gai (2021), Character 12; Chen et al. (2022), Character 12; Shan et al. (2022), Character 12; Sun et al. (2022), Character 12; Zhang et al. (2023), Character 12; Liu et al. (2023), Character 12.
 
-13. Position of orbital openings: (0) dorsal position and close to mid-line of headshield; (1) dorsal position and not close to mid-line of headshield; (2) lateral position; (3) ventrolaterally placed orbital openings.
+13. Position of orbital openings: (0) dorsal position and close to mid-line of headshield; (1) dorsal position and not close to mid-line of headshield; (2) lateral position; (3) ventrolaterally placed.
 
 > Zhu and Gai (2006), Character 13; Gai et al. (2018), Character 13; Shan et al. (2020), Character 13; Jiang et al. (2021), Character 13; Liu et al. (2021), Character 13; Meng and Gai (2021), Character 13; Chen et al. (2022), Character 13; Shan et al. (2022), Character 13; Sun et al. (2022), Character 13; Zhang et al. (2023), Character 13; Liu et al. (2023), Character 13.
+
+> - The state 'ventrolaterally placed' was added by **which reference**?
 
 14. Cornual process: (0) absent; (1) present.
 
@@ -85,7 +82,7 @@ crescent.
 
 > Zhu and Gai (2006), Character 19; Gai et al. (2018), Character 19; Shan et al. (2020), Character 19; Jiang et al. (2021), Character 19; Liu et al. (2021), Character 19; Meng and Gai (2021), Character 19; Chen et al. (2022), Character 19; Shan et al. (2022), Character 19; Sun et al. (2022), Character 19; Zhang et al. (2023), Character 19; Liu et al. (2023), Character 19.
 
-20. Shape of inner cornual process: (0) broad leaf-shaped; (1)  spine-shaped.
+20. Shape of inner cornual process: (0) broad leaf-shaped; (1) spine-shaped.
 
 > Zhu and Gai (2006), Character 20; Gai et al. (2018), Character 20; Shan et al. (2020), Character 20; Jiang et al. (2021), Character 20; Liu et al. (2021), Character 20; Meng and Gai (2021), Character 20; Chen et al. (2022), Character 20; Shan et al. (2022), Character 20; Sun et al. (2022), Character 20; Zhang et al. (2023), Character 20; Liu et al. (2023), Character 20.
 
@@ -125,11 +122,11 @@ crescent.
 
 > Zhu and Gai (2006), Character 29; Gai et al. (2018), Character 29; Shan et al. (2020), Character 29; Jiang et al. (2021), Character 29; Liu et al. (2021), Character 29; Meng and Gai (2021), Character 29; Chen et al. (2022), Character 29; Shan et al. (2022), Character 29; Sun et al. (2022), Character 29; Zhang et al. (2023), Character 29; Liu et al. (2023), Character 29.
 
-30. Median transverse canals (mtc): (0) two; (1) one; (2) more than two.
+30. Median transverse canals: (0) two; (1) one; (2) more than two.
 
 > Zhu and Gai (2006), Character 30; Gai et al. (2018), Character 30; Shan et al. (2020), Character 30; Jiang et al. (2021), Character 30; Liu et al. (2021), Character 30; Meng and Gai (2021), Character 30; Chen et al. (2022), Character 30; Shan et al. (2022), Character 30; Sun et al. (2022), Character 30; Zhang et al. (2023), Character 30; Liu et al. (2023), Character 30.
 
-31. Short branches running from posterior supraorbital canal (soc2): (0) absent; (1) present.
+31. Short branches running from posterior supraorbital canal: (0) absent; (1) present.
 
 > Zhu and Gai (2006), Character 31; Gai et al. (2018), Character 31; Shan et al. (2020), Character 31; Jiang et al. (2021), Character 31; Liu et al. (2021), Character 31; Meng and Gai (2021), Character 31; Chen et al. (2022), Character 31; Shan et al. (2022), Character 31; Sun et al. (2022), Character 31; Zhang et al. (2023), Character 31; Liu et al. (2023), Character 31.
 
@@ -145,11 +142,11 @@ crescent.
 
 > Zhu and Gai (2006), Character 34; Gai et al. (2018), Character 34; Shan et al. (2020), Character 34; Jiang et al. (2021), Character 34; Liu et al. (2021), Character 34; Meng and Gai (2021), Character 34; Chen et al. (2022), Character 34; Shan et al. (2022), Character 34; Sun et al. (2022), Character 34; Zhang et al. (2023), Character 34; Liu et al. (2023), Character 34.
 
-35. Lateral transverse canals leaving from infraorbital canal before ltc<sub>d</sub>: (0) present; (1) absent.
+35. Lateral transverse canals leaving from infraorbital canal before lateral transverse canal d: (0) present; (1) absent.
 
 > Zhu and Gai (2006), Character 35; Gai et al. (2018), Character 35; Shan et al. (2020), Character 35; Jiang et al. (2021), Character 35; Liu et al. (2021), Character 35; Meng and Gai (2021), Character 35; Chen et al. (2022), Character 35; Shan et al. (2022), Character 35; Sun et al. (2022), Character 35; Zhang et al. (2023), Character 35; Liu et al. (2023), Character 35.
 
-36. Fourth lateral transverse canal (ltc4): (0) present; (1) absent.
+36. Fourth lateral transverse canal: (0) present; (1) absent.
 
 > Zhu and Gai (2006), Character 36; Gai et al. (2018), Character 36; Shan et al. (2020), Character 36; Jiang et al. (2021), Character 36; Liu et al. (2021), Character 36; Meng and Gai (2021), Character 36; Chen et al. (2022), Character 36; Shan et al. (2022), Character 36; Sun et al. (2022), Character 36; Zhang et al. (2023), Character 36; Liu et al. (2023), Character 36.
 
@@ -157,27 +154,27 @@ crescent.
 
 > Zhu and Gai (2006), Character 37; Gai et al. (2018), Character 37; Shan et al. (2020), Character 37; Jiang et al. (2021), Character 37; Liu et al. (2021), Character 37; Meng and Gai (2021), Character 37; Chen et al. (2022), Character 37; Shan et al. (2022), Character 37; Sun et al. (2022), Character 37; Zhang et al. (2023), Character 37; Liu et al. (2023), Character 37.
 
-38. Anterior supraorbital canal (soc1): (0) absent; (1) present.
+38. Anterior supraorbital canal: (0) absent; (1) present.
 
 > Zhu and Gai (2006), Character 38; Gai et al. (2018), Character 38; Shan et al. (2020), Character 38; Jiang et al. (2021), Character 38; Liu et al. (2021), Character 38; Meng and Gai (2021), Character 38; Chen et al. (2022), Character 38; Shan et al. (2022), Character 38; Sun et al. (2022), Character 38; Zhang et al. (2023), Character 38; Liu et al. (2023), Character 38.
 
-39. Posterior supraorbital canal (soc2): (0) present; (1) absent.
+39. Posterior supraorbital canal: (0) present; (1) absent.
 
 > Zhu and Gai (2006), Character 39; Gai et al. (2018), Character 39; Shan et al. (2020), Character 39; Jiang et al. (2021), Character 39; Liu et al. (2021), Character 39; Meng and Gai (2021), Character 39; Chen et al. (2022), Character 39; Shan et al. (2022), Character 39; Sun et al. (2022), Character 39; Zhang et al. (2023), Character 39; Liu et al. (2023), Character 39.
 
-40. Posterior supraorbital canals (soc2) meet with in : (0) no; (1) yes.
+40. Posterior supraorbital canal meets with infraorbital canal: (0) no; (1) yes.
 
 > Zhu and Gai (2006), Character 40; Gai et al. (2018), Character 40; Shan et al. (2020), Character 40; Jiang et al. (2021), Character 40; Liu et al. (2021), Character 40; Meng and Gai (2021), Character 40; Chen et al. (2022), Character 40; Shan et al. (2022), Character 40; Sun et al. (2022), Character 40; Zhang et al. (2023), Character 40; Liu et al. (2023), Character 40.
 
-41. Posterior supraorbital canals (soc2): (0) funnel-shaped; (1) parallel; (2) V-shaped.
+41. Posterior supraorbital canals: (0) funnel-shaped; (1) parallel; (2) V-shaped.
 
 > Zhu and Gai (2006), Character 41; Gai et al. (2018), Character 41; Shan et al. (2020), Character 41; Jiang et al. (2021), Character 41; Liu et al. (2021), Character 41; Meng and Gai (2021), Character 41; Chen et al. (2022), Character 41; Shan et al. (2022), Character 41; Sun et al. (2022), Character 41; Zhang et al. (2023), Character 41; Liu et al. (2023), Character 41.
 
-42. Branching end of posterior supraorbital canals (soc2): (0) absent; (1) present.
+42. Branching end of posterior supraorbital canal: (0) absent; (1) present.
 
 > Zhu and Gai (2006), Character 42; Gai et al. (2018), Character 42; Shan et al. (2020), Character 42; Jiang et al. (2021), Character 42; Liu et al. (2021), Character 42; Meng and Gai (2021), Character 42; Chen et al. (2022), Character 42; Shan et al. (2022), Character 42; Sun et al. (2022), Character 42; Zhang et al. (2023), Character 42; Liu et al. (2023), Character 42.
 
-43. Medial dorsal canal (mdc): (0) develeped; (1) degenerated; (2) absent.
+43. Medial dorsal canal: (0) develeped; (1) degenerated; (2) absent.
 
 > Zhu and Gai (2006), Character 43; Gai et al. (2018), Character 43; Shan et al. (2020), Character 43; Jiang et al. (2021), Character 43; Liu et al. (2021), Character 43; Meng and Gai (2021), Character 43; Chen et al. (2022), Character 43; Shan et al. (2022), Character 43; Sun et al. (2022), Character 43; Zhang et al. (2023), Character 43; Liu et al. (2023), Character 43.
 
@@ -185,7 +182,7 @@ crescent.
 
 > Zhu and Gai (2006), Character 44; Gai et al. (2018), Character 44; Shan et al. (2020), Character 44; Jiang et al. (2021), Character 44; Liu et al. (2021), Character 44; Meng and Gai (2021), Character 44; Chen et al. (2022), Character 44; Shan et al. (2022), Character 44; Sun et al. (2022), Character 44; Zhang et al. (2023), Character 44; Liu et al. (2023), Character 44.
 
-45. medial dorsal: (0) absent; (1) present.
+45. U-shaped medial dorsal canal: (0) absent; (1) present.
 
 > Zhu and Gai (2006), Character 45; Gai et al. (2018), Character 45; Shan et al. (2020), Character 45; Jiang et al. (2021), Character 45; Liu et al. (2021), Character 45; Meng and Gai (2021), Character 45; Chen et al. (2022), Character 45; Shan et al. (2022), Character 45; Sun et al. (2022), Character 45; Zhang et al. (2023), Character 45; Liu et al. (2023), Character 45.
 
@@ -233,11 +230,11 @@ crescent.
 
 > Shan et al. (2020), Character 56; Jiang et al. (2021), Character 56; Liu et al. (2021), Character 56; Meng and Gai (2021), Character 56; Chen et al. (2022), Character 56; Shan et al. (2022), Character 56; Sun et al. (2022), Character 56; Zhang et al. (2023), Character 56; Liu et al. (2023), Character 56.
 
-57. Pineal organ: (0) on front of or level with posterior margin of orbital opening; (1) behind posterior margin of orbital opening.
+57. Pineal organ: (0) in front of or level with posterior margin of orbital opening; (1) behind posterior margin of orbital opening.
 
 > Shan et al. (2020), Character 57; Jiang et al. (2021), Character 57; Liu et al. (2021), Character 57; Meng and Gai (2021), Character 57; Chen et al. (2022), Character 57; Shan et al. (2022), Character 57; Sun et al. (2022), Character 57; Zhang et al. (2023), Character 57; Liu et al. (2023), Character 57.
 
-58. Ratio between pre-pineal length and post-pineal length in mid-line of cephalic shield larger than 1.0: (0) no; (1) yes.
+58. Ratio between pre-pineal length and post-pineal length in mid-line of headshield larger than 1.0: (0) no; (1) yes.
 
 > Shan et al. (2020), Character 58; Jiang et al. (2021), Character 58; Liu et al. (2021), Character 58; Meng and Gai (2021), Character 58; Chen et al. (2022), Character 58; Shan et al. (2022), Character 58; Sun et al. (2022), Character 58; Zhang et al. (2023), Character 58; Liu et al. (2023), Character 58.
 
@@ -257,7 +254,7 @@ crescent.
 
 Meng and Gai (2021), Character 62; Chen et al. (2022), Character 62; Shan et al. (2022), Character 62; Sun et al. (2022), Character 62; Zhang et al. (2023), Character 62; Liu et al. (2023), Character 62.
 
-> 63. Inner cornual process behind the posterior edge of cornual process: (0) absent; (1) present.
+> 63. Inner cornual process behind the posterior end of cornual process: (0) absent; (1) present.
 
 > Meng and Gai (2021), Character 63; Chen et al. (2022), Character 63; Shan et al. (2022), Character 63; Sun et al. (2022), Character 63; Zhang et al. (2023), Character 63; Liu et al. (2023), Character 63.
 
@@ -278,33 +275,24 @@ Meng and Gai (2021), Character 62; Chen et al. (2022), Character 62; Shan et al.
 > Sun et al. (2022), Character 66.
 
 **References**
-Chen, Y., Gai, Z.K, LI, Q., Wang, J.Q., Peng, L.J., Wei, G.B., and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early 
-    Silurian of Chongqing, southwestern China. Acta Geologica Sinica‐English Edition, 96(2), 430-439.
+Chen, Y., Gai, Z.K, LI, Q., Wang, J.Q., Peng, L.J., Wei, G.B., and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early Silurian of Chongqing, southwestern China. Acta Geologica Sinica‐English Edition, 96(2), 430-439.
 
 Gai, Z.K., Lu, L.W., Zhao, W.J., and Zhu, M., 2018. New polybranchiaspiform fishes (Agnatha: Galeaspida) from the Middle Palaeozoic of China and their ecomorphological implications. PLoS ONE, 13(9), e0202217.
 
-Jiang, W.Y., Zhu, M., Shi, X.D., Li, Q., and Gai, Z.K., 2021. *Qushiaspis*, a new genus of gantarostrataspid fish (galeaspida, stem-gnathostomata) from the Lower Devonian of Yunnan China. Historical Biology 33(12), 3714–3722.
+Jiang, W.Y., Zhu, M., Shi, X.D., Li, Q., and Gai, Z.K., 2021. *Qushiaspis*, a new genus of gantarostrataspid fish (galeaspida, stem-gnathostomata) from the Lower Devonian of Yunnan China. Historical Biology, 33(12), 3714–3722.
 
-Liu, W.Y., Shan, X.R., Lin, X.H., Shen, Y.M., Liu, Y.H., Zhang, Z.H., and Gai, Z.K., 2023. The first Eugaleaspiforme fish from the Silurian of the Tarim Basin 
-    reveals a close relationship between the Tarim and South China blocks at 438 mya. Palaeogeography, Palaeoclimatology, Palaeoecology, 628: 111774.
+Liu, W.Y., Shan, X.R., Lin, X.H., Shen, Y.M., Liu, Y.H., Zhang, Z.H., and Gai, Z.K., 2023. The first Eugaleaspiforme fish from the Silurian of the Tarim Basin reveals a close relationship between the Tarim and South China blocks at 438 mya. Palaeogeography, Palaeoclimatology, Palaeoecology, 628: 111774.
 
-Liu, Y.L., Huang, L.B., Zong, R.W., and Gong, Y.M., 2021. The oldest eugaleaspiform (Galeaspida) from the Silurian Fentou Formation (Telychian, Llandovery) of 
-    Wuhan, South China. Journal of Systematic Palaeontology 19(4), 253–264.
+Liu, Y.L., Huang, L.B., Zong, R.W., and Gong, Y.M., 2021. The oldest eugaleaspiform (Galeaspida) from the Silurian Fentou Formation (Telychian, Llandovery) of Wuhan, South China. Journal of Systematic Palaeontology, 19(4), 253–264.
 
-Meng, X.Y., and Gai, Z.K., 2021. *Falxcornus*, a new genus of Tridensaspidae (Galeaspida, stem-Gnathostomata) from the Lower Devonian in Qujing, Yunnan. 
-    China. Historical Biology, 1–10.
+Meng, X.Y., and Gai, Z.K., 2021. *Falxcornus*, a new genus of Tridensaspidae (Galeaspida, stem-Gnathostomata) from the Lower Devonian in Qujing, Yunnan, China. Historical Biology, 1–10.
 
-Shan, X.R., Gai, Z.K., Lin, X.H., Chen, Y., Zhu, M., and Zhao, W.J., 2022. The oldest eugaleaspiform fishes from the Silurian red beds in Jiangxi, South 
-    China and their stratigraphic significance. Journal of Asian Earth Sciences, 229: 105187.
-Shan, X.R., Zhu, M., Zhao, W.J., Pan, Z.H., Wang, P.L., and Gai, Z.K., 2020. A new genus ofsinogaleaspids (Galeaspida, stem-Gnathostomata) from the Silurian 
-    Period in Jiangxi, China. PeerJ 8, e9008.
+Shan, X.R., Gai, Z.K., Lin, X.H., Chen, Y., Zhu, M., and Zhao, W.J., 2022. The oldest eugaleaspiform fishes from the Silurian red beds in Jiangxi, South China and their stratigraphic significance. Journal of Asian Earth Sciences, 229: 105187.
 
-Sun, H.R., Gai Z.K., Cai, J.C., Li, Q., Zhu, M., and Zhao, W.J., 2022. *Xitunaspis*, a new eugaleaspid fish (Eugaleaspiformes, Galeaspida) from the Lower 
-    Devonian of Qujing, Yunnan. Vertebrata Palasiatica, 60(3): 169-183.
+Shan, X.R., Zhu, M., Zhao, W.J., Pan, Z.H., Wang, P.L., and Gai, Z.K., 2020. A new genus ofsinogaleaspids (Galeaspida, stem-Gnathostomata) from the Silurian Period in Jiangxi, China. PeerJ, 8, e9008.
 
-Zhang, Y.M., Li, X.T., Shan, X.R., Lin, X.H., Tan, K., Li, Q., Zhao, W.J., Tang, L.Z., Zhu, M., and Gai, Z.K., 2023. The first galeaspid fish (stem- 
-    gnathostomata) from the Silurian Xiushan formation of Hunan Province, China. Historical Biology: 1–12.
+Sun, H.R., Gai Z.K., Cai, J.C., Li, Q., Zhu, M., and Zhao, W.J., 2022. *Xitunaspis*, a new eugaleaspid fish (Eugaleaspiformes, Galeaspida) from the Lower Devonian of Qujing, Yunnan. Vertebrata Palasiatica, 60(3): 169-183.
+
+Zhang, Y.M., Li, X.T., Shan, X.R., Lin, X.H., Tan, K., Li, Q., Zhao, W.J., Tang, L.Z., Zhu, M., and Gai, Z.K., 2023. The first galeaspid fish (stem-Gnathostomata) from the Silurian Xiushan formation of Hunan Province, China. Historical Biology: 1–12.
 
 Zhu, M., and Gai, Z.K., 2006. Phylogenetic relationships of galeaspids (Agnatha). Vertebrata PalAsiatica, 44(1), 1–27.
-
-
