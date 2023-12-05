@@ -266,7 +266,7 @@ Meng and Gai (2021), Character 62; Chen *et al*. (2022), Character 62; Shan *et 
 
 > Chen *et al*. (2022), Character 64; Sun *et al*. (2022), Character 64.
 
-> - Chen **et al**. (2022) used the term 'central canal' to describe a short canal issued from the middle of the dorsal commissure. As the 'central sensory canal' is conventionally used to represent the canal leaving from the infraorbital canal in placoderms, we replace the 'central canal' in galeaspids with the 'medial canal' to avoid confusion. 
+> - Chen *et al*. (2022) used the term 'central canal' to describe a short canal issued from the middle of the dorsal commissure. As the 'central sensory canal' is conventionally used to represent the canal leaving from the infraorbital canal in placoderms, we replace the 'central canal' in galeaspids with the 'medial canal' to avoid confusion. 
 
 66. Dermal bone of headshield: (0) no less than 1 mm in thickness; (1) less than 1 mm in thickness.
 
