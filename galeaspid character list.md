@@ -14,19 +14,18 @@
 
 > Zhu and Gai (2006; 2007), Character 3; Gai *et al*. (2018), Character 3; Shan *et al*. (2020), Character 3; Jiang *et al*. (2021), Character 3; Liu *et al*. (2021), Character 3; Meng and Gai (2021), Character 3; Chen *et al*. (2022), Character 3; Shan *et al*. (2022), Character 3; Sun *et al*. (2022), Character 3; Zhang *et al*. (2023), Character 3; Liu *et al*. (2023), Character 3.
 
-4. Shape of headshield: (0) trapezoid-like; (1) triangular-like; (2) oval-like; (3) armet-like; (4) fork-like.
+4. Shape of headshield: (0) trapezoid-like; (1) triangular-like; (2) oval-like; (3) armet-like; (4) fork-like; (5) torpedo-like
    
 > Zhu and Gai (2006; 2007), Character 4; Gai *et al*. (2018), Character 4; Shan *et al*. (2020), Character 4; Jiang *et al*. (2021), Character 4; Liu *et al*. (2021), Character 4; Meng and Gai (2021), Character 4; Chen *et al*. (2022), Character 4; Shan *et al*. (2022), Character 4; Sun *et al*. (2022), Character 4; Zhang *et al*. (2023), Character 4; Liu *et al*. (2023), Character 4.
+> The state 'torpedo-like' was added by Jiang *et al*. (2021).
 
 5. Margin of headshield: (0) serrated; (1) smooth.
 
 > Zhu and Gai (2006; 2007), Character 5; Gai *et al*. (2018), Character 5; Shan *et al*. (2020), Character 5; Jiang *et al*. (2021), Character 5; Liu *et al*. (2021), Character 5; Meng and Gai (2021), Character 5; Chen *et al*. (2022), Character 5; Shan *et al*. (2022), Character 5; Sun *et al*. (2022), Character 5; Zhang *et al*. (2023), Character 5; Liu *et al*. (2023), Character 5.
 
-6. Shape of median dorsal opening: (0) transverse slit-like; (1) oval-like; (2) slender longitudinal oval;（3）transverse crescent.
+6. Shape of median dorsal opening: (0) transverse slit-like; (1) oval-like; (2) slender longitudinal oval.
 
 > Zhu and Gai (2006; 2007), Character 6; Gai *et al*. (2018), Character 6; Shan *et al*. (2020), Character 6; Jiang *et al*. (2021), Character 6; Liu *et al*. (2021), Character 6; Meng and Gai (2021), Character 6; Chen *et al*. (2022), Character 6; Shan *et al*. (2022), Character 6; Sun *et al*. (2022), Character 6; Zhang *et al*. (2023), Character 6; Liu *et al*. (2023), Character 6.
-
-> - The state 'transverse crescent' was added by **which reference**?
 
 7. Longitudinal oval dorsal opening: (0) not slit-like (length/width<6); (1) slit-like (length/width>6).
 
@@ -56,7 +55,7 @@
 
 > Zhu and Gai (2006; 2007), Character 13; Gai *et al*. (2018), Character 13; Shan *et al*. (2020), Character 13; Jiang *et al*. (2021), Character 13; Liu *et al*. (2021), Character 13; Meng and Gai (2021), Character 13; Chen *et al*. (2022), Character 13; Shan *et al*. (2022), Character 13; Sun *et al*. (2022), Character 13; Zhang *et al*. (2023), Character 13; Liu *et al*. (2023), Character 13.
 
-> - The state 'ventrolaterally placed' was added by **which reference**?
+> - The state 'ventrolaterally placed' was added by Jiang *et al*. (2021).
 
 14. Cornual process: (0) absent; (1) present.
 
@@ -229,6 +228,7 @@
 56. Ornamentation of head-shield: (0) star-shaped tubercles; (1) tiny granular tubercles; (2) coarse granular tubercles；(3) polygon-shaped tubercles; (4) central big tubercles surrounded by radially arranged tubercles.
 
 > Shan *et al*. (2020), Character 56; Jiang *et al*. (2021), Character 56; Liu *et al*. (2021), Character 56; Meng and Gai (2021), Character 56; Chen *et al*. (2022), Character 56; Shan *et al*. (2022), Character 56; Sun *et al*. (2022), Character 56; Zhang *et al*. (2023), Character 56; Liu *et al*. (2023), Character 56.
+> The character with the former three states '(0)(1)(2)' was created by Shan *et al*. (2020), and the latter two states '(3)(4)' were added by Jiang *et al*. (2021).
 
 57. Pineal organ: (0) in front of or level with posterior margin of orbital opening; (1) behind posterior margin of orbital opening.
 
