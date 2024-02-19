@@ -1,35 +1,275 @@
 **List of taxa, geological time, and references**
 
 (To be added)
-*Anjiaspis ericius*, lower Telychian (Shan et al., 2022)
+*Anjiaspis ericius* 
+   lower Telychian, 438.5 
+     Qingshui Formation；Lixi Town, Wuning County, Jiangxi Province, China
+     Shan et al., 2022
+    
+*Anjiaspis reticularis*
+   lower Telychian, 438.5 
+     Kangshan Formation; Anji County, Zhejiang Province, China
+     Gai and Zhu, 2005
 
-*Anjiaspis reticularis*, lower Telychian (Gai and Zhu, 2005)
+*Antiquisagittaspis cornuta*
+   Pragian, 410.8, 407.6
+     Nagaoling Formation; Liujing, Hengxian, Guangxi, China
+     Liu, 1985
 
-*Bannhuanaspis vukhuci*, upper Lochkovian to lower Pragian (Janvier et al., 1993)
+*Asiaspis expansa*
+   Pragian, 410.8, 407.6
+     Nagaoling Formation; Liujing, Hengxian, Guangxi, China
+     Pan et al., 1975
 
-> comments added here.
+*Bannhuanaspis vukhuci*, 
+    upper Lochkovian to lower Pragian
 
-*Eugaleaspis changi*, lower Lochkovian (Liu, 1965; Zhu and Gai, 2007)
+    (Janvier et al., 1993)
 
-> comments added here.
+*Changxingaspis gui*
+   lower Telychian, 438.5 
+     Kangshan Formation; Changxing County, Zhejiang Province, China
+     Wang, 1991
 
-*Hanyangaspis guodingshanensis*, middle Telychian (Zhu and Gai, 2007)
+*Damaspis vartus*
+    lower Lochkovian, 419.2 
+      Xishancun Formation; Qujing City, Yunnan Province, China
+      Wang and Wang, 1982
 
-*Jiangxialepis jiujiangensis*, lower Telychian (Shan et al., 2023)
+*Dayongaspis hunanensis*
+    lower Telychian, 438.5 
+      Rongxi Formation; Zhangjiajie City, Hunan Province, China
+      Pan and Zeng, 1985; Zhang et al., 2023
 
-*Jiangxialepis retrospina*, lower Telychian (Liu et al., 2021)
+*Dongfangaspis major*
+   Pragian, 410.8, 407.6
+     Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
+     Liu, 1975
+     
+*Duyunolepis paoyangensis*
+   Emsian, 407.6, 393.3
+     Dunyun City, Guizhou Province, China
+     Halstead, 1979; Pan, 1992; Pan and Wang, 1978; Pan and Wang, 1982 
+    
+ *Dunyu longiforus*
+    Ludfordian, 425.6, 423.0
+      Xiaoxi Formation; Xiushan County, Chongqing, China
+      Zhu, 2012
+      
+*Eugaleaspis changi*, 
+   lower Lochkovian,419.2 
+     Xishancun Formation; Qujing City, Yunnan Province, China
+     Liu, 1965; 1975; 1980; Zhu and Gai, 2007
 
-*Jiangxialepis rong*, lower Telychian (Liu et al., 2023)
+*Falxcornus liui*
+   lower Lochkovian,419.2 
+     Xishancun Formation; Qujing City, Yunnan Province, China
+     Meng and Gai, 2021
 
-*Meishanaspis lehmani*, lower Telychian (Wang , 1991)
+*Gantarostrataspis gengi*
+   Pragian, 410.8, 407.6
+     Posongchong Formation, Wenshan County, Yunnan Province, China; Xujiachong Formation; Qujing City, Yunnan Province, China
+     Wang and Wang, 1992
 
-*Polybranchiaspis liaojiaoshanensis*, Lochkovian (Liu, 1965; 1975)
+*Geraspis rara*
+  middle Telychian, 436.0
+      Fentou Formation; Wuwei City, Anhui Province, China
+      Pan and Chen, 1993  
 
-*Qingshuiaspis junqingi*, lower Telychian (Shan et al., 2022)
+*Gumuaspis rostrata*
+   Pragian, 410.8, 407.6
+     Posongchong Formation, Wenshan County, Yunnan Province, China
+     Wang and Wang, 1992; Zhu et al., 1994
 
-*Wenshanaspis zhichangensis*, Pragian (Zhao et al., 2002)
+*Hanyangaspis guodingshanensis*
+   lower to middle Telychian, 438.5, 433.4 
+      Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
+      Pan and Liu, 1975; Shan et al., 2023   
 
-*Yongdongaspis littoralis*, middle-to-upper Telychian (Chen et al., 2022)
+*Huananaspis wudinensis*
+   Pragian, 410.8, 407.6
+     Posongchong Formation; Wuding County, Yunnan Province, China
+     Liu, 1973
+   
+*Jiangxialepis jiujiangensis* 
+   lower Telychian, 438.5
+     Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
+     Shan et al., 2023
+
+*Jiangxialepis retrospina*,
+   lower to middle Telychian, 438.5, 433.4 
+     Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
+     Liu et al., 2021; Shan et al., 2023   
+
+*Jiangxialepis rongi*
+   lower Telychian, 438.5
+     Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
+     Liu et al., 2023
+
+*Kwangnanaspis subtriangularis*
+   Pragian, 410.8, 407.6
+     Posongchong Formation; Guangnan County, Yunnan Province, China
+     Cao, 1979
+     
+*Laxaspis qujingensis*
+   lower Lochkovian,419.2 
+     Xishancun Formation; Qujing City, Yunnan Province, China
+     Liu, 1975
+     
+*Lopadaspis pinglensis*
+   Emsian, 407.6, 393.3
+     Hexian Formation; Pingle County, Guangxi, China
+     Wang et al., 2001; 2002
+     
+*Lungmenshanaspis kiangyouensis*
+   Pragian, 410.8, 407.6
+     Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
+     Pan et al., 1975; Pan and Wang, 1978
+
+*Macrothyraspis longicornis*
+   Pragian, 410.8, 407.6
+     Posongchong Formation; Guangnan County, Wenshan County, Yunnan Province, China
+     Pan, 1992; Zhao et al., 2002
+
+*Meishanaspis lehmani*
+   lower Telychian, 438.5 
+     Kangshan Formation; Changxing County, Zhejiang Province, China
+     Wang, 1991; Gai et al., 2005
+
+*Microhoplonaspis microthyris*
+   upper Lochkovian, 410.8
+     Xitun Formation; Qujing City, Yunnan Province, China
+     Pan, 1992
+
+*Nanpanaspis microculus*
+   lower Lochkovian,419.2 
+     Xishancun Formation; Qujing City, Yunnan Province, China
+     Liu, 1965
+     
+*Nanningaspis zengi*
+   Pragian, 410.8, 407.6
+     Nakaolin Formation; Nanning City, Guangxi Zhuang Autonomous Region, China
+     Gai et al., 2018
+
+*Nochelaspis maeandrine*
+   lower Lochkovian,419.2 
+     Xishancun Formation; Qujing City, Yunnan Province, China
+     Zhu, 1992; Meng et al., 2021
+     
+*Pentathyraspis pelta*
+   lower Lochkovian,419.2 
+     Xishancun Formation; Qujing City, Yunnan Province, China
+     Pan, 1992
+
+*Platylomaspis serratus*
+   lower Telychian, 438.5
+     Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
+     Gai et al., 2018
+     
+*Polybranchiaspis liaojiaoshanensis*
+   Lochkovian to Pragian, 419.2, 407.6
+     Xishancun Formation, Xitun Formation, Qujing City, Yunnan Province, China; Sika Formation, Yen Minh, Vietnam; Khao Loc Formation; Ha Giang, Vietnam
+     Fang et al., 1985; Liu, 1965; 1975; Tông-Dzuy et al., 1995; Tông-Dzuy and Janvier, 1987
+
+*Pterogonaspis yuhaii*
+   Pragian, 410.8, 407.6
+     Xujiachong Formation; Qujing City, Yunnan Province, China
+     Zhu, 1992; Meng et al., 2023
+
+*Qingmenaspis microculus*
+    Pragian, 410.8, 407.6
+     Posongchong Formation; Zhaotong City, Yunnan Province, China
+     Pan and Wang, 1982; Pan, 1992
+     
+*Qingshuiaspis junqingi*
+   lower Telychian, 438.5
+     Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
+     Shan et al., 2022
+     
+*Qushiaspis elaia*
+   Pragian, 410.8, 407.6
+     Xujiachong Formation; Qujing City, Yunnan Province, China
+     Jiang et al., 2021
+     
+*Rumporostralis xikengensis*
+   upper Telychian, 433.4
+     Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
+     Pan and Wang, 1980; Shan et al., 2020
+
+*Rumporostralis shipanensis*
+   upper Telychian, 433.4
+     Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
+     Shan et al., 2020
+     
+ *Rhegmaspis xiphoidea*   
+    Pragian, 410.8, 407.6
+     Posongchong Formation; Zhaotong City, Yunnan Province, China
+     Gai et al., 2015
+
+*Sanchaspis magalarostrata*
+   Pragian, 410.8, 407.6
+     Xujiachong Formation; Qujing City, Yunnan Province, China
+     Pan and Wang, 1981
+
+*Sanqiaspis rostrata*
+   Pragian, 410.8, 407.6
+     Pingyipu Formation, Yanmenba, Jiangyou City, Sichuan Province, China; Posongchong Formation, Wenshan County, Yunnan Province, China
+     Liu, 1975; 1986; Pan and Wang, 1978; Wang et al., 1996; Zhao et al., 2002
+
+*Shuyu*
+   lower Telychian, 438.5 
+     Kangshan Formation; Changxing County, Zhejiang Province, China
+     Pan, 1986; Gai et al., 2011
+
+*Sinogaleaspis shankouensis*
+   upper Telychian, 433.4
+     Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
+     Pan and Wang, 1980; Gai et al., 2020
+
+*Sinoszechuanaspis yanmenpaensis*
+   Pragian, 410.8, 407.6
+     Pingyipu Formation, Yanmenba, Jiangyou City, Sichuan Province, China
+     Pan et al., 1975; Pan and Wang, 1978;  Pan, 1992
+
+*Stephaspis dipteriga*
+   lower Lochkovian,419.2 
+     Xishancun Formation; Qujing City, Yunnan Province, China
+     Gai and Zhu, 2007
+
+*Tridensaspis magnoculus*
+   Pragian, 410.8, 407.6
+     Yukiang Formation, Xiangzhou County, Guangxi, China
+     Liu, 1986
+     
+*Wenshanaspis zhichangensis*
+   Pragian, 410.8, 407.6
+     Posongchong Formation, Wenshan County, Yunnan Province, China
+     Zhao et al., 2002
+
+*Wumengshanaspis cuntianensis*
+   Emsian, 407.6, 393.3
+     Suotoushan Formation; Yiliang County, Yunnan Province, China
+     Wang and Lan, 1984
+
+*Xitunaspis magnus*
+   upper Lochkovian, 410.8
+     Xitun Formation; Qujing City, Yunnan Province, China
+     Sun et al., 2022
+     
+*Yunnanogaleaspis major*
+   lower Lochkovian,419.2 
+     Xishancun Formation; Qujing City, Yunnan Province, China
+     Pan and Wang, 1980
+     
+*Yongdongaspis littoralis*
+   upper Telychian, 433.4
+     Huixingshao Formation; Xiushan County, Chongqing, China
+     Chen et al., 2022
+
+*Zhaotongaspis janvieri*
+   Pragian, 410.8, 407.6
+     Posongchong Formation, Zhaotong City, Yunnan Province, China
+     wang and Zhu, 1994
 
 **References**
 
