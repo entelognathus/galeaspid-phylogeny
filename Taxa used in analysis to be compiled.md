@@ -54,7 +54,7 @@
 > - [Janvier *et al*., 1993](https://www.academia.edu/download/34975424/1993a-A_new_Early_Devonian_Galeaspid_from_Bac_Thai_Province.pdf).
 > - The age of the Si Ka Formation is revised as the Pragian (Gai *et al*., 2022).
 
-*Changxingaspis gui*
+[*Changxingaspis gui*](https://deepbone.org/public/#/explor?s_id=263&functionId=Deepbone_header_searchResultOpen) Wang, 1991
 > lower Telychian, 438.5 
 
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
@@ -66,7 +66,7 @@
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Wang and Wang, 1982
 
-*Dayongaspis hunanensis*
+[*Dayongaspis hunanensis*](https://deepbone.org/public/#/explor?s_id=300&functionId=Deepbone_header_searchResultOpen) Pan and Zeng, 1985
 > lower Telychian, 438.5 
 
 > - Rongxi Formation; Zhangjiajie City, Hunan Province, China
@@ -225,7 +225,14 @@
 > - Xitun Formation; Qujing City, Yunnan Province, China
 > - Pan, 1992
 
-[Nanjiangaspis kalpinensis](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002
+[*Microphymaspis pani*](https://deepbone.org/public/#/explor?s_id=312functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Wang *et al*., 2002
+> - **NOT in the matrix due to the poor information.** 
+
+[*Nanjiangaspis kalpinensis*](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
@@ -383,6 +390,13 @@
 > - [horizon and locality]
 > - Pan and Wang, 1983
 > - **NOT in the matrix.** 
+
+[*Xiyuaspis zhangi*](https://deepbone.org/public/#/explor?s_id=41689functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007)
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Lu *et al*., 2007
+> - **NOT in the matrix due to the poor information.** 
      
 *Yunnanogaleaspis major*
 > lower Lochkovian,419.2 
