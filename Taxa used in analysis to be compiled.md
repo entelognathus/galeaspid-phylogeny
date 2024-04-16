@@ -89,12 +89,6 @@
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
 > - Zhu, 2012
-      
-*Eugaleaspis changi*, 
-> lower Lochkovian,419.2 
-
-> - Xishancun Formation; Qujing City, Yunnan Province, China
-> - 
 
 [*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) (Liu, 1965)
 > lower Lochkovian, 419.2, 415.0
