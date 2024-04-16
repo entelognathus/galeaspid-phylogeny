@@ -1,6 +1,7 @@
 # **List of galeaspid taxa, geological range, and references**
 
 > example:
+
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
 
@@ -9,13 +10,15 @@
 > - **any comments on this species added here**
 
 
+## To Xiao Shan and Chen Yang, 按照下面Atleaspis tessellata的方式编辑galeaspid taxa。现在系统发育分析已尽可能使用种作为OTU，因此下面及以后的分析一般情况下也要用种，这样更严谨性。有些多种的，暂时可以spp.处理，但要逐渐替换掉。
+
+
 ## **outgroup taxa**
-[Taxon name with Deepbone link] Author(s), Date
-> [geological range], XXX (maximum age), YYY (minimum age)
+[*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair 1900
+> upper Wenlock to lower Ludlow (Gorstian), 430.5, 425.6
 
-> - [horizon and locality]
-> - [references]
-
+> - Lanarkshire, Ayrshire and Peeblesshire, Scotland.
+> - [Ritchie, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/69/2680215).
 
 ## **Galeaspid taxa**
 
