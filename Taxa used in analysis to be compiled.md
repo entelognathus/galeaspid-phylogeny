@@ -97,7 +97,7 @@
 > - Xishancun Formation; Qujing, YUnnan, China.
 > - Liu, 1965; 1975; 1980; Zhu and Gai, 2007
 
-*Falxcornus liui*
+[*Falxcornus liui*](https://deepbone.org/public/#/explor?s_id=82933&functionId=Deepbone_header_searchResultOpen) Meng and Gai, 2021
 > lower Lochkovian,419.2 
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
@@ -248,7 +248,7 @@
 > - Nakaolin Formation; Nanning City, Guangxi Zhuang Autonomous Region, China
 > - Gai et al., 2018
 
-*Nochelaspis maeandrine*
+[*Nochelaspis maeandrine*](https://deepbone.org/public/#/explor?s_id=410functionId=Deepbone_header_searchResultOpen) Zhu, 1992
 > lower Lochkovian,419.2 
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
@@ -272,7 +272,7 @@
 > - Xishancun Formation, Xitun Formation, Qujing City, Yunnan Province, China; Sika Formation, Yen Minh, Vietnam; Khao Loc Formation; Ha Giang, Vietnam
 > - Fang et al., 1985; Liu, 1965; 1975; Tông-Dzuy et al., 1995; Tông-Dzuy and Janvier, 1987
 
-*Pterogonaspis yuhaii*
+[*Pterogonaspis yuhaii*](https://deepbone.org/public/#/explor?s_id=403&functionId=Deepbone_header_searchResultOpen) Zhu, 1992
 > Pragian, 410.8, 407.6
 
 > - Xujiachong Formation; Qujing City, Yunnan Province, China
@@ -357,7 +357,7 @@
 > - [horizon and locality]
 > - [references]
 
-*Tridensaspis magnoculus*
+[*Tridensaspis magnoculus*](https://deepbone.org/public/#/explor?s_id=407&functionId=Deepbone_header_searchResultOpen) Liu, 1986
 > Pragian, 410.8, 407.6
 
 > - Yukiang Formation, Xiangzhou County, Guangxi, China
@@ -402,7 +402,7 @@
 > - Lu *et al*., 2007
 > - **NOT in the matrix due to the poor information.** 
      
-*Yunnanogaleaspis major*
+[*Yunnanogaleaspis major*](https://deepbone.org/public/#/explor?s_id=41389functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1980
 > lower Lochkovian,419.2 
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
