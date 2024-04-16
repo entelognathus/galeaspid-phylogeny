@@ -130,6 +130,13 @@
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
 > - Pan and Liu, 1975; Shan et al., 2023   
 
+[*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Liu *et al*., 2020
+> - **NOT in the matrix**
+
 *Huananaspis wudinensis*
 > Pragian, 410.8, 407.6
 
@@ -159,6 +166,13 @@
 
 > -Posongchong Formation; Guangnan County, Yunnan Province, China
 > - Cao, 1979
+
+[*Latirostraspis chaohuensis*](https://deepbone.org/public/#/explor?s_id=214functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1980
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Wang *et al*., 1980
+> - **NOT in the matrix**
      
 *Laxaspis qujingensis*
 > lower Lochkovian,419.2 
