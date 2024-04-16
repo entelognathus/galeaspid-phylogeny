@@ -352,7 +352,6 @@
 > - Yukiang Formation, Xiangzhou County, Guangxi, China
 > - Liu, 1986
      
-
 [*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen) Zhao et al., 2002
 > Pragian, 410.8, 407.6
 
@@ -370,6 +369,20 @@
 
 > - Xitun Formation; Qujing City, Yunnan Province, China
 > - Sun et al., 2022
+
+[*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Pan and Wang, 1983
+> - **NOT in the matrix.** 
+
+[*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Pan and Wang, 1983
+> - **NOT in the matrix.** 
      
 *Yunnanogaleaspis major*
 > lower Lochkovian,419.2 
