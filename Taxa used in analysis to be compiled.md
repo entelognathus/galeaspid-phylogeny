@@ -43,11 +43,12 @@
 > - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
 > - Pan et al., 1975
 
-*Bannhuanaspis vukhuci*, 
-> upper Lochkovian to lower Pragian
+[*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
+> Pragian, 410.8, 407.6
 
-> - to be added.
-> - (Janvier et al., 1993)
+> - Si Ka Formation; Bac Thai Province, northern Vietnam
+> - [Janvier *et al*., 1993](https://www.academia.edu/download/34975424/1993a-A_new_Early_Devonian_Galeaspid_from_Bac_Thai_Province.pdf).
+> - The age of the Si Ka Formation is revised as the Pragian (Gai *et al*., 2022).
 
 *Changxingaspis gui*
 > lower Telychian, 438.5 
@@ -89,6 +90,12 @@
 > lower Lochkovian,419.2 
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
+> - 
+
+[*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) (Liu, 1965)
+> lower Lochkovian, 419.2, 415.0
+
+> - Xishancun Formation; Qujing, YUnnan, China.
 > - Liu, 1965; 1975; 1980; Zhu and Gai, 2007
 
 *Falxcornus liui*
@@ -115,6 +122,12 @@
 > - Wang and Wang, 1992; Zhu et al., 1994
 
 *Hanyangaspis guodingshanensis*
+> lower to middle Telychian, 438.5, 433.4 
+
+> - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
+> - Pan and Liu, 1975; Shan et al., 2023   
+
+[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > lower to middle Telychian, 438.5, 433.4 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
@@ -282,6 +295,12 @@
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - Pan, 1986; Gai et al., 2011
 
+[*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2011
+> lower Telychian, 438.5, 436.8 
+
+> - Kangshan Formation; Changxing County, Zhejiang Province, China
+> - Pan, 1986; [Gai *et al*., 2011](https://www.nature.com/articles/nature10276).
+
 *Sinogaleaspis shankouensis*
 > upper Telychian, 433.4
 
@@ -306,10 +325,11 @@
 > - Yukiang Formation, Xiangzhou County, Guangxi, China
 > - Liu, 1986
      
-*Wenshanaspis zhichangensis*
+
+[*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen) Zhao et al., 2002
 > Pragian, 410.8, 407.6
 
-> - Posongchong Formation, Wenshan County, Yunnan Province, China
+> - Posongchong Formation; Wenshan, Yunnan, China.
 > - Zhao et al., 2002
 
 *Wumengshanaspis cuntianensis*
