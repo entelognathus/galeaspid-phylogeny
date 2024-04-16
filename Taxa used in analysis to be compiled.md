@@ -1,95 +1,113 @@
-**List of taxa, geological time, and references**
+# **List of galeaspid taxa, geological range, and references**
 
-(To be added)
+> example:
+[Taxon name with Deepbone link] Author(s), Date
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+> - **any comments on this species added here**
+
+
+## **outgroup taxa**
+[Taxon name with Deepbone link] Author(s), Date
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+
+
+## **Galeaspid taxa**
+
 *Anjiaspis ericius* 
-   lower Telychian, 438.5 
-     Qingshui Formation；Lixi Town, Wuning County, Jiangxi Province, China
-     Shan et al., 2022
+> lower Telychian, 438.5 
+> - Qingshui Formation；Lixi Town, Wuning County, Jiangxi Province, China
+> -  Shan et al., 2022
     
 *Anjiaspis reticularis*
-   lower Telychian, 438.5 
-     Kangshan Formation; Anji County, Zhejiang Province, China
-     Gai and Zhu, 2005
+> lower Telychian, 438.5 
+> - Kangshan Formation; Anji County, Zhejiang Province, China
+> - Gai and Zhu, 2005
 
 *Antiquisagittaspis cornuta*
-   Pragian, 410.8, 407.6
-     Nagaoling Formation; Liujing, Hengxian, Guangxi, China
-     Liu, 1985
+> Pragian, 410.8, 407.6
+> - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
+> - Liu, 1985
 
 *Asiaspis expansa*
-   Pragian, 410.8, 407.6
-     Nagaoling Formation; Liujing, Hengxian, Guangxi, China
-     Pan et al., 1975
+> Pragian, 410.8, 407.6
+> - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
+> - Pan et al., 1975
 
 *Bannhuanaspis vukhuci*, 
-    upper Lochkovian to lower Pragian
-
-    (Janvier et al., 1993)
+> upper Lochkovian to lower Pragian
+> - 
+> - (Janvier et al., 1993)
 
 *Changxingaspis gui*
-   lower Telychian, 438.5 
-     Kangshan Formation; Changxing County, Zhejiang Province, China
-     Wang, 1991
+> lower Telychian, 438.5 
+> - Kangshan Formation; Changxing County, Zhejiang Province, China
+> - Wang, 1991
 
 *Damaspis vartus*
-    lower Lochkovian, 419.2 
-      Xishancun Formation; Qujing City, Yunnan Province, China
-      Wang and Wang, 1982
+> lower Lochkovian, 419.2 
+> - Xishancun Formation; Qujing City, Yunnan Province, China
+> - Wang and Wang, 1982
 
 *Dayongaspis hunanensis*
-    lower Telychian, 438.5 
-      Rongxi Formation; Zhangjiajie City, Hunan Province, China
-      Pan and Zeng, 1985; Zhang et al., 2023
+> lower Telychian, 438.5 
+> - Rongxi Formation; Zhangjiajie City, Hunan Province, China
+> - Pan and Zeng, 1985; Zhang et al., 2023
 
 *Dongfangaspis major*
-   Pragian, 410.8, 407.6
-     Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
-     Liu, 1975
+> Pragian, 410.8, 407.6
+> - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
+> - Liu, 1975
      
 *Duyunolepis paoyangensis*
-   Emsian, 407.6, 393.3
-     Dunyun City, Guizhou Province, China
-     Halstead, 1979; Pan, 1992; Pan and Wang, 1978; Pan and Wang, 1982 
+> Emsian, 407.6, 393.3
+> - Dunyun City, Guizhou Province, China
+> - Halstead, 1979; Pan, 1992; Pan and Wang, 1978; Pan and Wang, 1982 
     
  *Dunyu longiforus*
-    Ludfordian, 425.6, 423.0
-      Xiaoxi Formation; Xiushan County, Chongqing, China
-      Zhu, 2012
+> Ludfordian, 425.6, 423.0
+> - Xiaoxi Formation; Xiushan County, Chongqing, China
+> - Zhu, 2012
       
 *Eugaleaspis changi*, 
-   lower Lochkovian,419.2 
-     Xishancun Formation; Qujing City, Yunnan Province, China
-     Liu, 1965; 1975; 1980; Zhu and Gai, 2007
+> lower Lochkovian,419.2 
+> - Xishancun Formation; Qujing City, Yunnan Province, China
+> - Liu, 1965; 1975; 1980; Zhu and Gai, 2007
 
 *Falxcornus liui*
-   lower Lochkovian,419.2 
-     Xishancun Formation; Qujing City, Yunnan Province, China
-     Meng and Gai, 2021
+> lower Lochkovian,419.2 
+> - Xishancun Formation; Qujing City, Yunnan Province, China
+> - Meng and Gai, 2021
 
 *Gantarostrataspis gengi*
-   Pragian, 410.8, 407.6
-     Posongchong Formation, Wenshan County, Yunnan Province, China; Xujiachong Formation; Qujing City, Yunnan Province, China
-     Wang and Wang, 1992
+> Pragian, 410.8, 407.6
+> - Posongchong Formation, Wenshan County, Yunnan Province, China; Xujiachong Formation; Qujing City, Yunnan Province, China
+> - Wang and Wang, 1992
 
 *Geraspis rara*
-  middle Telychian, 436.0
-      Fentou Formation; Wuwei City, Anhui Province, China
-      Pan and Chen, 1993  
+> middle Telychian, 436.0
+> - Fentou Formation; Wuwei City, Anhui Province, China
+> - Pan and Chen, 1993  
 
 *Gumuaspis rostrata*
    Pragian, 410.8, 407.6
-     Posongchong Formation, Wenshan County, Yunnan Province, China
-     Wang and Wang, 1992; Zhu et al., 1994
+> - Posongchong Formation, Wenshan County, Yunnan Province, China
+> - Wang and Wang, 1992; Zhu et al., 1994
 
 *Hanyangaspis guodingshanensis*
    lower to middle Telychian, 438.5, 433.4 
-      Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
-      Pan and Liu, 1975; Shan et al., 2023   
+> - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
+> - Pan and Liu, 1975; Shan et al., 2023   
 
 *Huananaspis wudinensis*
    Pragian, 410.8, 407.6
-     Posongchong Formation; Wuding County, Yunnan Province, China
-     Liu, 1973
+> - Posongchong Formation; Wuding County, Yunnan Province, China
+> - Liu, 1973
    
 *Jiangxialepis jiujiangensis* 
    lower Telychian, 438.5
