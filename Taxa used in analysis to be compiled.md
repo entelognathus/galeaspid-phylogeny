@@ -36,13 +36,13 @@
 > - Kangshan Formation; Anji County, Zhejiang Province, China
 > - Gai and Zhu, 2005
 
-*Antiquisagittaspis cornuta*
+[*Antiquisagittaspis cornuta*]
 > Pragian, 410.8, 407.6
 
 > - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
 > - Liu, 1985
 
-*Asiaspis expansa*
+[*Asiaspis expansa*]
 > Pragian, 410.8, 407.6
 
 > - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
@@ -61,7 +61,7 @@
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - Wang, 1991
 
-*Damaspis vartus*
+[*Damaspis vartus*]
 > lower Lochkovian, 419.2 
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
@@ -73,13 +73,13 @@
 > - Rongxi Formation; Zhangjiajie City, Hunan Province, China
 > - Pan and Zeng, 1985; Zhang et al., 2023
 
-*Dongfangaspis major*
+[*Dongfangaspis major*]
 > Pragian, 410.8, 407.6
 
 > - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
 > - Liu, 1975
      
-*Duyunolepis paoyangensis*
+[*Duyunolepis paoyangensis*]
 > Emsian, 407.6, 393.3
 
 > - Dunyun City, Guizhou Province, China
@@ -104,14 +104,14 @@
 > - Xishancun Formation; Qujing, YUnnan, China.
 > - Liu, 1965; 1975; 1980; Zhu and Gai, 2007
 
-*Eugaleaspis xujiachongensis*
+[*Eugaleaspis xujiachongensis*]
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
 > - [references]
 > - **NOT in the matrix.**
 
-*Eugaleaspis lianhuashanensis*
+[*Eugaleaspis lianhuashanensis*]
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
@@ -124,19 +124,19 @@
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Meng and Gai, 2021
 
-*Gantarostrataspis gengi*
+[*Gantarostrataspis gengi*]
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation, Wenshan County, Yunnan Province, China; Xujiachong Formation; Qujing City, Yunnan Province, China
 > - Wang and Wang, 1992
 
-*Geraspis rara*
+[*Geraspis rara*]
 > middle Telychian, 436.0
 
 > - Fentou Formation; Wuwei City, Anhui Province, China
 > - Pan and Chen, 1993  
 
-*Gumuaspis rostrata*
+[*Gumuaspis rostrata*]
 > Pragian, 410.8, 407.6
 > - Posongchong Formation, Wenshan County, Yunnan Province, China
 > - Wang and Wang, 1992; Zhu et al., 1994
@@ -154,7 +154,7 @@
 > - Liu *et al*., 2020
 > - **NOT in the matrix.**
 
-*Huananaspis wudinensis*
+[*Huananaspis wudinensis*]
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation; Wuding County, Yunnan Province, China
@@ -194,7 +194,7 @@
 > - Pan, 1992
 > - **NOT in the matrix due to the poor information.** 
 
-*Kwangnanaspis subtriangularis*
+[*Kwangnanaspis subtriangularis*]
 > Pragian, 410.8, 407.6
 
 > -Posongchong Formation; Guangnan County, Yunnan Province, China
@@ -207,25 +207,25 @@
 > - Wang *et al*., 1980
 > - **NOT in the matrix.**
      
-*Laxaspis qujingensis*
+[*Laxaspis qujingensis*]
 > lower Lochkovian,419.2 
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Liu, 1975
      
-*Lopadaspis pinglensis*
+[*Lopadaspis pinglensis*]
 > Emsian, 407.6, 393.3
 
 > - Hexian Formation; Pingle County, Guangxi, China
 > - Wang et al., 2001; 2002
      
-*Lungmenshanaspis kiangyouensis*
+[*Lungmenshanaspis kiangyouensis*]
 > Pragian, 410.8, 407.6
 
 > - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
 > - Pan et al., 1975; Pan and Wang, 1978
 
-*Macrothyraspis longicornis*
+[*Macrothyraspis longicornis*]
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation; Guangnan County, Wenshan County, Yunnan Province, China
@@ -237,7 +237,7 @@
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - Wang, 1991; Gai et al., 2005
 
-*Microhoplonaspis microthyris*
+[*Microhoplonaspis microthyris*]
 > upper Lochkovian, 410.8
 
 > - Xitun Formation; Qujing City, Yunnan Province, China
@@ -257,13 +257,13 @@
 > - Wang *et al*., 2002
 > - **NOT in the matrix due to the poor information.** 
 
-*Nanpanaspis microculus*
+[*Nanpanaspis microculus*]
 > lower Lochkovian,419.2 
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Liu, 1965
      
-*Nanningaspis zengi*
+[*Nanningaspis zengi*]
 > Pragian, 410.8, 407.6
 
 > - Nakaolin Formation; Nanning City, Guangxi Zhuang Autonomous Region, China
@@ -275,13 +275,13 @@
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Zhu, 1992; Meng et al., 2021
      
-*Pentathyraspis pelta*
+[*Pentathyraspis pelta*]
 > lower Lochkovian,419.2 
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Pan, 1992
 
-*Platylomaspis serratus*
+[*Platylomaspis serratus*]
 > lower Telychian, 438.5
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
@@ -299,19 +299,19 @@
 > - Xujiachong Formation; Qujing City, Yunnan Province, China
 > - Zhu, 1992; Meng et al., 2023
 
-*Qingmenaspis microculus*
+[*Qingmenaspis microculus*]
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation; Zhaotong City, Yunnan Province, China
 > - Pan and Wang, 1982; Pan, 1992
      
-*Qingshuiaspis junqingi*
+[*Qingshuiaspis junqingi*]
 > lower Telychian, 438.5
 
 > - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
 > - Shan et al., 2022
      
-*Qushiaspis elaia*
+[*Qushiaspis elaia*]
 > Pragian, 410.8, 407.6
 
 > - Xujiachong Formation; Qujing City, Yunnan Province, China
@@ -329,19 +329,19 @@
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - Shan et al., 2020
      
- *Rhegmaspis xiphoidea*   
+[*Rhegmaspis xiphoidea*]   
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation; Zhaotong City, Yunnan Province, China
 > - Gai et al., 2015
 
-*Sanchaspis magalarostrata*
+[*Sanchaspis magalarostrata*]
 > Pragian, 410.8, 407.6
 
 > - Xujiachong Formation; Qujing City, Yunnan Province, China
 > - Pan and Wang, 1981
 
-*Sanqiaspis rostrata*
+[*Sanqiaspis rostrata*]
 > Pragian, 410.8, 407.6
 
 > - Pingyipu Formation, Yanmenba, Jiangyou City, Sichuan Province, China; Posongchong Formation, Wenshan County, Yunnan Province, China
@@ -359,14 +359,13 @@
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - Pan and Wang, 1980; Gai et al., 2020
 
-
-*Sinoszechuanaspis yanmenpaensis*
+[*Sinoszechuanaspis yanmenpaensis*]
 > Pragian, 410.8, 407.6
 
 > - Pingyipu Formation, Yanmenba, Jiangyou City, Sichuan Province, China
      Pan et al., 1975; Pan and Wang, 1978;  Pan, 1992
 
-*Stephaspis dipteriga*
+[*Stephaspis dipteriga*]
 > lower Lochkovian,419.2 
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
@@ -390,7 +389,7 @@
 > - Posongchong Formation; Wenshan, Yunnan, China.
 > - Zhao et al., 2002
 
-*Wumengshanaspis cuntianensis*
+[*Wumengshanaspis cuntianensis*]
 > Emsian, 407.6, 393.3
 
 > - Suotoushan Formation; Yiliang County, Yunnan Province, China
@@ -424,18 +423,18 @@
 > - **NOT in the matrix due to the poor information.** 
      
 [*Yunnanogaleaspis major*](https://deepbone.org/public/#/explor?s_id=41389functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1980
-> lower Lochkovian,419.2 
+> lower Lochkovian, 419.2 
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Pan and Wang, 1980
      
-*Yongdongaspis littoralis*
+[*Yongdongaspis littoralis*]
 > upper Telychian, 433.4
 
 > - Huixingshao Formation; Xiushan County, Chongqing, China
 > - Chen et al., 2022
 
-*Zhaotongaspis janvieri*
+[*Zhaotongaspis janvieri*]
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation, Zhaotong City, Yunnan Province, China
