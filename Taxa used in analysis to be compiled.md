@@ -269,7 +269,7 @@
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - Gai et al., 2018
      
-*Polybranchiaspis liaojiaoshanensis*
+[*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965
 > Lochkovian to Pragian, 419.2, 407.6
 
 > - Xishancun Formation, Xitun Formation, Qujing City, Yunnan Province, China; Sika Formation, Yen Minh, Vietnam; Khao Loc Formation; Ha Giang, Vietnam
