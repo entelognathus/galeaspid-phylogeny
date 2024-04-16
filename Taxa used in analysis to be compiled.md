@@ -349,6 +349,12 @@
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Gai and Zhu, 2007
 
+[*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai et al., 2022
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+
 *Tridensaspis magnoculus*
 > Pragian, 410.8, 407.6
 
