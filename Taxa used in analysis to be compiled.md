@@ -23,13 +23,14 @@
 
 ## **Galeaspid taxa**
 
-*Anjiaspis ericius* 
+[*Anjiaspis ericius*] Shan *et al*., 2022
 > lower Telychian, 438.5 
 
 > - Qingshui Formation；Lixi Town, Wuning County, Jiangxi Province, China
-> -  Shan et al., 2022
+> - Shan *et al*., 2022
+> - **To be added in deepbone.**
     
-*Anjiaspis reticularis*
+[*Anjiaspis reticularis*](https://deepbone.org/public/#/explor?s_id=341&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2005
 > lower Telychian, 438.5 
 
 > - Kangshan Formation; Anji County, Zhejiang Province, China
@@ -295,13 +296,13 @@
 > - Xujiachong Formation; Qujing City, Yunnan Province, China
 > - Jiang et al., 2021
      
-*Rumporostralis xikengensis*
+[*Rumporostralis xikengensis*](https://deepbone.org/public/#/explor?s_id=326&functionId=Deepbone_header_searchResultOpen) (Pan and Wang, 1980)
 > upper Telychian, 433.4
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - Pan and Wang, 1980; Shan et al., 2020
 
-*Rumporostralis shipanensis*
+[*Rumporostralis shipanensis*](https://deepbone.org/public/#/explor?s_id=83050&functionId=Deepbone_header_searchResultOpen) Shan et al., 2020
 > upper Telychian, 433.4
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
@@ -325,17 +326,18 @@
 > - Pingyipu Formation, Yanmenba, Jiangyou City, Sichuan Province, China; Posongchong Formation, Wenshan County, Yunnan Province, China
 > - Liu, 1975; 1986; Pan and Wang, 1978; Wang et al., 1996; Zhao et al., 2002
 
-[*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2011
+[*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) (Pan, 1986)
 > lower Telychian, 438.5, 436.8 
 
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - Pan, 1986; [Gai *et al*., 2011](https://www.nature.com/articles/nature10276).
 
-*Sinogaleaspis shankouensis*
+[*Sinogaleaspis shankouensis*](https://deepbone.org/public/#/explor?s_id=320&functionId=Deepbone_header_searchResultOpen)  Pan and Wang, 1980
 > upper Telychian, 433.4
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - Pan and Wang, 1980; Gai et al., 2020
+
 
 *Sinoszechuanaspis yanmenpaensis*
 > Pragian, 410.8, 407.6
