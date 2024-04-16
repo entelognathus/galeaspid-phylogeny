@@ -135,7 +135,7 @@
 
 > - [horizon and locality]
 > - Liu *et al*., 2020
-> - **NOT in the matrix**
+> - **NOT in the matrix.**
 
 *Huananaspis wudinensis*
 > Pragian, 410.8, 407.6
@@ -161,6 +161,20 @@
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - Liu et al., 2023
 
+[Kalpinolepis tarimensis](https://deepbone.org/public/#/explor?s_id=237functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Wang *et al*., 1996
+> - **NOT in the matrix.**
+
+[Konoceraspis grandoculus](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Pan, 1992
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Pan, 1992
+> - **NOT in the matrix due to the poor information.** 
+
 *Kwangnanaspis subtriangularis*
 > Pragian, 410.8, 407.6
 
@@ -172,7 +186,7 @@
 
 > - [horizon and locality]
 > - Wang *et al*., 1980
-> - **NOT in the matrix**
+> - **NOT in the matrix.**
      
 *Laxaspis qujingensis*
 > lower Lochkovian,419.2 
@@ -209,6 +223,13 @@
 
 > - Xitun Formation; Qujing City, Yunnan Province, China
 > - Pan, 1992
+
+[Nanjiangaspis kalpinensis](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Wang *et al*., 2002
+> - **NOT in the matrix due to the poor information.** 
 
 *Nanpanaspis microculus*
 > lower Lochkovian,419.2 
@@ -299,12 +320,6 @@
 
 > - Pingyipu Formation, Yanmenba, Jiangyou City, Sichuan Province, China; Posongchong Formation, Wenshan County, Yunnan Province, China
 > - Liu, 1975; 1986; Pan and Wang, 1978; Wang et al., 1996; Zhao et al., 2002
-
-*Shuyu*
-> lower Telychian, 438.5 
-
-> - Kangshan Formation; Changxing County, Zhejiang Province, China
-> - Pan, 1986; Gai et al., 2011
 
 [*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2011
 > lower Telychian, 438.5, 436.8 
