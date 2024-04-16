@@ -138,25 +138,27 @@
 > - Posongchong Formation; Wuding County, Yunnan Province, China
 > - Liu, 1973
    
-*Jiangxialepis jiujiangensis* 
+[*Jiangxialepis jiujiangensis*] Shan *et al*., 2023
 > lower Telychian, 438.5
 
 > - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
-> - Shan et al., 2023
+> - Shan *et al*., 2023
+> - **To be added in deepbone**
 
-*Jiangxialepis retrospina*,
+[*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021
 > lower to middle Telychian, 438.5, 433.4 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
-> - Liu et al., 2021; Shan et al., 2023   
+> - Liu *et al*., 2021; Shan et al., 2023   
 
-*Jiangxialepis rongi*
+[*Jiangxialepis rongi*] Liu *et al*., 2023
 > lower Telychian, 438.5
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
-> - Liu et al., 2023
+> - Liu *et al*., 2023
+> - **To be added in deepbone**
 
-[Kalpinolepis tarimensis](https://deepbone.org/public/#/explor?s_id=237functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996
+[*Kalpinolepis tarimensis*](https://deepbone.org/public/#/explor?s_id=237functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
@@ -207,7 +209,7 @@
 > - Posongchong Formation; Guangnan County, Wenshan County, Yunnan Province, China
 > - Pan, 1992; Zhao et al., 2002
 
-*Meishanaspis lehmani*
+[*Meishanaspis lehmani*](https://deepbone.org/public/#/explor?s_id=334functionId=Deepbone_header_searchResultOpen) Wang, 1991
 > lower Telychian, 438.5 
 
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
