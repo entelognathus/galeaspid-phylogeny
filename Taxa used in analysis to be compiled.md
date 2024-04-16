@@ -12,6 +12,7 @@
 
 ## To Xiao Shan and Chen Yang, 按照下面Atleaspis tessellata的方式编辑galeaspid taxa。现在系统发育分析已尽可能使用种作为OTU，因此下面及以后的分析一般情况下也要用种，这样更严谨性。有些多种的，暂时可以spp.处理，但要逐渐替换掉。
 
+## 还有一些属种没有纳入以前的系统发育分析中，看看是什么原因。有些是否可以纳入分析？可以对照deepbone补充一下。
 
 ## **outgroup taxa**
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair 1900
