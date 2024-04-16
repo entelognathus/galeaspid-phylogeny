@@ -197,7 +197,7 @@
 [*Kwangnanaspis subtriangularis*](https://deepbone.org/public/#/explor?s_id=426&functionId=Deepbone_header_searchResultOpen) Cao, 1979
 > Pragian, 410.8, 407.6
 
-> -Posongchong Formation; Guangnan County, Yunnan Province, China
+> - Posongchong Formation; Guangnan County, Yunnan Province, China
 > - Cao, 1979
 
 [*Latirostraspis chaohuensis*](https://deepbone.org/public/#/explor?s_id=214&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1980
