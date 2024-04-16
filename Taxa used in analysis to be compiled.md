@@ -85,17 +85,38 @@
 > - Dunyun City, Guizhou Province, China
 > - Halstead, 1979; Pan, 1992; Pan and Wang, 1978; Pan and Wang, 1982 
     
- *Dunyu longiforus*
+[*Dunyu longiforus*](https://deepbone.org/public/#/explor?s_id=392&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2012
+> Ludfordian, 425.6, 423.0
+
+> - Kuanti Formation；Qujing, Yunnan, China.
+> - Zhu *et al*., 2012
+> - **which species of Dunyu now used in the matrix? Or both.**
+
+[*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) (Liu, 1986)
 > Ludfordian, 425.6, 423.0
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
-> - Zhu, 2012
+> - Liu, 1986; Zhu *et al*., 2012
 
 [*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) (Liu, 1965)
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing, YUnnan, China.
 > - Liu, 1965; 1975; 1980; Zhu and Gai, 2007
+
+*Eugaleaspis xujiachongensis*
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+> - **NOT in the matrix.**
+
+*Eugaleaspis lianhuashanensis*
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+> - **NOT in the matrix.**
 
 [*Falxcornus liui*](https://deepbone.org/public/#/explor?s_id=82933&functionId=Deepbone_header_searchResultOpen) Meng and Gai, 2021
 > lower Lochkovian,419.2 
@@ -375,11 +396,11 @@
 > - Suotoushan Formation; Yiliang County, Yunnan Province, China
 > - Wang and Lan, 1984
 
-*Xitunaspis magnus*
+[*Xitunaspis magnus*](https://deepbone.org/public/#/explor?s_id=166500functionId=Deepbone_header_searchResultOpen) Sun *et al*., 2022
 > upper Lochkovian, 410.8
 
 > - Xitun Formation; Qujing City, Yunnan Province, China
-> - Sun et al., 2022
+> - Sun *et al*., 2022
 
 [*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
 > [geological range], XXX (maximum age), YYY (minimum age)
