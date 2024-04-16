@@ -124,12 +124,6 @@
 > - Posongchong Formation, Wenshan County, Yunnan Province, China
 > - Wang and Wang, 1992; Zhu et al., 1994
 
-*Hanyangaspis guodingshanensis*
-> lower to middle Telychian, 438.5, 433.4 
-
-> - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
-> - Pan and Liu, 1975; Shan et al., 2023   
-
 [*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > lower to middle Telychian, 438.5, 433.4 
 
