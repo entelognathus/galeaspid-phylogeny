@@ -22,21 +22,21 @@
 > - [Ritchie, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/69/2680215).
 
 ## **Galeaspid taxa**
-[*Altigibbaspis huiqingae*](https://deepbone.org/public/#/explor?s_id=73601functionId=Deepbone_header_searchResultOpen)  Liu et al., 2018
+1. [*Altigibbaspis huiqingae*](https://deepbone.org/public/#/explor?s_id=73601functionId=Deepbone_header_searchResultOpen)  Liu et al., 2018
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
 > - [references]
 > - **NOT in the matrix.**
 
-[*Anjiaspis ericius*] Shan *et al*., 2022
+2. [*Anjiaspis ericius*] Shan *et al*., 2022
 > lower Telychian, 438.5 
 
 > - Qingshui Formation；Lixi Town, Wuning County, Jiangxi Province, China
 > - Shan *et al*., 2022
 > - **To be added in deepbone.**
     
-[*Anjiaspis reticularis*](https://deepbone.org/public/#/explor?s_id=341&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2005
+3. [*Anjiaspis reticularis*](https://deepbone.org/public/#/explor?s_id=341&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2005
 > lower Telychian, 438.5 
 
 > - Kangshan Formation; Anji County, Zhejiang Province, China
