@@ -205,7 +205,7 @@
 > - Posongchong Formation, Wenshan County, Yunnan Province, China
 > - Wang and Wang, 1992; Zhu et al., 1994
 
-[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
+[***Hanyangaspis guodingshanensis***](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > lower to middle Telychian, 438.5, 433.4 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
@@ -391,8 +391,16 @@
 > lower Telychian, 438.5
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
-> - Gai et al., 2018
-     
+> - Gai *et al*., 2018
+
+[*Platycaraspis tianshanensis*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Wang et al., 2002
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Wang et al., 2002
+> - **To be added in deepbone。**
+> - **NOT in the matrix due to the poor information.** 
+    
 [*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965
 > Lochkovian to Pragian, 419.2, 407.6
 
