@@ -31,30 +31,29 @@
 > - [references]
 > - **NOT in the matrix.**
 
-[*Anjiaspis ericius*] Shan *et al*., 2022
+[*Anjiaspis ericius*](https://deepbone.cn/public/#/explor?s_id=172117&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2022
 > lower Telychian, 438.5 
 
 > - Qingshui Formation；Lixi Town, Wuning County, Jiangxi Province, China
-> - Shan *et al*., 2022
-> - **To be added in deepbone.**
+> - [Shan *et al*., 2022](https://www.sciencedirect.com/science/article/abs/pii/S1367912022001109)
     
 [*Anjiaspis reticularis*](https://deepbone.org/public/#/explor?s_id=341&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2005
 > lower Telychian, 438.5 
 
 > - Kangshan Formation; Anji County, Zhejiang Province, China
-> - Gai and Zhu, 2005
+> - [Gai and Zhu, 2005](https://www.vertpala.ac.cn/CN/Y2005/V43/I03/165)
 
 [*Antiquisagittaspis cornuta*](https://deepbone.org/public/#/explor?s_id=520&functionId=Deepbone_header_searchResultOpen) Liu, 1985
 > Pragian, 410.8, 407.6
 
 > - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
-> - Liu, 1985
+> - [Liu, 1985](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rPlgolc_OnIDYCgw27p9NQqNbhtZSyYTu8r8eyLERtKv65A7ibXlwZ7zweNktnFZCr1Agn6PUiHIdRYBNzfSXW0oS5tf5HE1j6M4uibqX8yLvmFmAWnsJJX3DkRVsGefo=&uniplatform=NZKPT&language=CHS)
 
 [*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) Pan et al., 1975
 > Pragian, 410.8, 407.6
 
 > - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
-> - Pan et al., 1975
+> - [Pan *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rShO5CExHS6xjhXP78p22cRtVv2mOpYXoBUkyYT66wwhmQ3yORSBi5Y1733jOicTFqC1aCS3zvrW6BoJXu-KRlYt5tDOSrhIbdDkFYvmOvRa039eX60NsqUCo07oO0JKs=&uniplatform=NZKPT&language=CHS)
 
 [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
 > Pragian, 410.8, 407.6
@@ -87,27 +86,27 @@
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
-> - Wang and Wang, 1982
+> - [Wang and Wang, 1982](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rtZC92JEVepzTVY0gDRVewPo6f2SANood90hlz5xZp_UC982vYUAdC0y2yyuEclkwKk-BXDw8VOj0xxDQDeeePV1JrFMIXDRqmh3pWcTanzo1-XkNssmYMg09MSW3iGTs=&uniplatform=NZKPT&language=CHS)
 > - Type species.
 
 [*Damaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=482&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1981
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - Pan and Wang, 1981
+> - [Pan and Wang, 1981](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9qkOkoQTbAkzhuGiT5dI_IciVulfuIlG_0YqHZJOf9Xqm-7_kKpJ7S6Bs1nOC8Fu9p8eVDghHve0Lg3eoZZsKRNnb_3RViYmZlVXUHMt04fPjv3MNevZzjQV2oe2waygoA=&uniplatform=NZKPT&language=CHS)
 > - **NOT in the matrix.**
 
 [*Dayongaspis hunanensis*](https://deepbone.org/public/#/explor?s_id=300&functionId=Deepbone_header_searchResultOpen) Pan and Zeng, 1985
 > lower Telychian, 438.5 
 
 > - Rongxi Formation; Zhangjiajie City, Hunan Province, China
-> - Pan and Zeng, 1985; Zhang et al., 2023
+> - [Pan and Zeng, 1985](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ou2CvEwdXaFlbi0uJG1T7ure4gsQXtf_Vl_5cac1XVNyBIksQoDpXqcV4JlpVGe9NEodLhw8jXUYVDFDUtB0kkR0m-Hev60nBoeLLqbzt57GllQImd_CgNFdjdqkgtEds=&uniplatform=NZKPT&language=CHS); [Zhang et al., 2023](https://www.tandfonline.com/doi/full/10.1080/08912963.2023.2225083)
 
 [*Dayongaspis culubra*] Zhang et al., 2023
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - Zhang *et al*., 2023
+> - [Zhang *et al*., 2023](https://www.tandfonline.com/doi/full/10.1080/08912963.2023.2225083)
 > - **To be added in deepbone.**
 
 [*Diandongaspis xishancunensis*](https://deepbone.org/public/#/explor?s_id=497&functionId=Deepbone_header_searchResultOpen) Liu, 1975
@@ -121,7 +120,7 @@
 > Pragian, 410.8, 407.6
 
 > - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
-> - Liu, 1975
+> - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rjYkm3ypqglZ0kyX1vbwO1RjoCOUErDDw2lfkdHlDexMJDDUNWW8y9nyaNYVIiaFd6-BHTZfRlfW2dQYgZ21O02vluYpreZV26sjhLKgoFN-BMLebw1q4-TN_NwM4z_Kc=&uniplatform=NZKPT&language=CHS)
 > - Type species.
 
 [*Dongfangaspis xishancunensis*](https://deepbone.org/public/#/explor?s_id=166655&functionId=Deepbone_header_searchResultOpen)
@@ -141,14 +140,14 @@
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Formation；Qujing, Yunnan, China.
-> - Zhu *et al*., 2012
+> - [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
 > - **which species of Dunyu now used in the matrix? Or both.**
 
 [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) (Liu, 1986)
 > Ludfordian, 425.6, 423.0
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
-> - Liu, 1986; Zhu *et al*., 2012
+> - [Liu, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pHiH_V12eJSwtV5__RKZYFyJsNaqyhnEhEAe4F6ToqpV2YJGjgv95UYMSRNwu6z_229bz2UJ_mJJKaiCEVjp0tLLImyi3YkbrBMRItjPIvzHv84dNT0BfWylFKTQx5myI=&uniplatform=NZKPT&language=CHS); [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
 
 [*Dunyu tianlu*] sp. nov. Li *et al*., in prep.
 > Ludfordian, 425.6, 423.0
@@ -167,27 +166,27 @@
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - Liu, 1975
+> - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9p-mqub9fLtNW55WRI13_HcNWVpdnH3zbJzrnJyx8Ef_ObbkH4JUdGJEKTqzbMBCh3le9iuRB7KXom9WFVWR1nsjnGhykGmPlj6TMqKMOrLHxa1XpE2zZWkfzII2Rl-Hus=&uniplatform=NZKPT&language=CHS)
 > - **NOT in the matrix.**
 
 [*Eugaleaspis lianhuashanensis*](https://deepbone.org/public/#/explor?s_id=386&functionId=Deepbone_header_searchResultOpen) Liu, 1986
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - Liu, 1986
+> - [Liu, 1986](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rR8e7JF5IOLx1CF_fqvEJ-rGY8qEcsnX9fQ8D8ZNjdB4ZQQUwzFOcTRm9lysq-sGOhlWy7eRx5ACzaID-19Cdn_wgGSFIO8BEzDnti0AmwBaDRSKmLvqUp_E5BOiEaoWM=&uniplatform=NZKPT&language=CHS)
 > - **NOT in the matrix.**
 
 [*Falxcornus liui*](https://deepbone.org/public/#/explor?s_id=82933&functionId=Deepbone_header_searchResultOpen) Meng and Gai, 2021
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
-> - Meng and Gai, 2021
+> - [Meng and Gai, 2021](https://www.tandfonline.com/doi/full/10.1080/08912963.2021.1952198)
 
 [*Foxaspis novemura*](https://deepbone.org/public/#/explor?s_id=168406&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2023
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - Gai *et al*., 2023
+> - [Gai *et al*., 2023](https://academic.oup.com/nsr/article/10/7/nwad050/7059227?login=false)
 > - **NOT in the matrix. To be added. Use the latest data.** 
 
 [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
