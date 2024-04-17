@@ -124,6 +124,13 @@
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Meng and Gai, 2021
 
+[*Foxaspis novemura*](https://deepbone.org/public/#/explor?s_id=168406&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2023
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Gai *et al*., 2023
+> - **NOT in the matrix. To be added. Use the latest data.** 
+
 [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
 > Pragian, 410.8, 407.6
 
@@ -136,7 +143,7 @@
 > - Fentou Formation; Wuwei City, Anhui Province, China
 > - Pan and Chen, 1993  
 
-[*Gumuaspis rostrata*]
+[*Gumuaspis rostrata*](https://deepbone.org/public/#/explor?s_id=434&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
 > Pragian, 410.8, 407.6
 > - Posongchong Formation, Wenshan County, Yunnan Province, China
 > - Wang and Wang, 1992; Zhu et al., 1994
@@ -253,7 +260,7 @@
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - Wang, 1991; Gai et al., 2005
 
-[*Microhoplonaspis microthyris*]
+[*Microhoplonaspis microthyris*](https://deepbone.org/public/#/explor?s_id=452&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation; Qujing City, Yunnan Province, China
@@ -279,7 +286,7 @@
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Liu, 1965
      
-[*Nanningaspis zengi*]
+[*Nanningaspis zengi*](https://deepbone.org/public/#/explor?s_id=83167&functionId=Deepbone_header_searchResultOpen) Gai et al., 2018
 > Pragian, 410.8, 407.6
 
 > - Nakaolin Formation; Nanning City, Guangxi Zhuang Autonomous Region, China
@@ -291,13 +298,13 @@
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Zhu, 1992; Meng et al., 2021
      
-[*Pentathyraspis pelta*]
+[*Pentathyraspis pelta*](https://deepbone.org/public/#/explor?s_id=450&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Pan, 1992
 
-[*Platylomaspis serratus*]
+[*Platylomaspis serratus*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Gai et al., 2018
 > lower Telychian, 438.5
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
@@ -308,6 +315,13 @@
 
 > - Xishancun Formation, Xitun Formation, Qujing City, Yunnan Province, China; Sika Formation, Yen Minh, Vietnam; Khao Loc Formation; Ha Giang, Vietnam
 > - Fang et al., 1985; Liu, 1965; 1975; Tông-Dzuy et al., 1995; Tông-Dzuy and Janvier, 1987
+
+[*Pseudolaxaspis rostrata*](https://deepbone.org/public/#/explor?s_id=83163&functionId=Deepbone_header_searchResultOpen) (Liu, 1975)
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Liu, 1975; Gai et al., 2018
+> - **NOT in the matrix due to the poor information.** 
 
 [*Pterogonaspis yuhaii*](https://deepbone.org/public/#/explor?s_id=403&functionId=Deepbone_header_searchResultOpen) Zhu, 1992
 > Pragian, 410.8, 407.6
