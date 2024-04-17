@@ -566,6 +566,36 @@
 > - Posongchong Formation, Zhaotong City, Yunnan Province, China
 > - Wang and Zhu, 1994
 
+## **Galeaspid incertae sedis**
+[*Diploholcaspis daleensis*](https://deepbone.org/public/#/explor?s_id=74309&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2009
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Lu *et al*., 2007
+> - **NOT in the matrix due to the poor information.** 
+
+[*Hyperaspis acclivis*](https://deepbone.org/public/#/explor?s_id=623&functionId=Deepbone_header_searchResultOpen) Pan, 1992
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Pan, 1992
+> - **NOT in the matrix due to the poor information.**
+>
+[*Jiaoyu imperfectus*](https://deepbone.org/public/#/explor?s_id=83340&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2019
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Liu *et al*., 2019
+> - **NOT in the matrix due to the poor information.** 
+
+[*Pseudoduyunaspis bachuensis*](https://deepbone.org/public/#/explor?s_id=618&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Wang *et al*., 1996
+> - **NOT in the matrix due to the poor information.** 
+
+
 **References**
 
 Chen, Y., Gai, Z.-K., LI, Q., Wang, J.-H., Peng, L.-J., Wei, G.-B., and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early Silurian of Chongqing, southwestern China. *Acta Geologica Sinica‐English Edition* **96(2)**: 430-439.
