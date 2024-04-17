@@ -34,7 +34,7 @@
 
 > - Qingshui Formation；Lixi Town, Wuning County, Jiangxi Province, China
 > - Shan *et al*., 2022
-> - `#To be added in deepbone.
+> - ` #To be added in deepbone.
     
 [*Anjiaspis reticularis*](https://deepbone.org/public/#/explor?s_id=341&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2005
 > lower Telychian, 438.5 
