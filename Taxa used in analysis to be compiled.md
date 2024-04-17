@@ -320,6 +320,12 @@
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - Wang, 1991; Gai et al., 2005
 
+[*Miaojiaaspis*] Chen *et al*., in prep.
+> upper Telychian, 433.4
+
+> - Huixingshao Formation; Xiushan County, Chongqing, China
+> - Chen *et al*., in prep.
+
 [*Microhoplonaspis microthyris*](https://deepbone.org/public/#/explor?s_id=452&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > upper Lochkovian, 415.0, 410.8
 
@@ -560,11 +566,12 @@
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Pan and Wang, 1980
      
-[*Yongdongaspis littoralis*]
+[*Yongdongaspis littoralis*] Chen *et al*., 2022
 > upper Telychian, 433.4
 
 > - Huixingshao Formation; Xiushan County, Chongqing, China
-> - Chen et al., 2022
+> - Chen *et al*., 2022
+> - **To be added in deepbone.**
 
 [*Zhaotongaspis janvieri*](https://deepbone.org/public/#/explor?s_id=509&functionId=Deepbone_header_searchResultOpen) Wang and Zhu, 1994
 > Pragian, 410.8, 407.6
