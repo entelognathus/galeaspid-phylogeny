@@ -106,7 +106,6 @@
 
 > - [horizon and locality]
 > - Zhang *et al*., 2023
-
 > - **To be added in deepbone.**
 
 [*Diandongaspis xishancunensis*](https://deepbone.org/public/#/explor?s_id=497&functionId=Deepbone_header_searchResultOpen) Liu, 1975
@@ -149,24 +148,31 @@
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
 > - Liu, 1986; Zhu *et al*., 2012
 
+[*Dunyu tianlu*] sp. nov. Li *et al*., in prep.
+> Ludfordian, 425.6, 423.0
+
+> - Xiaoxi Formation; Xiushan County, Chongqing, China
+> - Li et al., in prep.
+
 [*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) (Liu, 1965)
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing, YUnnan, China.
 > - Liu, 1965; 1975; 1980; Zhu and Gai, 2007
+> - Type species.
 
-[*Eugaleaspis xujiachongensis*]
+[*Eugaleaspis xujiachongensis*](https://deepbone.org/public/#/explor?s_id=385&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Liu, 1975
 > - **NOT in the matrix.**
 
-[*Eugaleaspis lianhuashanensis*]
+[*Eugaleaspis lianhuashanensis*](https://deepbone.org/public/#/explor?s_id=386&functionId=Deepbone_header_searchResultOpen) Liu, 1986
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
-> - [references]
+> - Liu, 1986
 > - **NOT in the matrix.**
 
 [*Falxcornus liui*](https://deepbone.org/public/#/explor?s_id=82933&functionId=Deepbone_header_searchResultOpen) Meng and Gai, 2021
