@@ -34,7 +34,7 @@
 
 > - Qingshui Formation；Lixi Town, Wuning County, Jiangxi Province, China
 > - Shan *et al*., 2022
-> - ` #To be added in deepbone.
+> - **To be added in deepbone.**
     
 [*Anjiaspis reticularis*](https://deepbone.org/public/#/explor?s_id=341&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2005
 > lower Telychian, 438.5 
@@ -278,7 +278,11 @@
 > - Liu, 1975
 
 [*Laxaspis yulongssus*](https://deepbone.org/public/#/explor?s_id=484&functionId=Deepbone_header_searchResultOpen)
+> [geological range], XXX (maximum age), YYY (minimum age)
 
+> - [horizon and locality]
+> - [references]
+> - **NOT in the matrix.**
      
 [*Lopadaspis pinglensis*](https://deepbone.org/public/#/explor?s_id=465&functionId=Deepbone_header_searchResultOpen) (Wang et al., 2001)
 > Emsian, 407.6, 393.3
@@ -362,7 +366,6 @@
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - P'an and Wang, 1978
-> - Wang *et al*., 2002
 > - **NOT in the matrix due to the poor information.** 
 
 [*Nochelaspis maeandrine*](https://deepbone.org/public/#/explor?s_id=410&functionId=Deepbone_header_searchResultOpen) Zhu, 1992
@@ -374,6 +377,7 @@
 [*Neoduyunaspis minuta*](https://deepbone.org/public/#/explor?s_id=461&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > [geological range], XXX (maximum age), YYY (minimum age)
 
+> - [horizon and locality]
 > - P'an and Wang, 1978
 > - **NOT in the matrix due to the poor information.** 
      
@@ -398,18 +402,21 @@
 [*Polybranchiaspis zhanyiensis*](https://deepbone.org/public/#/explor?s_id=472&functionId=Deepbone_header_searchResultOpen) 
 > [geological range], XXX (maximum age), YYY (minimum age)
 
+> - [horizon and locality]
 > - [references]
 > - **NOT in the matrix due to the poor information.** 
 
 [*Polybranchiaspis minor*](https://deepbone.org/public/#/explor?s_id=473&functionId=Deepbone_header_searchResultOpen) 
 > [geological range], XXX (maximum age), YYY (minimum age)
 
+> - [horizon and locality]
 > - [references]
 > - **NOT in the matrix due to the poor information.**
 
 [*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) 
 > [geological range], XXX (maximum age), YYY (minimum age)
 
+> - [horizon and locality]
 > - [references]
 > - **NOT in the matrix due to the poor information.** 
 
