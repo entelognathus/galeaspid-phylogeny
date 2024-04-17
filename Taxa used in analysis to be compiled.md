@@ -14,6 +14,8 @@
 
 ## 还有一些属种没有纳入以前的系统发育分析中，看看是什么原因。有些是否可以纳入分析？可以对照deepbone补充一下。
 
+## 统计一下迄今为止，有多少有效属种？系统发育分析中，使用了多少种？未使用的种是什么情况？
+
 ## **outgroup taxa**
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair 1900
 > upper Wenlock to lower Ludlow (Gorstian), 430.5, 425.6
@@ -205,7 +207,7 @@
 > - Posongchong Formation, Wenshan County, Yunnan Province, China
 > - Wang and Wang, 1992; Zhu et al., 1994
 
-[***Hanyangaspis guodingshanensis***](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
+[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > lower to middle Telychian, 438.5, 433.4 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
