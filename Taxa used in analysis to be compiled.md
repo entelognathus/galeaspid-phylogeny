@@ -227,11 +227,14 @@
 > - Wang *et al*., 1980
 > - **NOT in the matrix.**
      
-[*Laxaspis qujingensis*]
+[*Laxaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=480&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Liu, 1975
+
+[*Laxaspis yulongssus*](https://deepbone.org/public/#/explor?s_id=484&functionId=Deepbone_header_searchResultOpen)
+
      
 [*Lopadaspis pinglensis*](https://deepbone.org/public/#/explor?s_id=465&functionId=Deepbone_header_searchResultOpen) (Wang et al., 2001)
 > Emsian, 407.6, 393.3
@@ -444,6 +447,11 @@
 
 > - Pingyipu Formation, Yanmenba, Jiangyou City, Sichuan Province, China
 > - P'an et al., 1975; P'an and Wang, 1978; Pan, 1992
+
+[*Siyingia altuspinosa*](https://deepbone.org/public/#/explor?s_id=476functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1982
+
+[*Siyingia perlatuspinosa*](https://deepbone.org/public/#/explor?s_id=73821&functionId=Deepbone_header_searchResultOpen) Si *et al*., 2015
+
 
 [*Stephaspis dipteriga*](https://deepbone.org/public/#/explor?s_id=613&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2007
 > lower Lochkovian, 419.2, 415.0
