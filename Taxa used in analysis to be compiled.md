@@ -345,19 +345,19 @@
 [*Polybranchiaspis zhanyiensis*](https://deepbone.org/public/#/explor?s_id=472&functionId=Deepbone_header_searchResultOpen 
 > [geological range], XXX (maximum age), YYY (minimum age)
 
-> - 
+> - [references]
 > - **NOT in the matrix due to the poor information.** 
 
 [*Polybranchiaspis minor*](https://deepbone.org/public/#/explor?s_id=473&functionId=Deepbone_header_searchResultOpen 
 > [geological range], XXX (maximum age), YYY (minimum age)
 
-> - 
+> - [references]
 > - **NOT in the matrix due to the poor information.**
 
 [*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen 
 > [geological range], XXX (maximum age), YYY (minimum age)
 
-> - 
+> - [references]
 > - **NOT in the matrix due to the poor information.** 
 
 [*Pseudolaxaspis rostrata*](https://deepbone.org/public/#/explor?s_id=83163&functionId=Deepbone_header_searchResultOpen) (Liu, 1975)
