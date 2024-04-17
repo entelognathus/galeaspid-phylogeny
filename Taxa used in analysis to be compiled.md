@@ -67,11 +67,33 @@
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - Wang, 1991
 
-[*Damaspis vartus*]
+[*Clarorbis apponomedianus*](https://deepbone.org/public/#/explor?s_id=499&functionId=Deepbone_header_searchResultOpen) Pan and Ji, 1993
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> -  Pan and Ji, 1993
+> - **NOT in the matrix.**
+
+[*Cyclodiscaspis ctenus*](https://deepbone.org/public/#/explor?s_id=489&functionId=Deepbone_header_searchResultOpen) Liu, 1975
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Liu, 1975
+> - **NOT in the matrix.**
+
+[*Damaspis vartus*](https://deepbone.org/public/#/explor?s_id=487&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1982
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Wang and Wang, 1982
+> - Type species.
+
+[*Damaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=482&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1981
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - Pan and Wang, 1981
+> - **NOT in the matrix.**
 
 [*Dayongaspis hunanensis*](https://deepbone.org/public/#/explor?s_id=300&functionId=Deepbone_header_searchResultOpen) Pan and Zeng, 1985
 > lower Telychian, 438.5 
@@ -82,15 +104,31 @@
 [*Dayongaspis culubra*] Zhang et al., 2023
 > [geological range], XXX (maximum age), YYY (minimum age)
 
+> - [horizon and locality]
 > - Zhang *et al*., 2023
-> - [references]
+
 > - **To be added in deepbone.**
 
-[*Dongfangaspis major*]
+[*Diandongaspis xishancunensis*](https://deepbone.org/public/#/explor?s_id=497&functionId=Deepbone_header_searchResultOpen) Liu, 1975
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+> - **NOT in the matrix.**
+
+[*Dongfangaspis major*](https://deepbone.org/public/#/explor?s_id=492&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > Pragian, 410.8, 407.6
 
 > - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
 > - Liu, 1975
+> - Type species.
+
+[*Dongfangaspis xishancunensis*](https://deepbone.org/public/#/explor?s_id=166655&functionId=Deepbone_header_searchResultOpen)
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - [horizon and locality]
+> - [references]
+> - **NOT in the matrix.**
      
 [*Duyunolepis paoyangensis*](https://deepbone.org/public/#/explor?s_id=455&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Emsian, 407.6, 393.3
