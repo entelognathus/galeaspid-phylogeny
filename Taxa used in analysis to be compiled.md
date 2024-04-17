@@ -342,19 +342,19 @@
 > - Xishancun Formation, Xitun Formation, Qujing City, Yunnan Province, China; Sika Formation, Yen Minh, Vietnam; Khao Loc Formation; Ha Giang, Vietnam
 > - Fang et al., 1985; Liu, 1965; 1975; Tông-Dzuy et al., 1995; Tông-Dzuy and Janvier, 1987
 
-[*Polybranchiaspis zhanyiensis*](https://deepbone.org/public/#/explor?s_id=472&functionId=Deepbone_header_searchResultOpen 
+[*Polybranchiaspis zhanyiensis*](https://deepbone.org/public/#/explor?s_id=472&functionId=Deepbone_header_searchResultOpen) 
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [references]
 > - **NOT in the matrix due to the poor information.** 
 
-[*Polybranchiaspis minor*](https://deepbone.org/public/#/explor?s_id=473&functionId=Deepbone_header_searchResultOpen 
+[*Polybranchiaspis minor*](https://deepbone.org/public/#/explor?s_id=473&functionId=Deepbone_header_searchResultOpen) 
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [references]
 > - **NOT in the matrix due to the poor information.**
 
-[*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen 
+[*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) 
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [references]
