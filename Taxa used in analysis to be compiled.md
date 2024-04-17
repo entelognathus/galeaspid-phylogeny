@@ -73,17 +73,24 @@
 > - Rongxi Formation; Zhangjiajie City, Hunan Province, China
 > - Pan and Zeng, 1985; Zhang et al., 2023
 
+[*Dayongaspis culubra*] Zhang et al., 2023
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - Zhang *et al*., 2023
+> - [references]
+> - **To be added in deepbone.**
+
 [*Dongfangaspis major*]
 > Pragian, 410.8, 407.6
 
 > - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
 > - Liu, 1975
      
-[*Duyunolepis paoyangensis*]
+[*Duyunolepis paoyangensis*](https://deepbone.org/public/#/explor?s_id=455&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Emsian, 407.6, 393.3
 
 > - Dunyun City, Guizhou Province, China
-> - Halstead, 1979; Pan, 1992; Pan and Wang, 1978; Pan and Wang, 1982 
+> - Halstead, 1979; Pan, 1992; P'an and Wang, 1978; Pan and Wang, 1982 
     
 [*Dunyu longiforus*](https://deepbone.org/public/#/explor?s_id=392&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2012
 > Ludfordian, 425.6, 423.0
@@ -220,7 +227,7 @@
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Liu, 1975
      
-[*Lopadaspis pinglensis*]
+[*Lopadaspis pinglensis*](https://deepbone.org/public/#/explor?s_id=465&functionId=Deepbone_header_searchResultOpen) (Wang et al., 2001)
 > Emsian, 407.6, 393.3
 
 > - Hexian Formation; Pingle County, Guangxi, China
@@ -292,11 +299,25 @@
 > - Nakaolin Formation; Nanning City, Guangxi Zhuang Autonomous Region, China
 > - Gai et al., 2018
 
+[*Paraduyunaspis hezhangensis*](https://deepbone.org/public/#/explor?s_id=457&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - P'an and Wang, 1978
+> - Wang *et al*., 2002
+> - **NOT in the matrix due to the poor information.** 
+
 [*Nochelaspis maeandrine*](https://deepbone.org/public/#/explor?s_id=410&functionId=Deepbone_header_searchResultOpen) Zhu, 1992
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Zhu, 1992; Meng et al., 2021
+
+[*Neoduyunaspis minuta*](https://deepbone.org/public/#/explor?s_id=461&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> [geological range], XXX (maximum age), YYY (minimum age)
+
+> - P'an and Wang, 1978
+> - Wang *et al*., 2002
+> - **NOT in the matrix due to the poor information.** 
      
 [*Pentathyraspis pelta*](https://deepbone.org/public/#/explor?s_id=450&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > lower Lochkovian, 419.2, 415.0
