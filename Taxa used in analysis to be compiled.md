@@ -11,6 +11,7 @@
 
 > deepbone清理完毕；除了保存不佳的属，其余属均纳入分析；修水鱼属待林翔鸿文章；四营鱼属待后续加入；土家鱼属、苗家鱼属待分析
 > 共96个有效种；系统发育分析使用60；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析
+> **看看华南鱼的新种zhang et al. 2023是否编过码**
 
 ## **outgroup taxa**
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair, 1900
@@ -398,13 +399,6 @@
 > - [Wang and Zhu, 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ruqyCrR4NhENlbzKozB_XmI2f0oCzxD3qVnL5F1T7xwI9u9ora4TZ0wT6LkK6u7hGWkCZ_PlNWNTfNn3EfoTgpZWPdR7kqSy8SEMYFGzSe51KiZBym5PzchSahUC3dwOI=&uniplatform=NZKPT&language=CHS)
 
 ## **Galeaspid taxa not used in the phylogenetic analysis**
-[*Altigibbaspis huiqingae*](https://deepbone.org/public/#/explor?s_id=73601functionId=Deepbone_header_searchResultOpen)  Liu *et al*., 2018
-> lower Lochkovian, 419.2, 415.0
-
-> - Xishancun Formation; near the northeast entrance of Liaokuo Park, Qujing City, Yunnan Province, China
-> - [Liu *et al*., 2018](https://www.vertpala.ac.cn/EN/Y2018/V56/I1/1)
-> - 
-
 [*Clarorbis apponomedianus*](https://deepbone.org/public/#/explor?s_id=499&functionId=Deepbone_header_searchResultOpen) Pan and Ji, 1993
 > Eifelian, 393.3, 387.7 
 
