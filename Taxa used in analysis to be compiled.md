@@ -9,12 +9,8 @@
 > - [references]
 > - **any comments on this species added here**
 
-
-## To Xiao Shan and Chen Yang, 按照下面Atleaspis tessellata的方式编辑galeaspid taxa。现在系统发育分析已尽可能使用种作为OTU，因此下面及以后的分析一般情况下也要用种，这样更严谨性。有些多种的，暂时可以spp.处理，但要逐渐替换掉。
-
-## 还有一些属种没有纳入以前的系统发育分析中，看看是什么原因。有些是否可以纳入分析？可以对照deepbone补充一下。Shan Re: deepbone清理完毕；除了保存不佳的属，其余属均纳入分析；修水鱼属待林翔鸿文章；四营鱼属待后续加入；土家鱼属、苗家鱼属待分析
-
-## 共96个有效种；系统发育分析使用60；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析
+> deepbone清理完毕；除了保存不佳的属，其余属均纳入分析；修水鱼属待林翔鸿文章；四营鱼属待后续加入；土家鱼属、苗家鱼属待分析
+> 共96个有效种；系统发育分析使用60；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析
 
 ## **outgroup taxa**
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair, 1900
@@ -24,207 +20,199 @@
 > - [Ritchie, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/69/2680215).
 
 ## **Galeaspid taxa used in the phylogenetic analysis**
-
-[*Anjiaspis ericius*](https://deepbone.cn/public/#/explor?s_id=172117&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2022
+1. [*Anjiaspis ericius*](https://deepbone.cn/public/#/explor?s_id=172117&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2022
 > lower Telychian, 438.5, 437.0 
 
 > - Qingshui Formation；Lixi Town, Wuning County, Jiangxi Province, China
 > - [Shan *et al*., 2022](https://www.sciencedirect.com/science/article/abs/pii/S1367912022001109)
     
-[*Anjiaspis reticularis*](https://deepbone.org/public/#/explor?s_id=341&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2005
+2. [*Anjiaspis reticularis*](https://deepbone.org/public/#/explor?s_id=341&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2005
 > lower Telychian, 438.5, 437.0 
 
 > - Kangshan Formation; Anji County, Zhejiang Province, China
 > - [Gai and Zhu, 2005](https://www.vertpala.ac.cn/CN/Y2005/V43/I03/165)
 
-[*Antiquisagittaspis cornuta*](https://deepbone.org/public/#/explor?s_id=520&functionId=Deepbone_header_searchResultOpen) Liu, 1985
+3. [*Antiquisagittaspis cornuta*](https://deepbone.org/public/#/explor?s_id=520&functionId=Deepbone_header_searchResultOpen) Liu, 1985
 > Pragian, 410.8, 407.6
 
 > - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
 > - [Liu, 1985](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rPlgolc_OnIDYCgw27p9NQqNbhtZSyYTu8r8eyLERtKv65A7ibXlwZ7zweNktnFZCr1Agn6PUiHIdRYBNzfSXW0oS5tf5HE1j6M4uibqX8yLvmFmAWnsJJX3DkRVsGefo=&uniplatform=NZKPT&language=CHS)
 
-[*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1975
+4. [*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1975
 > Pragian, 410.8, 407.6
 
 > - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
 > - [Pan *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rShO5CExHS6xjhXP78p22cRtVv2mOpYXoBUkyYT66wwhmQ3yORSBi5Y1733jOicTFqC1aCS3zvrW6BoJXu-KRlYt5tDOSrhIbdDkFYvmOvRa039eX60NsqUCo07oO0JKs=&uniplatform=NZKPT&language=CHS)
 
-[*Asiaspis liangi*](https://deepbone.cn/public/#/explor?s_id=172130&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
+5. [*Asiaspis liangi*](https://deepbone.cn/public/#/explor?s_id=172130&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
 > Pragian, 410.8, 407.6
 
 > - Nagaoling Formation; Nanning City, Guangxi, China
 > - [Zhang *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-341.html)
 
-[*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
+6. [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
 > Pragian, 410.8, 407.6
 
 > - Si Ka Formation; Bac Thai Province, northern Vietnam
 > - [Janvier *et al*., 1993](https://www.academia.edu/download/34975424/1993a-A_new_Early_Devonian_Galeaspid_from_Bac_Thai_Province.pdf).
 > - The age of the Si Ka Formation is revised as the Pragian ([Gai *et al*., 2022](https://link.springer.com/article/10.1007/s12549-021-00486-z)).
 
-[*Changxingaspis gui*](https://deepbone.org/public/#/explor?s_id=263&functionId=Deepbone_header_searchResultOpen) Wang, 1991
+7. [*Changxingaspis gui*](https://deepbone.org/public/#/explor?s_id=263&functionId=Deepbone_header_searchResultOpen) Wang, 1991
 > lower Telychian, 438.5, 437.0  
 
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - [Wang, 1991](https://cir.nii.ac.jp/crid/1130000793837287552)
 
-[*Damaspis vartus*](https://deepbone.org/public/#/explor?s_id=487&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1982
+8. [*Damaspis vartus*](https://deepbone.org/public/#/explor?s_id=487&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1982
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Wang and Wang, 1982](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rtZC92JEVepzTVY0gDRVewPo6f2SANood90hlz5xZp_UC982vYUAdC0y2yyuEclkwKk-BXDw8VOj0xxDQDeeePV1JrFMIXDRqmh3pWcTanzo1-XkNssmYMg09MSW3iGTs=&uniplatform=NZKPT&language=CHS)
 > - Type species.
 
-[*Dayongaspis hunanensis*](https://deepbone.org/public/#/explor?s_id=300&functionId=Deepbone_header_searchResultOpen) Pan and Zeng, 1985
+9. [*Dayongaspis hunanensis*](https://deepbone.org/public/#/explor?s_id=300&functionId=Deepbone_header_searchResultOpen) Pan and Zeng, 1985
 > lower Telychian, 438.5, 437.0 
 
 > - Rongxi Formation; Zhangjiajie City, Hunan Province, China
 > - [Pan and Zeng, 1985](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ou2CvEwdXaFlbi0uJG1T7ure4gsQXtf_Vl_5cac1XVNyBIksQoDpXqcV4JlpVGe9NEodLhw8jXUYVDFDUtB0kkR0m-Hev60nBoeLLqbzt57GllQImd_CgNFdjdqkgtEds=&uniplatform=NZKPT&language=CHS); [Zhang et al., 2023](https://www.tandfonline.com/doi/full/10.1080/08912963.2023.2225083)
 
-[*Dayongaspis colubra*](https://deepbone.cn/public/#/explor?s_id=172118&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
+10. [*Dayongaspis colubra*](https://deepbone.cn/public/#/explor?s_id=172118&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
 > lower Telychian, 438.5, 437.0 
 
 > - Xiushan Formation; Zhangjiajie City, Hunan Province, China
 > - [Zhang *et al*., 2023](https://www.tandfonline.com/doi/full/10.1080/08912963.2023.2225083)
 
-[*Dongfangaspis major*](https://deepbone.org/public/#/explor?s_id=492&functionId=Deepbone_header_searchResultOpen) Liu, 1975
+11. [*Dongfangaspis major*](https://deepbone.org/public/#/explor?s_id=492&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > Pragian, 410.8, 407.6
 
 > - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rjYkm3ypqglZ0kyX1vbwO1RjoCOUErDDw2lfkdHlDexMJDDUNWW8y9nyaNYVIiaFd6-BHTZfRlfW2dQYgZ21O02vluYpreZV26sjhLKgoFN-BMLebw1q4-TN_NwM4z_Kc=&uniplatform=NZKPT&language=CHS)
 > - Type species.
      
-[*Duyunolepis paoyangensis*](https://deepbone.org/public/#/explor?s_id=455&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+12. [*Duyunolepis paoyangensis*](https://deepbone.org/public/#/explor?s_id=455&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Emsian, 407.6, 393.3
 
 > - Dunyun City, Guizhou Province, China
 > - [Halstead, 1979](https://www.nature.com/articles/282833a0); Pan, 1992; P'an and Wang, 1978; [Pan and Wang, 1982](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q9MIXcst7zt24C6J3OTk7-5YYeUmeJQSF7BCGi-1IB5w6XIqQ2tN6pDAzfCU9qWwSNlD2cH08et0Z0Zz0m1STkTkK_9DrSsUUWZLoCnxbZfGI55VK6Qd-oF3JPDcBloU0=&uniplatform=NZKPT&language=CHS) 
     
-[*Dunyu longiforus*](https://deepbone.org/public/#/explor?s_id=392&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2012
+13. [*Dunyu longiforus*](https://deepbone.org/public/#/explor?s_id=392&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2012
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Formation；Qujing, Yunnan, China.
 > - [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
 > - **Not in the matrix.**
 
-[*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) Liu, 1986
+14. [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) Liu, 1986
 > Ludfordian, 425.6, 423.0
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
 > - [Liu, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pHiH_V12eJSwtV5__RKZYFyJsNaqyhnEhEAe4F6ToqpV2YJGjgv95UYMSRNwu6z_229bz2UJ_mJJKaiCEVjp0tLLImyi3YkbrBMRItjPIvzHv84dNT0BfWylFKTQx5myI=&uniplatform=NZKPT&language=CHS); [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
 > - Type species.
 
-[*Dunyu tianlu*] sp. nov. Li *et al*., in prep.
+15. [*Dunyu tianlu*] sp. nov. Li *et al*., in prep.
 > Ludfordian, 425.6, 423.0
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
 > - Li et al., in prep.
 
-[*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) Liu, 1965
+16. [*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) Liu, 1965
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing, YUnnan, China
 > - [Liu, 1965](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o0OzCW46noLeiMdg6QycRruZNzj2NsuURRq4O2iU-0PZrs1JUX3Am9XDBVM27xypGB1cpFbiYqCfJq7cS5xyRZer2DB3N0yMk0Fb2Gf57CVKkimRaJQ6Bc2HSzc4itXJc=&uniplatform=NZKPT&language=CHS); [1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o28NFVQ9xZU7A00RPjzX8DDX8CpN0kbqCR75ZbO6befOfs_hJCLe5V12Jevp_auLVNpIIDTTP165LdeedDmCDBLcjP7MP9LBCpEooLPoTBnJ48OUduHffzWJuTF7uxCBI=&uniplatform=NZKPT&language=CHS); [1980](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pXCwEOhMJmJY7Umb0OMpCU40Da9bbdSGIOQI5PvU-MhBl3ISGic1eXHmoVTLSZe20gzRX0JZ9pKLjk22_Q2XyFM9kUSFowC9EPhWD52uQuOoh9xXQQ8BmJ9hKxmCWOe7Y=&uniplatform=NZKPT&language=CHS); 
 > - Type species.
 
-[*Falxcornus liui*](https://deepbone.org/public/#/explor?s_id=82933&functionId=Deepbone_header_searchResultOpen) Meng and Gai, 2021
+17. [*Falxcornus liui*](https://deepbone.org/public/#/explor?s_id=82933&functionId=Deepbone_header_searchResultOpen) Meng and Gai, 2021
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Meng and Gai, 2021](https://www.tandfonline.com/doi/full/10.1080/08912963.2021.1952198)
 
-[*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
+18. [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation, Wenshan County, Yunnan Province, China; Xujiachong Formation; Qujing City, Yunnan Province, China
 > - [Wang and Wang, 1992](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pm4DVSWcYIYolOolmRjXVSsy8-YC7Zl3FJ4PAYRTVBJsGLmeShCNSIcl_eqHxmyZUZYzuCjx4fG0os3bbDsW2uoeu7VHDxGkf9ntEn7n2LspR2LAz-PP091JYAHIIA2Xs=&uniplatform=NZKPT&language=CHS); [Zhu *et al*., 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q-k-as1DjvrHiXuGsdKQJzF6phIjU2Ca0D7SiAwBH2VNbz3jYFG--RS8NrBeoB1RZCmljTFbISXlIj5-rxnvvKOWHRTcHPoD55FM_n5T17W_RxUnzx-4SJ644G9XvFfTk=&uniplatform=NZKPT&language=CHS)
 
-[*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993  
+19. [*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993  
 > middle Telychian, 436.0
 
 > - Fentou Formation; Wuwei City, Anhui Province, China
 > - [Pan and Chen, 1993](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o-ipCY73FwiAW7xwKxATMzWI3qiv_ChxM6Nf5aLH7Py2Xr9FYG8hy90TtMEQd4RAU-rFpye9hiAx0U0t6WOslKpkC2OQYjvzjfi9sc_X-2ckSqO19c8iKlMzAsEdOwwDY=&uniplatform=NZKPT&language=CHS) 
 
-[*Gumuaspis rostrata*](https://deepbone.org/public/#/explor?s_id=434&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
+20. [*Gumuaspis rostrata*](https://deepbone.org/public/#/explor?s_id=434&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation, Wenshan County, Yunnan Province, China
 > - [Wang and Wang, 1992]((https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pm4DVSWcYIYolOolmRjXVSsy8-YC7Zl3FJ4PAYRTVBJsGLmeShCNSIcl_eqHxmyZUZYzuCjx4fG0os3bbDsW2uoeu7VHDxGkf9ntEn7n2LspR2LAz-PP091JYAHIIA2Xs=&uniplatform=NZKPT&language=CHS)); [Zhu *et al*., 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q-k-as1DjvrHiXuGsdKQJzF6phIjU2Ca0D7SiAwBH2VNbz3jYFG--RS8NrBeoB1RZCmljTFbISXlIj5-rxnvvKOWHRTcHPoD55FM_n5T17W_RxUnzx-4SJ644G9XvFfTk=&uniplatform=NZKPT&language=CHS)
 
-[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
+21. [*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > lower to middle Telychian, 438.5, 433.4 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
 > - [Pan *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9oGBdUgjfj7BRcJ6xgYtJe1GJEKZitogzBEMEatsOrGGHDzYKT-DCL0v6HVmDYm8vJ-Z4ZTTDhJFB0Nu725PbPbrGdMi5il8yXdjRjHn5p0AP3BxzZSPQN1libeRhw25aM=&uniplatform=NZKPT&language=CHS); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)  
 
-[*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973
+22. [*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation; Wuding County, Yunnan Province, China
 > - [Liu, 1973](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q50PGees7ReZDFKOJ2bweD-Z9XT6_FCBzWSaWcTbVGV5hhRtM3k_gJGcp3BjU9vgystJsTXTmtzHgMsfrhkBBUKTbPegN_sB7qsOXqiPXMDFaaxOb1F7gcAWTKtmrREe4=&uniplatform=NZKPT&language=CHS)
 
-[*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
+23. [*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
 > Pragian, 410.8, 407.6
 
 > - Nagaoling Formation; Nanning City, Guangxi, China
 > - [Zhang *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-341.html)
    
-[*Jiangxialepis jiujiangensis*](https://deepbone.cn/public/#/explor?s_id=172119&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2023
+24. [*Jiangxialepis jiujiangensis*](https://deepbone.cn/public/#/explor?s_id=172119&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2023
 > lower Telychian, 438.5, 437.0
 
 > - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
 > - [Shan *et al*., 2023](https://onlinelibrary.wiley.com/doi/10.1111/1755-6724.15009)
 
-[*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021
+25. [*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021
 > lower to middle Telychian, 438.5, 433.4 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
 > - [Liu *et al*., 2021](https://www.tandfonline.com/doi/abs/10.1080/14772019.2021.1883755); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)   
 
-[*Jiangxialepis rongi*](https://deepbone.cn/public/#/explor?s_id=172120&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2023
+26. [*Jiangxialepis rongi*](https://deepbone.cn/public/#/explor?s_id=172120&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2023
 > lower Telychian, 438.5, 437.0
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - [Liu *et al*., 2023](https://www.sciencedirect.com/science/article/pii/S0031018223003929)
 
-[*Kwangnanaspis subtriangularis*](https://deepbone.org/public/#/explor?s_id=426&functionId=Deepbone_header_searchResultOpen) Cao, 1979
+27. [*Kwangnanaspis subtriangularis*](https://deepbone.org/public/#/explor?s_id=426&functionId=Deepbone_header_searchResultOpen) Cao, 1979
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation; Guangnan County, Yunnan Province, China
 > - [Cao, 1979](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9oXMdf1iCUoMH_dYzhEfnaVCJqEDeb24zO1vvevhEyK29QkCBuVh-KbqN6Dh-S2nzZ9VPW_E_LbJ2EyqTCQuoFXZYgrTUXhRz4kEx6zbmcC6jkpSJM_uEbK2086xN2nD0I=&uniplatform=NZKPT&language=CHS)
 
-[*Laxaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=480&functionId=Deepbone_header_searchResultOpen) Liu, 1975
+28. [*Laxaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=480&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rKe-2vX7OIRfxgnshIl0WYU9_4fZSb4WJc3GDjbhaHUv2AXSyxvBWcHAY5BKFAORsjvlENOJiz9eP9N4ZkvuzfltAhfzIIxS-Z_MAc6F8IzPKQbi07r6HiyueATH94uxY=&uniplatform=NZKPT&language=CHS)
      
-[*Lopadaspis pinglensis*](https://deepbone.org/public/#/explor?s_id=465&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2001
+29. [*Lopadaspis pinglensis*](https://deepbone.org/public/#/explor?s_id=465&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2001
 > Emsian, 407.6, 393.3
 
 > - Hexian Formation; Pingle County, Guangxi, China
 > - [Wang *et al*., 2001](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rrBJ34OPADJDOexlkcigtxhg1y5y5y8fjq-47m1CmrK6kN8HBXGlOwPdPc84uTAdyB2mGevdwzT_5-WRJyulRD8r1qm6Xq2qn6KUjNz2JlEQ==&uniplatform=NZKPT); [2002](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9p0vHxCIT5p2Kx4ywwDp_aAxqXMcNZvEiuLWEI9aARlXJ9TWqSfneENZRh5jgiHFr8NDwlkpenQWgsISHxhaLarfWgPIJVGV4MlOuBLGSTLXQ==&uniplatform=NZKPT)
      
-[*Lungmenshanaspis kiangyouensis*](https://deepbone.org/public/#/explor?s_id=551&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1975
+30. [*Lungmenshanaspis kiangyouensis*](https://deepbone.org/public/#/explor?s_id=551&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1975
 > Pragian, 410.8, 407.6
 
 > - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
 > - [Pan *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q8VtxKn0VPsFGMHl3d9zxE8CTR0Djy87ExgKx1X3XpiKeTxeqO8XJLc8t8RP0GPY0uaSREpWTpbTRqgtDkaw4lKAFDppqLjB1u-ZZf7eslQEXKVnWsripdD0ITOIBuQYU=&uniplatform=NZKPT&language=CHS); Pan and Wang, 1978
 > - Type species.
 
-[*Macrothyraspis longicornis*](https://deepbone.org/public/#/explor?s_id=596&functionId=Deepbone_header_searchResultOpen) Pan, 1992
+31. [*Macrothyraspis longicornis*](https://deepbone.org/public/#/explor?s_id=596&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation; Guangnan County, Wenshan County, Yunnan Province, China
 > - Pan, 1992; [Zhao *et al*., 2002](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o_qkte4ucKad4JYWN5_ZjgnAfSCzq6YwZUirJgf59qUF_2AjmPbx2UOFXEo3FHpnrrBaP2TK7cvu9zOJ41fuF74-bcKHuBcExnuldOIbelqw==&uniplatform=NZKPT)
 > - Type species.
-
-[*Macrothyraspis longilanceus*](https://deepbone.org/public/#/explor?s_id=597&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2005
-> Pragian, 410.8, 407.6
-
-> - Posongchong Formation; Gumu Town, Wenshan County, Yunnan Province, China
-> - [Wang *et al*., 2005](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rg_rPG2YVWyk6sG9BpKNpf_IqjX_eb0YCPc3V9Z3XHJkXICFDi4SoLkXgGIOXcCL5A4QH9s3IvUr5M2l3wlzchjQvNGVdm7auFa2FWprxxV4EP5G69fS0f0OZwiEgcLQM=&uniplatform=NZKPT&language=CHS)
-> - **NOT in the matrix.**
 
 [*Meishanaspis lehmani*](https://deepbone.org/public/#/explor?s_id=334&functionId=Deepbone_header_searchResultOpen) Wang, 1991
 > lower Telychian, 438.5, 437.0
