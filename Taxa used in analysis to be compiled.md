@@ -14,7 +14,7 @@
 
 ## 还有一些属种没有纳入以前的系统发育分析中，看看是什么原因。有些是否可以纳入分析？可以对照deepbone补充一下。Shan Re: deepbone清理完毕；除了保存不佳的属，其余属均纳入分析；修水鱼属待林翔鸿文章；四营鱼属待后续加入；土家鱼属、苗家鱼属待分析
 
-## 统计一下迄今为止，有多少有效属种？系统发育分析中，使用了多少种？未使用的种是什么情况？Shan Re: 共96个有效种；系统发育分析使用60；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析
+## 共96个有效种；系统发育分析使用60；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析
 
 ## **outgroup taxa**
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair, 1900
@@ -450,13 +450,6 @@
 > - Lianhuashan Formation; Guixian, Guangxi, China
 > - [Lu *et al*., 2007]((https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o6aqjs3RPDPH0bplr0kWIhD_jNH7KbBrlkFtsfW46nvW6chTHbMxGA15SBqdX44I5sUNttDcvIYMxmiTvwJZTCsPVvH3DiIBu7esxiWFtjuHck7tyvyy4zte-RejfAxmo=&uniplatform=NZKPT&language=CHS))
 > - **NOT in the matrix due to the poor information.** 
-
-[*Dongfangaspis xishancunensis*](https://deepbone.org/public/#/explor?s_id=166655&functionId=Deepbone_header_searchResultOpen)
-> [geological range], XXX (maximum age), YYY (minimum age)
-
-> - [horizon and locality]
-> - [references]
-> - **Invalid species.**
 
 [*Eugaleaspis xujiachongensis*](https://deepbone.org/public/#/explor?s_id=385&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > Pragian, 410.8, 407.6
