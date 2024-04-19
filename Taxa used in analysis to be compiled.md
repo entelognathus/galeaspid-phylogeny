@@ -221,11 +221,12 @@
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - [Wang, 1991](https://cir.nii.ac.jp/crid/1130000793837287552); [Gai *et al*., 2005](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ol7S36ZC9GqEW2_UWEFWTGYYnlvIEOdude2id0cGScfF1gFnxF8VA5IcFe7Do35ZaJQ_RcMFF5oU8Cyp23Sic5ymj4YMhiBBCXkmQhCk7rTrLRtvq2WFpxzIJJp9RYK68=&uniplatform=NZKPT&language=CHS)
 
-33. [*Miaojiaaspis*] Chen *et al*., in prep.
+33. [*Miaojiaaspis dichotomus*] Chen *et al*., in prep.
 > upper Telychian, 433.4
 
 > - Huixingshao Formation; Xiushan County, Chongqing, China
 > - Chen *et al*., in prep.
+> - **NOT in the matrix. To be added by Chen Yang.**
 
 34. [*Microhoplonaspis microthyris*](https://deepbone.org/public/#/explor?s_id=452&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > upper Lochkovian, 415.0, 410.8
@@ -354,7 +355,7 @@
 
 > - Huixingshao Formation; Huayuan County, Hunan Province, China; Xiushan County, Chongqing, China
 > - [Gai *et al*., 2022](https://www.nature.com/articles/s41586-022-04897-6)
-> - **NOT in the matrix. to be added**
+> - **NOT in the matrix. To be added by Chen Yang.**
 
 55. [*Tridensaspis magnoculus*](https://deepbone.org/public/#/explor?s_id=407&functionId=Deepbone_header_searchResultOpen) Liu, 1986
 > Pragian, 410.8, 407.6
