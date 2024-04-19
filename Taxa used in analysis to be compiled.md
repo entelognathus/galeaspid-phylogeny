@@ -147,13 +147,22 @@
 > - Posongchong Formation, Wenshan County, Yunnan Province, China
 > - [Wang and Wang, 1992]((https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pm4DVSWcYIYolOolmRjXVSsy8-YC7Zl3FJ4PAYRTVBJsGLmeShCNSIcl_eqHxmyZUZYzuCjx4fG0os3bbDsW2uoeu7VHDxGkf9ntEn7n2LspR2LAz-PP091JYAHIIA2Xs=&uniplatform=NZKPT&language=CHS)); [Zhu *et al*., 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q-k-as1DjvrHiXuGsdKQJzF6phIjU2Ca0D7SiAwBH2VNbz3jYFG--RS8NrBeoB1RZCmljTFbISXlIj5-rxnvvKOWHRTcHPoD55FM_n5T17W_RxUnzx-4SJ644G9XvFfTk=&uniplatform=NZKPT&language=CHS)
 
+
 21. [*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > lower to middle Telychian, 438.5, 433.4 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
 > - [Pan *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9oGBdUgjfj7BRcJ6xgYtJe1GJEKZitogzBEMEatsOrGGHDzYKT-DCL0v6HVmDYm8vJ-Z4ZTTDhJFB0Nu725PbPbrGdMi5il8yXdjRjHn5p0AP3BxzZSPQN1libeRhw25aM=&uniplatform=NZKPT&language=CHS); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)  
 
-22. [*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973
+
+22. [*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020
+> lower to middle Telychian, 438.5, 433.4 
+
+> - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
+> - [Liu *et al*., 2020](http://www.earth-science.net/article/doi/10.3799/dqkx.2020.343); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)  
+> - 
+
+23. [*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation; Wuding County, Yunnan Province, China
@@ -447,7 +456,6 @@
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
 > - Li et al., in prep.
 
-
 [*Eugaleaspis xujiachongensis*](https://deepbone.org/public/#/explor?s_id=385&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > Pragian, 410.8, 407.6
 
@@ -462,12 +470,11 @@
 > - [Liu, 1986](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rR8e7JF5IOLx1CF_fqvEJ-rGY8qEcsnX9fQ8D8ZNjdB4ZQQUwzFOcTRm9lysq-sGOhlWy7eRx5ACzaID-19Cdn_wgGSFIO8BEzDnti0AmwBaDRSKmLvqUp_E5BOiEaoWM=&uniplatform=NZKPT&language=CHS)
 > - The type species of *Eugaleaspis* is used in the analysis.
 
-[*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020
-> lower to middle Telychian, 438.5, 433.4 
+[*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
+> Pragian, 410.8, 407.6
 
-> - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
-> - [Liu *et al*., 2020](http://www.earth-science.net/article/doi/10.3799/dqkx.2020.343); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)  
-> - 
+> - Nagaoling Formation; Nanning City, Guangxi, China
+> - [Zhang *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-341.html) 
 
 [*Hyperaspis acclivis*](https://deepbone.org/public/#/explor?s_id=623&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > upper Lochkovian, 415.0, 410.8
