@@ -103,7 +103,7 @@
 > - Dunyun City, Guizhou Province, China
 > - [Halstead, 1979](https://www.nature.com/articles/282833a0); Pan, 1992; P'an and Wang, 1978; [Pan and Wang, 1982](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q9MIXcst7zt24C6J3OTk7-5YYeUmeJQSF7BCGi-1IB5w6XIqQ2tN6pDAzfCU9qWwSNlD2cH08et0Z0Zz0m1STkTkK_9DrSsUUWZLoCnxbZfGI55VK6Qd-oF3JPDcBloU0=&uniplatform=NZKPT&language=CHS) 
     
-14. [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) Liu, 1986
+14. [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) (Liu, 1986)
 > Ludfordian, 425.6, 423.0
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
