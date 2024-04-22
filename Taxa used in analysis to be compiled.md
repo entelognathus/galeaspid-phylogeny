@@ -147,20 +147,17 @@
 > - Posongchong Formation, Wenshan County, Yunnan Province, China
 > - [Wang and Wang, 1992]((https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pm4DVSWcYIYolOolmRjXVSsy8-YC7Zl3FJ4PAYRTVBJsGLmeShCNSIcl_eqHxmyZUZYzuCjx4fG0os3bbDsW2uoeu7VHDxGkf9ntEn7n2LspR2LAz-PP091JYAHIIA2Xs=&uniplatform=NZKPT&language=CHS)); [Zhu *et al*., 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q-k-as1DjvrHiXuGsdKQJzF6phIjU2Ca0D7SiAwBH2VNbz3jYFG--RS8NrBeoB1RZCmljTFbISXlIj5-rxnvvKOWHRTcHPoD55FM_n5T17W_RxUnzx-4SJ644G9XvFfTk=&uniplatform=NZKPT&language=CHS)
 
-
 21. [*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
 > lower to middle Telychian, 438.5, 435.1 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
 > - [Pan *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9oGBdUgjfj7BRcJ6xgYtJe1GJEKZitogzBEMEatsOrGGHDzYKT-DCL0v6HVmDYm8vJ-Z4ZTTDhJFB0Nu725PbPbrGdMi5il8yXdjRjHn5p0AP3BxzZSPQN1libeRhw25aM=&uniplatform=NZKPT&language=CHS); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)  
 
-
 22. [*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020
 > lower to middle Telychian, 438.5, 435.1 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
 > - [Liu *et al*., 2020](http://www.earth-science.net/article/doi/10.3799/dqkx.2020.343); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)  
-> - 
 
 23. [*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Pragian, 410.8, 407.6
@@ -558,7 +555,7 @@
 > - P'an and Wang, 1978
 > - **NOT in the matrix due to the poor information.** 
 
-21. [*Platycaraspis tianshanensis*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002
+21. [*Platycaraspis tianshanensis*] Wang *et al*., 2002
 > lower Telychian, 438.5, 436.8
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
@@ -566,12 +563,13 @@
 > - **To be added in deepbone。** 
 > - **NOT in the matrix due to the poor information.** 
 
-22. [*Polybranchiaspis zhanyiensis*](https://deepbone.org/public/#/explor?s_id=472&functionId=Deepbone_header_searchResultOpen) 
-> [geological range], XXX (maximum age), YYY (minimum age)
+22. [*Polybranchiaspis zhanyiensis*](https://deepbone.org/public/#/explor?s_id=472&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> Lochkovian, 419.2, 410.8
 
-> - [horizon and locality]
-> - [references]
-> - **NOT in the matrix due to the poor information.** 
+> - Cuifengshan Group, Zhanyi, Qujing, Yunnan, China.
+> - P'an and Wang, 1978
+> - **NOT in the matrix due to the poor information.**
+> - Zhuojihe, to be clarified in which formation, most likely Xtun Formation
 
 23. [*Polybranchiaspis minor*](https://deepbone.org/public/#/explor?s_id=473&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > lower Lochkovian, 419.2, 415.0
@@ -580,11 +578,11 @@
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9osjgmwUzT5o1Xz5RDUmwrWiY8UDo1RRHLicayKSUBTyJpOd6Zx0UITFhQZKOgRhpmUzZLZVOsTx8zqajJi2E2wijXHTcCJTGKYPgG_4F4IQns-2dglHtsWo9rvxmPW1Jw=&uniplatform=NZKPT&language=CHS)
 > - **NOT in the matrix due to the poor information.**
 
-24. [*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1978
+24. [*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Pridoli, 423.0, 419.2
 
 > - Yulungssu Formation; Qujing City, Yunnan Province, China
-> - Pan and Wang, 1978
+> - P'an and Wang, 1978
 > - **NOT in the matrix due to the poor information.** 
 
 25. [*Pseudoduyunaspis bachuensis*](https://deepbone.org/public/#/explor?s_id=618&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996
@@ -594,10 +592,10 @@
 > - Wang *et al*., 1996
 > - **NOT in the matrix due to the poor information.** 
 
-26. [*Pseudolaxaspis rostrata*](https://deepbone.org/public/#/explor?s_id=83163&functionId=Deepbone_header_searchResultOpen) Liu, 1975
-> [geological range], XXX (maximum age), YYY (minimum age)
+26. [*Pseudolaxaspis rostrata*](https://deepbone.org/public/#/explor?s_id=83163&functionId=Deepbone_header_searchResultOpen) (Liu, 1975)
+> lower Lochkovian, 419.2, 415.0
 
-> - [horizon and locality]
+> - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9osjgmwUzT5o1Xz5RDUmwrWiY8UDo1RRHLicayKSUBTyJpOd6Zx0UITFhQZKOgRhpmUzZLZVOsTx8zqajJi2E2wijXHTcCJTGKYPgG_4F4IQns-2dglHtsWo9rvxmPW1Jw=&uniplatform=NZKPT&language=CHS); [Gai *et al*., 2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202217)
 > - **NOT in the matrix due to the poor information.** 
 
@@ -635,6 +633,13 @@
 *Xiyuichthys lixiensis*
 
 *Changxingaspis nianzhongi*
+
+[*'Dongfangaspis qujingensis'*] Pan and Wang, 1981
+> lower Lochkovian, 419.2, 415.0
+
+> - Xishancun Formation; Qujing City, Yunnan Province, China
+> -
+
 
 **References**
 
