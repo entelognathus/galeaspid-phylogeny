@@ -416,40 +416,39 @@
 > - Li et al., in prep.
 
 ## **Galeaspid taxa not used in the phylogenetic analysis**
-1. [*Clarorbis apponomedianus*](https://deepbone.org/public/#/explor?s_id=499&functionId=Deepbone_header_searchResultOpen) Pan and Ji, 1993
+1. [*Changxingaspis nianzhongi*] Li *et al*., 2024 
+> lower Telychian, 438.3, 436.8
+
+> - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
+> - Li *et al*., 2024
+> - **To be added in deepbone.**
+
+2. [*Clarorbis apponomedianus*](https://deepbone.org/public/#/explor?s_id=499&functionId=Deepbone_header_searchResultOpen) Pan and Ji, 1993
 > Eifelian, 393.3, 387.7 
 
 > - 'Xindu Formation'; Santan, Bobai, Guangxi, China
 > - [Pan and Ji, 1993](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pnYAqafYuYLWcgyAagzd6eKwjDiWEOoYGwm1D2WO6GZTYhXoBnpvFHLaTdaXm_dRS6fEEdPoeWQC_UERCuOunu1cgrmnXm1Tv7GtLgGi5s9XAqtlxr1gID3eyEYQEbyRc=&uniplatform=NZKPT&language=CHS)
 > - 
 
-2. [*Cyclodiscaspis ctenus*](https://deepbone.org/public/#/explor?s_id=489&functionId=Deepbone_header_searchResultOpen) Liu, 1975
+3. [*Cyclodiscaspis ctenus*](https://deepbone.org/public/#/explor?s_id=489&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation; Yiliang, Yunnan, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pXyc0Lk_ozlm5edcuJbR0zWIzu1F3XT2wi3I3pM-BoVkM54ax7lnyn0ocwRZ8AjnF1yhZ-VS-_vryowPMhS2ZKDS-kwk_VB_0C4-PrTj3-B-aBODm5SCGnS7a1Qxu_HcM=&uniplatform=NZKPT&language=CHS)
 > - 
 
-3. [*Damaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=482&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1981
+4. [*Damaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=482&functionId=Deepbone_header_searchResultOpen) (Pan and Wang, 1981)
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Pan and Wang, 1981](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9qkOkoQTbAkzhuGiT5dI_IciVulfuIlG_0YqHZJOf9Xqm-7_kKpJ7S6Bs1nOC8Fu9p8eVDghHve0Lg3eoZZsKRNnb_3RViYmZlVXUHMt04fPjv3MNevZzjQV2oe2waygoA=&uniplatform=NZKPT&language=CHS); [Shan *et al*., 2024](https://www.vertpala.ac.cn/EN/10.19615/j.cnki.2096-9899.240321)
-> - The type species of *Damaspis* is used in the analysis.
+> - *'Dongfangaspis qujingensis'* Pan and Wang, 1981. The type species of *Damaspis* is used in the analysis.
 
-4. [*Diandongaspis xishancunensis*](https://deepbone.org/public/#/explor?s_id=497&functionId=Deepbone_header_searchResultOpen) Liu, 1975
+5. [*Diandongaspis xishancunensis*](https://deepbone.org/public/#/explor?s_id=497&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rjYkm3ypqglZ0kyX1vbwO1RjoCOUErDDw2lfkdHlDexMJDDUNWW8y9nyaNYVIiaFd6-BHTZfRlfW2dQYgZ21O02vluYpreZV26sjhLKgoFN-BMLebw1q4-TN_NwM4z_Kc=&uniplatform=NZKPT&language=CHS)
-> - 
-
-5. [*Diploholcaspis daleensis*](https://deepbone.org/public/#/explor?s_id=74309&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2009
-> upper Lochkovian, 415.0, 410.8
-
-> - Dayaoshan Group; Guixian, Guangxi, China
-> - Wang *et al*., 2009
-> - **NOT in the matrix due to the poor information.** A placoderm plate to be clarified.
 
 6. [*Eugaleaspis xujiachongensis*](https://deepbone.org/public/#/explor?s_id=385&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > Pragian, 410.8, 407.6
@@ -509,7 +508,6 @@
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China; Khao Loc Formation; Hagiang, Vietnam
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rKe-2vX7OIRfxgnshIl0WYU9_4fZSb4WJc3GDjbhaHUv2AXSyxvBWcHAY5BKFAORsjvlENOJiz9eP9N4ZkvuzfltAhfzIIxS-Z_MAc6F8IzPKQbi07r6HiyueATH94uxY=&uniplatform=NZKPT&language=CHS); [Janvier and Phuong, 1999](https://www.semanticscholar.org/paper/Les-vertébrés-(Placodermi%2C-Galeaspida)-du-Dévonien-Janvier-Phuong/8a9136aff1bf2d7740a7de5879e8a264565fdf6f)
-> - 
 
 15. [*Lungmenshanaspis yunnanensis*](https://deepbone.org/public/#/explor?s_id=553&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996
 > Pragian, 410.8, 407.6
@@ -603,8 +601,11 @@
 > - Posongchong Formation; Zhaotong City, Yunnan Province, China
 > - Liu, 1975
 
-28. [*Sanqiaspis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8373&functionId=Deepbone_header_searchResultOpen)
+28. [*Sanqiaspis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8373&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 2009
+> Pragian, 410.8, 407.6
 
+> - Sika Formation; Bac Bo, Vietnam.
+> - Janvier *et al*., 2009
 
 29. [*Siyingia altuspinosa*](https://deepbone.org/public/#/explor?s_id=476functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1982
 > upper Lochkovian, 415.0, 410.8
@@ -623,7 +624,6 @@
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - [Pan and Wang, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rO72crg4p4wMyyKyUTJXs4l7hyRW-S9UHYtJ372bV2HSOgsAlFBZFDQnks6GjaFeW-UMMFtuOmkfzvRrk6p_WWoOgcx8bvPFOu-GwqKnE6DXp7oTPvJxeX80yAXEEdFl0=&uniplatform=NZKPT&language=CHS)
-> -  
 
 32. [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
 > upper Telychian, 435.1, 433.4
@@ -632,23 +632,27 @@
 > - [Pan and Wang, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rO72crg4p4wMyyKyUTJXs4l7hyRW-S9UHYtJ372bV2HSOgsAlFBZFDQnks6GjaFeW-UMMFtuOmkfzvRrk6p_WWoOgcx8bvPFOu-GwqKnE6DXp7oTPvJxeX80yAXEEdFl0=&uniplatform=NZKPT&language=CHS)
 > - 
 
-33. [*Xiyuaspis zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007)
+33. [*Xiyuichthys zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007)
 > lower Telychian, 438.3, 436.8
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - [Lu *et al*., 2007](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o6aqjs3RPDPH0bplr0kWIhD_jNH7KbBrlkFtsfW46nvW6chTHbMxGA15SBqdX44I5sUNttDcvIYMxmiTvwJZTCsPVvH3DiIBu7esxiWFtjuHck7tyvyy4zte-RejfAxmo=&uniplatform=NZKPT&language=CHS)
+> - *Xiyuaspis zhangi* (Lu *et al*., 2007) 
 > - **NOT in the matrix due to the poor information.** 
 
-*Xiyuichthys lixiensis*
+34. [*Xiyuichthys lixiensis*] Shan *et al*., 2023
+> lower Telychian, 438.5, 436.8
 
-*Changxingaspis nianzhongi*
+> - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
+> - Shan et al., 2023
+> - **To be added in deepbone.**
 
-[*'Dongfangaspis qujingensis'*] Pan and Wang, 1981
-> lower Lochkovian, 419.2, 415.0
+35. [*Diploholcaspis daleensis*](https://deepbone.org/public/#/explor?s_id=74309&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2009
+> upper Lochkovian, 415.0, 410.8
 
-> - Xishancun Formation; Qujing City, Yunnan Province, China
-> -
-
+> - Dayaoshan Group; Guixian, Guangxi, China
+> - Wang *et al*., 2009
+> - Its galeaspid affinity needs additional data.
 
 **References**
 
