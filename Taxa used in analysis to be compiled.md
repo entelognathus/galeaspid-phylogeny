@@ -49,13 +49,13 @@
 5. [*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) P'an *et al*., 1975
 > Pragian, 410.8, 407.6
 
-> - Nakaoling (Nagaoling) Formation; Liujing, Hengxian, Guangxi, China
+> - NahKaoling (Nagaoling) Formation; Liujing, Hengxian, Guangxi, China
 > - [P'an *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rShO5CExHS6xjhXP78p22cRtVv2mOpYXoBUkyYT66wwhmQ3yORSBi5Y1733jOicTFqC1aCS3zvrW6BoJXu-KRlYt5tDOSrhIbdDkFYvmOvRa039eX60NsqUCo07oO0JKs=&uniplatform=NZKPT&language=CHS)
 
 6. [*Asiaspis liangi*](https://deepbone.cn/public/#/explor?s_id=172130&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
 > Pragian, 410.8, 407.6
 
-> - Nakaoling (Nagaoling) Formation; Nanning City, Guangxi, China
+> - NahKaoling (Nagaoling) Formation; Nanning City, Guangxi, China
 > - [Zhang *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-341.html)
 
 7. [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
@@ -168,7 +168,7 @@
 23. [*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
 > Pragian, 410.8, 407.6
 
-> - Nakaoling (Nagaoling) Formation; Nanning City, Guangxi, China
+> - NahKaoling (Nagaoling) Formation; Nanning City, Guangxi, China
 > - [Zhang *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-341.html)
    
 24. [*Jiangxialepis jiujiangensis*](https://deepbone.cn/public/#/explor?s_id=172119&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2023
@@ -248,7 +248,7 @@
 36. [*Nanningaspis zengi*](https://deepbone.org/public/#/explor?s_id=83167&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018
 > Pragian, 410.8, 407.6
 
-> - Nakaoling (Nagaoling) Formation; Nanning City, Guangxi Zhuang Autonomous Region, China
+> - NahKaoling (Nagaoling) Formation; Nanning City, Guangxi Zhuang Autonomous Region, China
 > - [Gai *et al*., 2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202217)
 
 37. [*Nochelaspis maeandrine*](https://deepbone.org/public/#/explor?s_id=410&functionId=Deepbone_header_searchResultOpen) Zhu, 1992
@@ -428,14 +428,12 @@
 
 > - 'Xindu Formation'; Santan, Bobai, Guangxi, China
 > - [Pan and Ji, 1993](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pnYAqafYuYLWcgyAagzd6eKwjDiWEOoYGwm1D2WO6GZTYhXoBnpvFHLaTdaXm_dRS6fEEdPoeWQC_UERCuOunu1cgrmnXm1Tv7GtLgGi5s9XAqtlxr1gID3eyEYQEbyRc=&uniplatform=NZKPT&language=CHS)
-> - 
 
 3. [*Cyclodiscaspis ctenus*](https://deepbone.org/public/#/explor?s_id=489&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation; Yiliang, Yunnan, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pXyc0Lk_ozlm5edcuJbR0zWIzu1F3XT2wi3I3pM-BoVkM54ax7lnyn0ocwRZ8AjnF1yhZ-VS-_vryowPMhS2ZKDS-kwk_VB_0C4-PrTj3-B-aBODm5SCGnS7a1Qxu_HcM=&uniplatform=NZKPT&language=CHS)
-> - 
 
 4. [*Damaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=482&functionId=Deepbone_header_searchResultOpen) (Pan and Wang, 1981)
 > lower Lochkovian, 419.2, 415.0
@@ -467,7 +465,7 @@
 8. [*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
 > Pragian, 410.8, 407.6
 
-> - NaKaoling (Nagaoling) Formation; Nanning City, Guangxi, China
+> - NahKaoling (Nagaoling) Formation; Nanning City, Guangxi, China
 > - [Zhang *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-341.html) 
 
 9. [*Hyperaspis acclivis*](https://deepbone.org/public/#/explor?s_id=623&functionId=Deepbone_header_searchResultOpen) Pan, 1992
