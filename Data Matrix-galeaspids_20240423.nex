@@ -1,5 +1,5 @@
 #NEXUS
-[written Tue Apr 23 16:22:49 CST 2024 by Mesquite  version 3.81 (build 955) at shanxiarendeMBP/192.168.43.170]
+[written Wed Apr 24 08:48:52 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -115,7 +115,7 @@ BEGIN CHARACTERS;
 	Jiangxialepis_rongi                 1111020002001100010100??0????1?000001000002?010000?01004000010010?0
 	Kwangnanaspis_subtriangularis       111111?001001100001?00??0????10?011?10????200?0010?0?010???010?00?0
 	Laxaspis_qujingensis                111211?0010010????0000??0????11110000001201000011110?010101010?11?0
-	Lopadaspis_pinglensis_              111211?0010010????1?00??0????101101010012020000121000010???010?10?0
+	Lopadaspis_pinglensis               111211?0010010????1?00??0????101101010012020000121000010???010?10?0
 	Lungmenshanaspis_kiangyouensis      111311?101011110001?111010000?0???????????????0110?000110??010?0???
 	Macrothyraspis_longicornis          111311?101012110101?11101111110???1??0002020000110?000111??010?1??0
 	Meishanaspis_lehmani                1111120002001100000100??0????10000001?0000??010000?00014000010000?0
@@ -142,11 +142,11 @@ BEGIN CHARACTERS;
 	Tridensaspis_magnoculus             111112100110111000??11100????10??????100?001110000?00011??0011?0011
 	Wenshanaspis_zhichangensis          111411?001002100010000??0????201101000002120000120?0001100?010?01?0
 	Wumengshanaspis_cuntianensis        111511?001?03120000111110?????0???????????????0110?1001210?100?0???
-	Xitunaspis_magnus_                  1111121001101100001?00??0????10101111100000111???0?00003110??0?0101
+	Xitunaspis_magnus                   1111121001101100001?00??0????10101111100000111???0?00003110??0?0101
 	Yongdongaspis_littoralis            1111120001101100000000??0????101000111001001110000?00011111010001?1
 	Yunnanogaleaspis_major              1111120001001100000000??0????101011111001001110000?00011100010000?0
 	Zhaotongaspis_janvieri              111411?00100210111?100??0????101101010002?20000120?00011???01??00?0
-	Tujiaaspis_vividus                   1111120001101100000000??0????210100010000100110000?00012??101000???
+	Tujiaaspis_vividus_                 1111120001101100000000??0????210100010000100110000?00012??101000???
 	Miaojiaaspis_dichotomus             1111120001101100000100??0????100100010000000110000?0001110001000???
 
 ;
@@ -165,7 +165,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1713860569514;
+		timeSaved 1713919732519;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 5397378155903800296;
@@ -194,8 +194,8 @@ Begin MESQUITE;
 			setAnnotationSize 0;
 			setFontIncAnnot 0;
 			setFontIncExp 0;
-			setSize 1512 801;
-			setLocation 0 38;
+			setSize 1920 961;
+			setLocation -8 -8;
 			setFont SanSerif;
 			setFontSize 10;
 			getToolPalette;
@@ -217,8 +217,8 @@ Begin MESQUITE;
 					setAnnotationSize 20;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
-					setSize 1457 729;
-					setLocation 0 38;
+					setSize 1865 889;
+					setLocation -8 -8;
 					setFont SanSerif;
 					setFontSize 18;
 					getToolPalette;
@@ -232,7 +232,7 @@ Begin MESQUITE;
 					colorColumnNames  #mesquite.charMatrices.NoColor.NoColor;
 					colorText  #mesquite.charMatrices.NoColor.NoColor;
 					setBackground White;
-					toggleShowNames on;
+					toggleShowNames off;
 					toggleShowTaxonNames on;
 					toggleTight off;
 					toggleThinRows off;
@@ -286,8 +286,8 @@ Begin MESQUITE;
 						setAnnotationSize 20;
 						setFontIncAnnot 0;
 						setFontIncExp 0;
-						setSize 1457 729;
-						setLocation 0 38;
+						setSize 1865 889;
+						setLocation -8 -8;
 						setFont SanSerif;
 						setFontSize 10;
 						getToolPalette;
