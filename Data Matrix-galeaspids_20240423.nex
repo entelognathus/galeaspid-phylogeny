@@ -5,7 +5,7 @@ BEGIN TAXA;
 	TITLE Taxa;
 	DIMENSIONS NTAX=64;
 	TAXLABELS
-		Ateleaspis_tessellata Altigibbaspis_huiqingae Anjiaspis_ericius Anjiaspis_reticularis Antiquisagittaspis_cornuta Asiaspis_expansa Bannhuanaspis_vukhuci Changxingaspis_gui Cyclodiscaspis_ctenus Damaspis_vartus Dayongaspis_hunanensis Dayongaspis_colubra Dongfangaspis_major Duyunolepis_paoyangensis Dunyu_longiforus Dunyu_tianlu Dunyu_xiushanensis Eugaleaspis_changi Falxcornus_liui Foxaspis_novemura Gantarostraspis_gengi Geraspis_rara Gumuaspis_rostrata Hanyangaspis_guodingshanensis Hongshanaspis_inexpectatus Huananaspis_wudinensis Jiangxialepis_jiujiangensis Jiangxialepis_retrospina_ Jiangxialepis_rongi Kwangnanaspis_subtriangularis_ Laxaspis_qujingensis Lopadaspis_pinglensis_ Lungmenshanaspis_kiangyouensis_ Macrothyraspis_longicornis_ Meishanaspis_lehmani Microhoplonaspis_microthyris_ Nanpanaspis_microculus Nanningaspis_zengi Nochelaspis_maeandrine Pentathyraspis_pelta Platylomaspis_serratus Polybranchiaspis_liaojiaoshanensis Pterogonaspis_yuhaii Qingmenaspis_microculus_ Qingshuiaspis_junqingi Qushiaspis_elaia Rumporostralis_xikengensis Rumporostralis_shipanensis Rhegmaspis_xiphoidea Sanchaspis_magalarostrata_ Sanqiaspis_rostrata Shuyu_zhejiangensis Sinogaleaspis_shankouensis_ Sinoszechuanaspis_yanmenpaensis_ Stephaspis_dipteriga Tridensaspis_magnoculus Wenshanaspis_zhichangensis Wumengshanaspis_cuntianensis Xitunaspis_magnus_ Yongdongaspis_littoralis Yunnanogaleaspis_major Zhaotongaspis_janvieri_ Tujiaaspis_vividus_ Miaojiaaspis_dichotomus 
+		Ateleaspis_tessellata Altigibbaspis_huiqingae Anjiaspis_ericius Anjiaspis_reticularis Antiquisagittaspis_cornuta Asiaspis_expansa Bannhuanaspis_vukhuci Changxingaspis_gui Cyclodiscaspis_ctenus Damaspis_vartus Dayongaspis_hunanensis Dayongaspis_colubra Dongfangaspis_major Duyunolepis_paoyangensis Dunyu_longiforus Dunyu_tianlu Dunyu_xiushanensis Eugaleaspis_changi Falxcornus_liui Foxaspis_novemura Gantarostraspis_gengi Geraspis_rara Gumuaspis_rostrata Hanyangaspis_guodingshanensis Hongshanaspis_inexpectatus Huananaspis_wudinensis Jiangxialepis_jiujiangensis Jiangxialepis_retrospina Jiangxialepis_rongi Kwangnanaspis_subtriangularis Laxaspis_qujingensis Lopadaspis_pinglensis Lungmenshanaspis_kiangyouensis Macrothyraspis_longicornis Meishanaspis_lehmani Microhoplonaspis_microthyris Nanpanaspis_microculus Nanningaspis_zengi Nochelaspis_maeandrine Pentathyraspis_pelta Platylomaspis_serratus Polybranchiaspis_liaojiaoshanensis Pterogonaspis_yuhaii Qingmenaspis_microculus Qingshuiaspis_junqingi Qushiaspis_elaia Rumporostralis_xikengensis Rumporostralis_shipanensis Rhegmaspis_xiphoidea Sanchaspis_magalarostrata Sanqiaspis_rostrata Shuyu_zhejiangensis Sinogaleaspis_shankouensis Sinoszechuanaspis_yanmenpaensis Stephaspis_dipteriga Tridensaspis_magnoculus Wenshanaspis_zhichangensis Wumengshanaspis_cuntianensis Xitunaspis_magnus Yongdongaspis_littoralis Yunnanogaleaspis_major Zhaotongaspis_janvieri Tujiaaspis_vividus_ Miaojiaaspis_dichotomus 
 	;
 
 END;
@@ -19,17 +19,17 @@ BEGIN CHARACTERS;
 		1 Median_dorsal_opening /  absent present,
 		2 Festooned_pattern_of_sensory_canals_on_dorsal_surface_of_headshield /  absent present,
 		3 Aspidine_tubercles /  absent present,
-		4 Shape_of_headshield /  'trapezoid-like' 'triangular-like' 'oval-like' 'armet-like' 'fork-like' ' torpedo-like',
+		4 Shape_of_headshield /  'trapezoid-like' 'triangular-like' 'oval-like' 'armet-like' 'fork-like' 'torpedo-like',
 		5 Margin_of_headshield /  serrated smooth,
 		6 Shape_of_median_dorsal_opening /  'transverse slit-like' 'oval-like' _slender_longitudinal_oval,
-		7 Longitudinal_oval_dorsal_opening /  'not slit-like (length/width<6)' ' slit-like (length/width>6)',
+		7 Longitudinal_oval_dorsal_opening /  'not slit-like (length/width<6)' 'slit-like (length/width>6)',
 		8 'Heart-shaped median dorsal opening' /  absent present,
 		9 'Position of median dorsal opening:' /  not_subterminal subterminal,
 		10 Anterior_end_of_median_dorsal_opening /  subterminal some_distance_behind_rostral_margin_of_shield terminal,
 		11 Posterior_end_of_median_dorsal_opening /  in_front_of_or_level_with_anterior_margin_of_orbital_opening between_anterior_margin_of_orbital_opening_and_posterior_margin_of_orbital_opening posteriorly_beyond_posterior_margin_of_orbital_opening,
 		12 Size_of_orbital_openings /  large small,
 		13 Position_of_orbital_openings /  'dorsal position and close to mid-line of headshield' 'dorsal position and not close to mid-line of headshield' lateral_position ventrolaterally_placed_orbital_openings,
-		14 Cornual_process /  _absent _present,
+		14 Cornual_process /  absent present,
 		15 Extending_trajectory_of_cornual_process /  projecting_posterolaterally projecting_laterally projecting_backward,
 		16 Portion_of_headshield_behind_cornual_process /  short long,
 		17 Position_of_cornual_process_base /  near_posterior_end_of_headshield away_from_posterior_end_of_headshield,
@@ -70,11 +70,11 @@ BEGIN CHARACTERS;
 		52 Nearly_parallel_lateral_margins_of_headshield /  absent present,
 		53 Broad_and_large_middle_dorsal_spine_of_headshield /  absent present,
 		54 Broad_ventral_rim /  absent present,
-		55 The_unclosed_rostral_margin /  present absent,
-		56 The_ornamentation_of_the_headshield /  'star-shaped tubercles' tiny_granular_tubercles coarse_granular_tubercles 'polygon-shaped tubercles' central_big_tubercles_surronded_by_radially_arranged_tubercles,
+		55 Unclosed_rostral_margin /  present absent,
+		56 Ornamentation_of_the_headshield /  'star-shaped tubercles' tiny_granular_tubercles coarse_granular_tubercles 'polygon-shaped tubercles' central_big_tubercles_surronded_by_radially_arranged_tubercles,
 		57 Pineal_organ /  on_front_of_or_level_with_posterior_margin_of_orbital_opening behind_posterior_margin_of_orbital_opening,
 		58 'Ratio between pre-pineal length and post-pineal length in mid-line of cephalic shield larger than 1.0' /  no yes,
-		59 The_preorbital_commissure /  absent present,
+		59 Preorbital_commissure /  absent present,
 		60 Ventrally_curved_branchial_fossae /  absent present,
 		61 Ventral_rim_of_headshield /  absent present,
 		62 'Sickle-like complex of cornual and inner cornual processes (the angle of the cornual and inner cornual processes is equal to or more than 90 degrees)' /  absent present,
@@ -111,15 +111,15 @@ BEGIN CHARACTERS;
 	Hongshanaspis_inexpectatus          111000?0100010????0000??0????0000000001???20000?00?0?011??0010??0?0
 	Huananaspis_wudinensis              111311?10101211?001011100?????0???????????????01?0?00011??0010?1???
 	Jiangxialepis_jiujiangensis         1111120002001100000100??0????1?000001?00002?01???0?01002000?10010?0
-	Jiangxialepis_retrospina_           1111120002001100000100??0????1?000001?00002?01???0?01003000??0010?0
+	Jiangxialepis_retrospina            1111120002001100000100??0????1?000001?00002?01???0?01003000??0010?0
 	Jiangxialepis_rongi                 1111020002001100010100??0????1?000001000002?010000?01004000010010?0
-	Kwangnanaspis_subtriangularis_      111111?001001100001?00??0????10?011?10????200?0010?0?010???010?00?0
+	Kwangnanaspis_subtriangularis       111111?001001100001?00??0????10?011?10????200?0010?0?010???010?00?0
 	Laxaspis_qujingensis                111211?0010010????0000??0????11110000001201000011110?010101010?11?0
 	Lopadaspis_pinglensis_              111211?0010010????1?00??0????101101010012020000121000010???010?10?0
-	Lungmenshanaspis_kiangyouensis_     111311?101011110001?111010000?0???????????????0110?000110??010?0???
-	Macrothyraspis_longicornis_         111311?101012110101?11101111110???1??0002020000110?000111??010?1??0
+	Lungmenshanaspis_kiangyouensis      111311?101011110001?111010000?0???????????????0110?000110??010?0???
+	Macrothyraspis_longicornis          111311?101012110101?11101111110???1??0002020000110?000111??010?1??0
 	Meishanaspis_lehmani                1111120002001100000100??0????10000001?0000??010000?00014000010000?0
-	Microhoplonaspis_microthyris_       111211?0010010????0000??10000?0??????0???????0011100001????010?0???
+	Microhoplonaspis_microthyris        111211?0010010????0000??10000?0??????0???????0011100001????010?0???
 	Nanpanaspis_microculus              111311?00101111110??11100????10101101000202000011100?01????01??00?0
 	Nanningaspis_zengi                  11141???01???0????1011000????????????????????????100?112???010?0???
 	Nochelaspis_maeandrine              1111121001001100000000??0????10101111?001001110000?00010100010100?0
@@ -127,17 +127,17 @@ BEGIN CHARACTERS;
 	Platylomaspis_serratus              11140???01???0????1011000???????????????????????0100?112???010?0???
 	Polybranchiaspis_liaojiaoshanensis  111211?0010010????0000??0????111000000012010000111000010101010?11?0
 	Pterogonaspis_yuhaii                1111121001101110000011100????101011111001001110000?000111?001110011
-	Qingmenaspis_microculus_            111311?001010110001?111011110?0???????????????01?0?0001?1??010?0???
+	Qingmenaspis_microculus             111311?001010110001?111011110?0???????????????01?0?0001?1??010?0???
 	Qingshuiaspis_junqingi              1111120002001100000100??0????10000001000002?010000?00012000010010?0
 	Qushiaspis_elaia                    111411?0011?2120100111100?????011??01?0?20????0110?0001411?010?0???
 	Rumporostralis_xikengensis          1111120002001100000100??0????201010011002001110000?00002010010000?0
 	Rumporostralis_shipanensis          1111120002001100000100??0????????????????????10000?000020??01000???
 	Rhegmaspis_xiphoidea                111511?0011130????1?11110?????0???????0?20????0110?1001310?100?0???
-	Sanchaspis_magalarostrata_          111411?001001101100011000????101101010012120000110?010111?1011?11?0
+	Sanchaspis_magalarostrata           111411?001001101100011000????101101010012120000110?010111?1011?11?0
 	Sanqiaspis_rostrata                 111411?001002120001?11000????10?011??0002020000110?10011???010?00?0
 	Shuyu_zhejiangensis                 1111120002001100000100??0????10100001?00002?010000?00011000010000?0
-	Sinogaleaspis_shankouensis_         1111120001101100000100??0????201000011002001110000?00012101010001?0
-	Sinoszechuanaspis_yanmenpaensis_    111311?101012110111?111011111?0?0110100020200001?0?00011??1010?0???
+	Sinogaleaspis_shankouensis          1111120001101100000100??0????201000011002001110000?00012101010001?0
+	Sinoszechuanaspis_yanmenpaensis     111311?101012110111?111011111?0?0110100020200001?0?00011??1010?0???
 	Stephaspis_dipteriga                111301?001011110101?1110100001???01?00002020000??0?00011???010?00?0
 	Tridensaspis_magnoculus             111112100110111000??11100????10??????100?001110000?00011??0011?0011
 	Wenshanaspis_zhichangensis          111411?001002100010000??0????201101000002120000120?0001100?010?01?0
@@ -145,8 +145,8 @@ BEGIN CHARACTERS;
 	Xitunaspis_magnus_                  1111121001101100001?00??0????10101111100000111???0?00003110??0?0101
 	Yongdongaspis_littoralis            1111120001101100000000??0????101000111001001110000?00011111010001?1
 	Yunnanogaleaspis_major              1111120001001100000000??0????101011111001001110000?00011100010000?0
-	Zhaotongaspis_janvieri_             111411?00100210111?100??0????101101010002?20000120?00011???01??00?0
-	Tujiaaspis_vividus_                 1111120001101100000000??0????210100010000100110000?00012??101000???
+	Zhaotongaspis_janvieri              111411?00100210111?100??0????101101010002?20000120?00011???01??00?0
+	Tujiaaspis_vividus                   1111120001101100000000??0????210100010000100110000?00012??101000???
 	Miaojiaaspis_dichotomus             1111120001101100000100??0????100100010000000110000?0001110001000???
 
 ;
