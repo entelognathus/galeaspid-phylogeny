@@ -103,11 +103,11 @@
 > - Shujiaping Formation； Dunyun City, Guizhou Province, China
 > - [Halstead, 1979](https://www.nature.com/articles/282833a0); Pan, 1992; P'an and Wang, 1978; [Pan and Wang, 1982](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q9MIXcst7zt24C6J3OTk7-5YYeUmeJQSF7BCGi-1IB5w6XIqQ2tN6pDAzfCU9qWwSNlD2cH08et0Z0Zz0m1STkTkK_9DrSsUUWZLoCnxbZfGI55VK6Qd-oF3JPDcBloU0=&uniplatform=NZKPT&language=CHS) 
     
-14. [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) (Liu, 1986)
+14. [*Dunyu longiforus*](https://deepbone.org/public/#/explor?s_id=392&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2012
 > Ludfordian, 425.6, 423.0
 
-> - Xiaoxi Formation; Xiushan County, Chongqing, China
-> - [Liu, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pHiH_V12eJSwtV5__RKZYFyJsNaqyhnEhEAe4F6ToqpV2YJGjgv95UYMSRNwu6z_229bz2UJ_mJJKaiCEVjp0tLLImyi3YkbrBMRItjPIvzHv84dNT0BfWylFKTQx5myI=&uniplatform=NZKPT&language=CHS); [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
+> - Kuanti Formation；Qujing, Yunnan, China.
+> - [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
 > - Type species.
 
 15. [*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) Liu, 1965
@@ -403,17 +403,33 @@
 > - Posongchong Formation, Zhaotong City, Yunnan Province, China
 > - [Wang and Zhu, 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ruqyCrR4NhENlbzKozB_XmI2f0oCzxD3qVnL5F1T7xwI9u9ora4TZ0wT6LkK6u7hGWkCZ_PlNWNTfNn3EfoTgpZWPdR7kqSy8SEMYFGzSe51KiZBym5PzchSahUC3dwOI=&uniplatform=NZKPT&language=CHS)
 
-62. [*Dunyu longiforus*](https://deepbone.org/public/#/explor?s_id=392&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2012
+## Added by Li *et al*. in prep.
+
+62. [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) (Liu, 1986)
 > Ludfordian, 425.6, 423.0
 
-> - Kuanti Formation；Qujing, Yunnan, China.
-> - [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
+> - Xiaoxi Formation; Xiushan County, Chongqing, China
+> - [Liu, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pHiH_V12eJSwtV5__RKZYFyJsNaqyhnEhEAe4F6ToqpV2YJGjgv95UYMSRNwu6z_229bz2UJ_mJJKaiCEVjp0tLLImyi3YkbrBMRItjPIvzHv84dNT0BfWylFKTQx5myI=&uniplatform=NZKPT&language=CHS); [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
 
 63. [*Dunyu tianlu*] sp. nov. Li *et al*., in prep.
 > Ludfordian, 425.6, 423.0
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
 > - Li et al., in prep.
+
+## Added by Lin *et al*. in prep.
+
+64. [*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
+> upper Telychian, 435.1, 433.4
+
+> - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
+> - [Pan and Wang, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rO72crg4p4wMyyKyUTJXs4l7hyRW-S9UHYtJ372bV2HSOgsAlFBZFDQnks6GjaFeW-UMMFtuOmkfzvRrk6p_WWoOgcx8bvPFOu-GwqKnE6DXp7oTPvJxeX80yAXEEdFl0=&uniplatform=NZKPT&language=CHS)
+
+65. [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
+> upper Telychian, 435.1, 433.4
+
+> - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
+> - [Pan and Wang, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rO72crg4p4wMyyKyUTJXs4l7hyRW-S9UHYtJ372bV2HSOgsAlFBZFDQnks6GjaFeW-UMMFtuOmkfzvRrk6p_WWoOgcx8bvPFOu-GwqKnE6DXp7oTPvJxeX80yAXEEdFl0=&uniplatform=NZKPT&language=CHS)
 
 ## **Galeaspid taxa not used in the phylogenetic analysis**
 1. [*Changxingaspis nianzhongi*] Li *et al*., 2024 
@@ -617,20 +633,7 @@
 > - Xitun Formation; Yunnan, China
 > - Si *et al*., 2015
 
-31. [*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
-> upper Telychian, 435.1, 433.4
-
-> - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
-> - [Pan and Wang, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rO72crg4p4wMyyKyUTJXs4l7hyRW-S9UHYtJ372bV2HSOgsAlFBZFDQnks6GjaFeW-UMMFtuOmkfzvRrk6p_WWoOgcx8bvPFOu-GwqKnE6DXp7oTPvJxeX80yAXEEdFl0=&uniplatform=NZKPT&language=CHS)
-
-32. [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
-> upper Telychian, 435.1, 433.4
-
-> - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
-> - [Pan and Wang, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rO72crg4p4wMyyKyUTJXs4l7hyRW-S9UHYtJ372bV2HSOgsAlFBZFDQnks6GjaFeW-UMMFtuOmkfzvRrk6p_WWoOgcx8bvPFOu-GwqKnE6DXp7oTPvJxeX80yAXEEdFl0=&uniplatform=NZKPT&language=CHS)
-> - 
-
-33. [*Xiyuichthys zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007)
+31. [*Xiyuichthys zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007)
 > lower Telychian, 438.3, 436.8
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
@@ -638,14 +641,14 @@
 > - *Xiyuaspis zhangi* (Lu *et al*., 2007) 
 > - **NOT in the matrix due to the poor information.** 
 
-34. [*Xiyuichthys lixiensis*] Shan *et al*., 2023
+32. [*Xiyuichthys lixiensis*] Shan *et al*., 2023
 > lower Telychian, 438.5, 436.8
 
 > - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
 > - Shan et al., 2023
 > - **To be added in deepbone.**
 
-35. [*Diploholcaspis daleensis*](https://deepbone.org/public/#/explor?s_id=74309&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2009
+33. [*Diploholcaspis daleensis*](https://deepbone.org/public/#/explor?s_id=74309&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2009
 > upper Lochkovian, 415.0, 410.8
 
 > - Dayaoshan Group; Guixian, Guangxi, China
