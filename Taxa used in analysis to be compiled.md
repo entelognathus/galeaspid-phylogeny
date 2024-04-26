@@ -11,7 +11,7 @@
 
 > 修水鱼属待林翔鸿文章；四营鱼属待后续加入
 
-> 共96个有效种；系统发育分析使用63；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析
+> 迄今为止，正式描述的有效种共有95个，加上待描述的苗家鱼，天路盾鱼，下面列有97个；系统发育分析使用63；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析
 
 ## **outgroup taxa**
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair, 1900
@@ -648,12 +648,14 @@
 > - Shan et al., 2023
 > - **To be added in deepbone.**
 
-33. [*Diploholcaspis daleensis*](https://deepbone.org/public/#/explor?s_id=74309&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2009
+
+## **Doubtful galeaspid taxa**
+[*Diploholcaspis daleensis*](https://deepbone.org/public/#/explor?s_id=74309&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2009
 > upper Lochkovian, 415.0, 410.8
 
 > - Dayaoshan Group; Guixian, Guangxi, China
 > - Wang *et al*., 2009
-> - Its galeaspid affinity needs additional data.
+> - **Its galeaspid affinity needs additional data.**
 
 **References**
 
