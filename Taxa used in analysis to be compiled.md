@@ -11,7 +11,8 @@
 
 > 修水鱼属待林翔鸿文章；四营鱼属待后续加入
 
-> 迄今为止，正式描述的有效种共有95个，加上待描述的苗家鱼，天路盾鱼，下面列有97个；系统发育分析使用63；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析
+> 迄今为止，正式描述的有效种共有95个，加上待描述的苗家鱼，天路盾鱼，下面列有97个；系统发育分析使用63个；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析。
+> Eugaleaspiformes已描述的有效种为24个（17个属）。加上待描述的苗家鱼，天路盾鱼，有26种（18个属）。
 
 ## **outgroup taxa**
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair, 1900
