@@ -43,7 +43,7 @@
 
 > Zhu and Gai (2006; 2007), Character 10; Gai *et al*. (2018), Character 10; Shan *et al*. (2020), Character 10; Jiang *et al*. (2021), Character 10; Liu *et al*. (2021), Character 10; Meng and Gai (2021), Character 10; Chen *et al*. (2022), Character 10; Shan *et al*. (2022), Character 10; Sun *et al*. (2022), Character 10; Zhang *et al*. (2023), Character 10; Liu *et al*. (2023), Character 10.
 
-11. Posterior end of median dorsal opening: (0) in front of or level with anterior margin of orbital opening; (1) between anterior margin of orbital opening and posterior margin of orbital opening; (2) posteriorly beyond posterior margin of orbital opening.
+11. Posterior end of median dorsal opening: (0) in front of or level with anterior margin of orbital opening; (1) between anterior and posterior margins of orbital opening; (2) posteriorly beyond posterior margin of orbital opening.
 
 > Zhu and Gai (2006; 2007), Character 11; Gai *et al*. (2018), Character 11; Shan *et al*. (2020), Character 11; Jiang *et al*. (2021), Character 11; Liu *et al*. (2021), Character 11; Meng and Gai (2021), Character 11; Chen *et al*. (2022), Character 11; Shan *et al*. (2022), Character 11; Sun *et al*. (2022), Character 11; Zhang *et al*. (2023), Character 11; Liu *et al*. (2023), Character 11.
 
@@ -113,7 +113,7 @@
 
 > Zhu and Gai (2006; 2007), Character 27; Gai *et al*. (2018), Character 27; Shan *et al*. (2020), Character 27; Jiang *et al*. (2021), Character 27; Liu *et al*. (2021), Character 27; Meng and Gai (2021), Character 27; Chen *et al*. (2022), Character 27; Shan *et al*. (2022), Character 27; Sun *et al*. (2022), Character 27; Zhang *et al*. (2023), Character 27; Liu *et al*. (2023), Character 27.
 
-28. Position of dorsal fenestra: (0) lateral-dorsal position; (1) dorsal position.
+28. Position of dorsal fenestra: (0) laterodorsal position; (1) dorsal position.
 
 > Zhu and Gai (2006; 2007), Character 28; Gai *et al*. (2018), Character 28; Shan *et al*. (2020), Character 28; Jiang *et al*. (2021), Character 28; Liu *et al*. (2021), Character 28; Meng and Gai (2021), Character 28; Chen *et al*. (2022), Character 28; Shan *et al*. (2022), Character 28; Sun *et al*. (2022), Character 28; Zhang *et al*. (2023), Character 28; Liu *et al*. (2023), Character 28.
 
@@ -149,7 +149,7 @@
 
 > Zhu and Gai (2006; 2007), Character 36; Gai *et al*. (2018), Character 36; Shan *et al*. (2020), Character 36; Jiang *et al*. (2021), Character 36; Liu *et al*. (2021), Character 36; Meng and Gai (2021), Character 36; Chen *et al*. (2022), Character 36; Shan *et al*. (2022), Character 36; Sun *et al*. (2022), Character 36; Zhang *et al*. (2023), Character 36; Liu *et al*. (2023), Character 36.
 
-37. Lateral transverse canals behind ltc4: (0) present; (1) absent.
+37. Lateral transverse canals behind the fourth lateral transverse canal: (0) present; (1) absent.
 
 > Zhu and Gai (2006; 2007), Character 37; Gai *et al*. (2018), Character 37; Shan *et al*. (2020), Character 37; Jiang *et al*. (2021), Character 37; Liu *et al*. (2021), Character 37; Meng and Gai (2021), Character 37; Chen *et al*. (2022), Character 37; Shan *et al*. (2022), Character 37; Sun *et al*. (2022), Character 37; Zhang *et al*. (2023), Character 37; Liu *et al*. (2023), Character 37.
 
@@ -276,7 +276,10 @@ Meng and Gai (2021), Character 62; Chen *et al*. (2022), Character 62; Shan *et 
 
 > Sun *et al*. (2022), Character 66.
 
-> 
+68. Medial dorsal canal and posterior supraorbital canal forming a smooth curve: (0) no; (1) yes.
+
+> Newly added character by Chen et al. (in prep.). This character defines the shared state in the 'eugaleaspid cluster'. In *Yongdongaspis* and *Sinogaleaspis*, the connection between two canals forms a twisted line.
+
 **References**
 
 Chen, Y., Gai, Z.K, LI, Q., Wang, J.Q., Peng, L.J., Wei, G.B., and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early Silurian of Chongqing, southwestern China. *Acta Geologica Sinica‐English Edition*, 96(2), 430-439.
