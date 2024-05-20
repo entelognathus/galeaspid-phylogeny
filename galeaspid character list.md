@@ -230,7 +230,8 @@
 56. Ornamentation of head-shield: (0) star-shaped tubercles; (1) tiny granular tubercles; (2) coarse granular tubercles；(3) polygon-shaped tubercles; (4) central big tubercles surrounded by radially arranged tubercles.
 
 > Shan *et al*. (2020), Character 56; Jiang *et al*. (2021), Character 56; Liu *et al*. (2021), Character 56; Meng and Gai (2021), Character 56; Chen *et al*. (2022), Character 56; Shan *et al*. (2022), Character 56; Sun *et al*. (2022), Character 56; Zhang *et al*. (2023), Character 56; Liu *et al*. (2023), Character 56.
-> The character with the former three states '(0)(1)(2)' was created by Shan *et al*. (2020), and the latter two states '(3)(4)' were added by Jiang *et al*. (2021).
+
+> - The character with the former three states '(0)(1)(2)' was created by Shan *et al*. (2020), and the latter two states '(3)(4)' were added by Jiang *et al*. (2021).
 
 57. Pineal organ: (0) in front of or level with posterior margin of orbital opening; (1) behind posterior margin of orbital opening.
 
@@ -254,33 +255,34 @@
 
 62. Sickle-like complex of cornual and inner cornual processes (the angle of the cornual and inner cornual processes is equal to or more than 90 degrees): (0) absent; (1) present.
 
-Meng and Gai (2021), Character 62; Chen *et al*. (2022), Character 62; Shan *et al*. (2022), Character 62; Sun *et al*. (2022), Character 62; Zhang *et al*. (2023), Character 62; Liu *et al*. (2023), Character 62.
+> Meng and Gai (2021), Character 62; Chen *et al*. (2022), Character 62; Shan *et al*. (2022), Character 62; Sun *et al*. (2022), Character 62; Zhang *et al*. (2023), Character 62; Liu *et al*. (2023), Character 62.
 
-> 63. Inner cornual process behind the posterior end of cornual process: (0) absent; (1) present.
+63. Inner cornual process behind posterior end of cornual process: (0) absent; (1) present.
 
 > Meng and Gai (2021), Character 63; Chen *et al*. (2022), Character 63; Shan *et al*. (2022), Character 63; Sun *et al*. (2022), Character 63; Zhang *et al*. (2023), Character 63; Liu *et al*. (2023), Character 63.
 
 64. Middle dorsal spine of headshield: (0) absent; (1) present.
 
-> Shan *et al*. (2022), Character 64; Zhang *et al*. (2023), Character 64; Liu *et al*. (2023), Character 64.
+> Shan *et al*. (2022), Character 64; Zhang *et al*. (2023), Character 64; Liu *et al*. (2023), Character 64; Chen *et al*. (2023), Character 64.
 
 65. Medial canal: (0) absent; (1) present.
 
-> Chen *et al*. (2022), Character 64; Sun *et al*. (2022), Character 64.
+> Chen *et al*. (2022), Character 64; Sun *et al*. (2022), Character 64; Chen *et al*. (2023), Character 65.
 
-> - Chen *et al*. (2022) used the term 'central canal' to describe a short canal issued from the middle of the dorsal commissure. As the 'central sensory canal' is conventionally used to represent the canal leaving from the infraorbital canal in placoderms, we replace the 'central canal' in galeaspids with the 'medial canal' to avoid confusion. 
+> - Chen *et al*. (2022) used the term 'central canal' to describe a short canal issued from the middle of the dorsal commissure. As the 'central sensory canal' is conventionally used to represent the canal leaving from the infraorbital canal in placoderms, we replace the 'central canal' in galeaspids with the 'medial canal' to avoid confusion (Chen et al., 2023). 
 
 66. Dermal bone of headshield: (0) no less than 1 mm in thickness; (1) less than 1 mm in thickness.
 
-> Sun *et al*. (2022), Character 65.
+> Sun *et al*. (2022), Character 65; Chen *et al*. (2023), Character 66.
 
 67. Vestige of median transverse canal: (0) absent; (1) present.
 
-> Sun *et al*. (2022), Character 66.
+> Sun *et al*. (2022), Character 66; Chen *et al*. (2023), Character 67.
 
 68. Medial dorsal canal and posterior supraorbital canal forming a smooth curve: (0) no; (1) yes.
+> Chen *et al*. (2023), Character 68.
 
-> Newly added character by Chen et al. (in prep.). This character defines the shared state in the 'eugaleaspid cluster'. In *Yongdongaspis* and *Sinogaleaspis*, the connection between two canals forms a twisted line.
+> - This is a character added by Chen et al. (in prep.). This character defines the shared state in the 'eugaleaspid cluster'. In *Yongdongaspis* and *Sinogaleaspis*, the connection between two canals forms a twisted line.
 
 **References**
 
