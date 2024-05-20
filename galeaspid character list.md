@@ -173,9 +173,11 @@
 
 > Zhu and Gai (2006; 2007), Character 42; Gai *et al*. (2018), Character 42; Shan *et al*. (2020), Character 42; Jiang *et al*. (2021), Character 42; Liu *et al*. (2021), Character 42; Meng and Gai (2021), Character 42; Chen *et al*. (2022), Character 42; Shan *et al*. (2022), Character 42; Sun *et al*. (2022), Character 42; Zhang *et al*. (2023), Character 42; Liu *et al*. (2023), Character 42.
 
-43. Medial dorsal canal: (0) develeped; (1) degenerated; (2) absent.
+43. Medial dorsal canal: (0) develeped; (1) short; (2) absent.
 
 > Zhu and Gai (2006; 2007), Character 43; Gai *et al*. (2018), Character 43; Shan *et al*. (2020), Character 43; Jiang *et al*. (2021), Character 43; Liu *et al*. (2021), Character 43; Meng and Gai (2021), Character 43; Chen *et al*. (2022), Character 43; Shan *et al*. (2022), Character 43; Sun *et al*. (2022), Character 43; Zhang *et al*. (2023), Character 43; Liu *et al*. (2023), Character 43.
+
+> - We re-define the state 'degenerated' as the state 'short', considering the *ad hoc* sence in the word 'degenerated' (Chen et al., 2023). 
 
 44. Medial dorsal canal and posterior supraorbital canal: (0) unjointed; (1) contact.
 
