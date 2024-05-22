@@ -286,7 +286,9 @@
 
 > - **reference to be complemented. **
 
-Chen, Y., Gai, Z.K, LI, Q., Wang, J.Q., Peng, L.J., Wei, G.B., and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early Silurian of Chongqing, southwestern China. *Acta Geologica Sinica‐English Edition*, 96(2), 430-439.
+Chen, Y., Gai, Z.K., Li, Q., Wang, J.Q., Peng, L.J., Wei, G.B., and Zhu, M., 2022. A new family of galeaspids (jawless stem‐Gnathostomata) from the early Silurian of Chongqing, southwestern China. *Acta Geologica Sinica‐English Edition*, 96(2), 430-439.
+
+Chen, Y., Li, Q., Zhou Z.D., Shan, X.R., Zhu, Y.A., Wang, Q., Wei, G.B., and Zhu, M., 2024. A new genus of galeaspids (jawless stem-Gnathostomata) from the early Silurian Chongqing Lagerstätte, China. *Acta Geologica Sinica‐English Edition*, in prep.
 
 Gai, Z.K., Lu, L.W., Zhao, W.J., and Zhu, M., 2018. New polybranchiaspiform fishes (Agnatha: Galeaspida) from the Middle Palaeozoic of China and their ecomorphological implications. *PLoS ONE*, 13(9), e0202217.
 
