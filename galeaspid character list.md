@@ -175,7 +175,7 @@
 
 > Zhu and Gai (2006; 2007), Character 43; Gai *et al*. (2018), Character 43; Shan *et al*. (2020), Character 43; Jiang *et al*. (2021), Character 43; Liu *et al*. (2021), Character 43; Meng and Gai (2021), Character 43; Chen *et al*. (2022), Character 43; Shan *et al*. (2022), Character 43; Sun *et al*. (2022), Character 43; Zhang *et al*. (2023), Character 43; Liu *et al*. (2023), Character 43.
 
-> - We re-define the state 'degenerated' as the state 'short', considering the *ad hoc* sence in the word 'degenerated' (Chen et al., 2023). 
+> - We re-define the state 'degenerated' as the state 'short', considering the *ad hoc* sence in the word 'degenerated' (Chen et al., in prep.). 
 
 44. Medial dorsal canal and posterior supraorbital canal: (0) unjointed; (1) contact.
 
