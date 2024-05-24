@@ -683,7 +683,7 @@ Gai, Z.K., Zhu, M., Jia, L.T. and Zhao, W.J., 2015. A streamlined jawless fish (
 
 Gai, Z.K., Lu, L.W., Zhao, W.J. and Zhu, M., 2018. New polybranchiaspiform fishes (Agnatha: Galeaspida) from the Middle Palaeozoic of China and their ecomorphological implications. *Public Library of Science ONE*, 13(9): e0202217.
 
-Gai, Z.K., Shan, X.R., Sun, Z.X., Zhao, W.J., Pan, Z.H., and Zhu, M., 2020. A redescription of the Silurian Sinogaleaspis shankouensis (Galeaspida, stem-Gnathostomata) from Jiangxi, China. *Vertebrata PalAsiatica*, 58(2): 85–99.
+Gai, Z.K., Shan, X.R., Sun, Z.X., Zhao, W.J., Pan, Z.H., and Zhu, M., 2020. A redescription of the Silurian *Sinogaleaspis shankouensis* (Galeaspida, stem-Gnathostomata) from Jiangxi, China. *Vertebrata PalAsiatica*, 58(2): 85–99.
 
 Gai, Z.K., Jiang, W.Y., Zhao, W.J., Li, Q., Shi, X.D., and Zhu, M., 2022. Redescription of the Sanqiaspidae (Galeaspida) from the Lower Devonian of South China and its biostratigraphic significance. *Palaeobio Palaeoenv*, 102, 173–191. 
 
@@ -695,9 +695,9 @@ Janvier, P., Tông-Dzuy, T., and Ta-Hoa, P., 1993. A new Early Devonian galeaspi
 
 Janvier, P., and Phuong, T.H., 1999. Les vertébrés (Placodermi, Galeaspida) du Dévonien inférieur de la coupe de Lung Cô-Mia Lé, province de Hà Giang, Viêt Nam, avec des données complémentaires sur les gisements à vertébrés du Dévonian du Bac Bo oriental. *Geodiversitas*, 21(1): 33–67.
 
-Janvier, P., Thanh, T.D., Phuong, T.H., Clément, G., and Phong, N.D., 2009. Occurrence of Sanqiaspis, Liu, 1975 (Vertebrata, Galeaspida) in the Lower Devonian of Vietnam, with remarks on the anatomy and systematics of the Sanqiaspididae. *Comptes Rendus Palevol*, 8(1): 59–65.
+Janvier, P., Thanh, T.D., Phuong, T.H., Clément, G., and Phong, N.D., 2009. Occurrence of *Sanqiaspis*, Liu, 1975 (Vertebrata, Galeaspida) in the Lower Devonian of Vietnam, with remarks on the anatomy and systematics of the Sanqiaspididae. *Comptes Rendus Palevol*, 8(1): 59–65.
 
-Jiang, W.Y., Zhu, M., Shi, X.D., Li, Q., and Gai, Z.K., 2021. Qushiaspis, a new genus of gantarostrataspid fish (Galeaspida, stem-Gnathostomata) from the Lower Devonian of Yunnan, China. *Historical Biology*: 33(12), 3714–3722. 
+Jiang, W.Y., Zhu, M., Shi, X.D., Li, Q., and Gai, Z.K., 2021. *Qushiaspis*, a new genus of gantarostrataspid fish (Galeaspida, stem-Gnathostomata) from the Lower Devonian of Yunnan, China. *Historical Biology*: 33(12), 3714–3722. 
 
 Liu, S.F., 1983. Agnathan from Sichuan, China. *Vertebrata PalAsiatica*, 21(2): 97–102.
 
@@ -711,9 +711,9 @@ Liu, Y.H., 1973. On the new forms of Polybranchiaspiformes and Petalichthyida fr
 
 Liu, Y.H., 1975. Lower Devonian Agnathans of Yunnan and Sichuan. *Vertebrata PalAsiatica*, 13(4): 202–216.
 
-Liu, Y.H., 1980. A nomenclatural note on Eugaleaspis for Galeaspis Liu, 1965; Eugaleaspidae for Galeaspidae Liu, 1965; Eugaleaspiformes for Galeaspiformes Liu, 1965. *Vertebrata PalAsiatica*, 18(3): 256–257.
+Liu, Y.H., 1980. A nomenclatural note on *Eugaleaspis* for *Galeaspis* Liu, 1965; Eugaleaspidae for Galeaspidae Liu, 1965; Eugaleaspiformes for Galeaspiformes Liu, 1965. *Vertebrata PalAsiatica*, 18(3): 256–257.
 
-Liu, Y.H., 1985. A galeaspid (Agnatha), Antiquasagittaspis cornuta gen. et sp. nov., from Lower Devonian of Guangxi, China. *Vertebrata PalAsiatica*, 23(4): 247–254.
+Liu, Y.H., 1985. A galeaspid (Agnatha), *Antiquasagittaspis cornuta* gen. et sp. nov., from Lower Devonian of Guangxi, China. *Vertebrata PalAsiatica*, 23(4): 247–254.
 
 Liu, Y.H., Gai, Z.K., and Zhu, M., 2018. New findings of galeaspids (Agnatha) from the Lower Devonian of Qujing, Yunnan, China. *Vertebrata PalAsiatica*, 56(1): 1–15.
 
@@ -723,7 +723,7 @@ Liu, Y.L., Huang, L.B., Zong, R.W., and Gong, Y.M., 2021. The oldest eugaleaspif
 
 Lu, L.W., Pan, J., and Zhao, L.J., 2007. New findings of Middle Paleozoic Agnatha and fishes from Kalpin, Xinjiang. *Acta Geoscientica Sinica*, 28(2): 143–147.
 
-Meng, X.Y., and Gai, Z.K., 2022. Falxcornus, a new genus of Tridensaspidae (Galeaspida, stem-Gnathostomata) from the Lower Devonian in Qujing, Yunnan, China. *Historical Biology*, 34(5), 897–906. 
+Meng, X.Y., and Gai, Z.K., 2022. *Falxcornus*, a new genus of Tridensaspidae (Galeaspida, stem-Gnathostomata) from the Lower Devonian in Qujing, Yunnan, China. *Historical Biology*, 34(5), 897–906. 
 
 Pan, J., and Wang, S.T., 1978. Devonian Agnatha and Pisces of South China. In: Symposium on the Devonian System of South China, Institute of Geology and Mineral Resources. Beijing: Geological Press, 298–333.
 
@@ -737,7 +737,7 @@ Pan, J., and Wang, S.T., 1980. New finding of Galeaspiformes in South China. *Ac
 
 Pan, J., and Wang, S.T., 1981. New discoveries of polybranchiaspids from Yunnan Province. *Vertebrata PalAsiatica*, 19(2): 113–121.
 
-Pan, J., and Wang, S.T., 1982. A nomenclatural note on Duyunolepis for Duyunaspis Pan et Wang, 1978. *Vertebrata PalAsiatica*, 20(4): 370.
+Pan, J., and Wang, S.T., 1982. A nomenclatural note on *Duyunolepis* for *Duyunaspis* Pan et Wang, 1978. *Vertebrata PalAsiatica*, 20(4): 370.
 
 Pan, J., and Wang, S.T., 1983. Xiushuiaspidae, a new family of Polybranchiaspformes from Xiushui of Jiangxi Province. *Acta Palaeontologica Sinica*, 22(5): 505–509.
 
@@ -745,24 +745,23 @@ Pan, J., and Zeng, X.Y., 1985. Dayongaspidae, a new family of Polybranchiaspifor
 
 Pan, J., Ji, S.A., 1993. First discovery of Middle Devonian galeaspids in China. *Vertebrata PalAsiatica*, 31(4): 304–307, 340.
 
-
-Ritchie, A., 1967. Ateleaspis tessellata Traquair, a non-cornuate cephalaspid from the Upper Silurian of Scotland. *Zoological Journal of the Linnean Society*, 47: 69–81.
+Ritchie, A., 1967. *Ateleaspis tessellata* Traquair, a non-cornuate cephalaspid from the Upper Silurian of Scotland. *Zoological Journal of the Linnean Society*, 47: 69–81.
 
 Shan, X.R., Zhu, M., Zhao, W.J., Pan, Z.H., Wang, P.L., and Gai, Z.K., 2020. A new genus of sinogaleaspids (Galeaspida, stem-Gnathostomata) from the Silurian Period in Jiangxi, China. *PeerJ*, 8: e9008.
 
 Shan, X.R., Gai, Z.K., Lin, X.H., Chen, Y., Zhu, M., and Zhao, W.J., 2022. The oldest eugaleaspiform fishes from the Silurian red beds in Jiangxi, South China and their stratigraphic significance. *Journal of Asian Earth Sciences*, 229: 105187.
 
-Shan, X.R., Zhao, W.J., and Gai, Z.K., 2023. A new species of Jiangxialepis (Galeaspida) from the lower Telychian (Silurian) of Jiangxi and its biostratigraphic significance. *Acta Geologica Sinica (English Edition)*, 97(2): 393–403.
+Shan, X.R., Zhao, W.J., and Gai, Z.K., 2023. A new species of *Jiangxialepis* (Galeaspida) from the lower Telychian (Silurian) of Jiangxi and its biostratigraphic significance. *Acta Geologica Sinica (English Edition)*, 97(2): 393–403.
 
-Shan, X.R., Lin, X.H., Zhang, Y.M., Li, X.T., and Gai, Z.K., 2023. New findings of Xiyuichthys (Xiushuiaspidae, Galeaspida) from the Silurian of Jiangxi Province and Tarim Basin. *Vertebrata Palasiatica*, 61(4): 245–260.
+Shan, X.R., Lin, X.H., Zhang, Y.M., Li, X.T., and Gai, Z.K., 2023. New findings of *Xiyuichthys* (Xiushuiaspidae, Galeaspida) from the Silurian of Jiangxi Province and Tarim Basin. *Vertebrata Palasiatica*, 61(4): 245–260.
 
 Shan, X.R., Zhu, M., Zhao, W.J., and Gai, Z.K., 2023. Fossil fishes from the Silurian Lower Red Beds in Wuhan, Hubei and their biogeographic significances. *Journal of Palaeogeography*, 25(2): 327–340.
 
-Shan, X.R., Zhu, M., Li, Q., Gai, Z.K., 2024. A taxonomical revision of ‘Dongfangaspis qujingensis’ from the Lower Devonian of Qujing, Yunnan Province. *Vertebrata Palasiatica*, 62(2): 85–98. 
+Shan, X.R., Zhu, M., Li, Q., Gai, Z.K., 2024. A taxonomical revision of ‘*Dongfangaspis qujingensis*’ from the Lower Devonian of Qujing, Yunnan Province. *Vertebrata Palasiatica*, 62(2): 85–98. 
 
-Si, C.D., Gai, Z.K., and Zhao, W.J., 2015. A new species of Siyingia from the Lower Devonian Xishancun Formation of Qujing, Yunnan. *Vertebrata PalAsiatica*, 53(2): 1–13.
+Si, C.D., Gai, Z.K., and Zhao, W.J., 2015. A new species of *Siyingia* from the Lower Devonian Xishancun Formation of Qujing, Yunnan. *Vertebrata PalAsiatica*, 53(2): 1–13.
 
-Sun, H.R., Gai, Z.K., Cai, J.C., Li Q., Zhu, M., and Zhao, W.J., 2022. Xitunaspis, a new eugaleaspid fish (Eugaleaspiformes, Galeaspida) from the Lower Devonian of Qujing, Yunnan. *Vertebrata Palasiatica*, 60(3): 169–183.
+Sun, H.R., Gai, Z.K., Cai, J.C., Li Q., Zhu, M., and Zhao, W.J., 2022. *Xitunaspis*, a new eugaleaspid fish (Eugaleaspiformes, Galeaspida) from the Lower Devonian of Qujing, Yunnan. *Vertebrata Palasiatica*, 60(3): 169–183.
 
 Tông-Dzuy, T., and Janvier, P., 1987. Les vertébrés Dévoniens du Viêtnam. *Annales de Paléontologie (Vert.-Invert.)*, 73(3): 165–194.
 
@@ -774,13 +773,13 @@ Wang, J.Q., Fan, J.H., and Zhu, M., 1996. Early vertebrate fossils from the Earl
 
 Wang, J.Q., and Wang, N.Z., 1992. Early Devonian galeaspid Agnatha from Southeast of Yunnan, China. *Vertebrata PalAsiatica*, 30(3): 185–194.
 
-Wang, J.Q. and Zhu, M., 1994. Zhaotongaspis janvieri gen. et sp. nov., a galeaspid from Early Devonian of Zhaotong, northeastern Yunnan. *Vertebrata PalAsiatica*, 32(4): 231–243.
+Wang, J.Q. and Zhu, M., 1994. *Zhaotongaspis janvieri* gen. et sp. nov., a galeaspid from Early Devonian of Zhaotong, northeastern Yunnan. *Vertebrata PalAsiatica*, 32(4): 231–243.
 
 Wang, J.Q., Wang, N.Z., and Zhu, M., 1996. Middle Paleozoic vertebrate fossils from the north-western margin of the Tarim Basin, and the related stratigraphy. In: Tong, X.G., Liang, D.G., and Jia, C.Z., (eds), New Advances of the Petroleum Geology of Tarim Basin. Beijing: Science Press, 8–16.
 
 Wang, J.Q., Wang, N.Z., Zhang, G.R., Wang, S.T., and Zhu, M., 2002. Agnathans from Llandovery (Silurian) of Kalpin, Xinjiang, China. *Vertebrata PalAsiatic*a, 40(4): 245–256.
 
-Wang, J.Q., Gai, Z.K., and Zhu, M., 2005. A new species of Macrothyraspis (Galeaspida, Agnatha) from Wenshan, Yunnan, China. *Vertebrata PalAsiatica*, 43(4): 304–311.
+Wang, J.Q., Gai, Z.K., and Zhu, M., 2005. A new species of *Macrothyraspis* (Galeaspida, Agnatha) from Wenshan, Yunnan, China. *Vertebrata PalAsiatica*, 43(4): 304–311.
 
 Wang, J.Q., Wang, S.T., and Zhu, M., 2009. A new galeaspid agnathan from Lower Devonian of Guangxi, China. *Vertebrata PalAsiatica*, 47(3): 234–239.
 
@@ -796,7 +795,7 @@ Wang, S.T., and Lan, C.H., 1984. New discovery of polybranchiaspids from Yiliang
 
 Wang, S.T., Wang, J.Q., Wang, N.Z., and Zhang, Z.X., 2001. A new genus of Galeaspida from the late Early Devonian of eastern Guangxi, South China. *Vertebrata PalAsiatica*, 39(3): 157–167.
 
-Wang, S.T., Wang, J.Q., Wang, N.Z., and Zhang, Z.X., 2002. Lopadaspis, new name for Discaspis Wang et al. *Vertebrata PalAsiatica*, 40(03): 176.
+Wang, S.T., Wang, J.Q., Wang, N.Z., and Zhang, Z.X., 2002. *Lopadaspis*, new name for Discaspis Wang et al. *Vertebrata PalAsiatica*, 40(03): 176.
 
 Zhang, Y.M., Li, X.T., Shan, X.R., Lin, X.H., Tan, K., Li, Q., Zhao, W.J., Tang, L.Z., Zhu, M., and Gai, Z.K., 2023. The first galeaspid fish (stem-gnathostomata) from the Silurian Xiushan formation of Hunan Province, China. *Historical Biology*, 1–12, doi: 10.1080/08912963.2023.2225083.
 
