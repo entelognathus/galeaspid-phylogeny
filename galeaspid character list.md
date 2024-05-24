@@ -290,8 +290,6 @@ Chen, Y., Gai, Z.K., Li, Q., Wang, J.Q., Peng, L.J., Wei, G.B., and Zhu, M., 202
 
 Chen, Y., Li, Q., Zhou Z.D., Shan, X.R., Zhu, Y.A., Wang, Q., Wei, G.B., and Zhu, M., 2024. A new genus of galeaspids (jawless stem-Gnathostomata) from the early Silurian Chongqing Lagerstätte, China. *Acta Geologica Sinica‐English Edition*, in prep.
 
-Gai, Z.K., Zhu, M., Jia, L.T. and Zhao, W.J., 2015. A streamlined jawless fish (Galeaspida) from the Lower Devonian of Yunnan, China and its taxonomic and paleoecological implications. *Vertebrata PalAsiatica*, 53(2): 93–109.
-
 Gai, Z.K., Lu, L.W., Zhao, W.J. and Zhu, M., 2018. New polybranchiaspiform fishes (Agnatha: Galeaspida) from the Middle Palaeozoic of China and their ecomorphological implications. *Public Library of Science ONE*, 13(9): e0202217.
 
 Gai, Z.K., Shan, X.R., Sun, Z.X., Zhao, W.J., Pan, Z.H., and Zhu, M., 2020. A redescription of the Silurian Sinogaleaspis shankouensis (Galeaspida, stem-Gnathostomata) from Jiangxi, China. *Vertebrata PalAsiatica*, 58(2): 85–99.
