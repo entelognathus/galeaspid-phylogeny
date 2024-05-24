@@ -300,15 +300,15 @@ Liu, W.Y., Shan, X.R., Lin, X.H., Shen, Y.M., Liu, Y.H., Zhang, Z.H., and Gai, Z
 
 Liu, Y.L., Huang, L.B., Zong, R.W., and Gong, Y.M., 2021. The oldest eugaleaspiform (Galeaspida) from the Silurian Fentou Formation (Telychian, Llandovery) of Wuhan, South China. *Journal of Systematic Palaeontology*, 19(4): 253–264.
 
-Meng, X.Y., and Gai, Z.K., 2022. Falxcornus, a new genus of Tridensaspidae (Galeaspida, stem-Gnathostomata) from the Lower Devonian in Qujing, Yunnan, China. *Historical Biology*, 34(5), 897–906. 
+Meng, X.Y., and Gai, Z.K., 2022. *Falxcornus*, a new genus of Tridensaspidae (Galeaspida, stem-Gnathostomata) from the Lower Devonian in Qujing, Yunnan, China. *Historical Biology*, 34(5), 897–906. 
 
 Shan, X.R., Zhu, M., Zhao, W.J., Pan, Z.H., Wang, P.L., and Gai, Z.K., 2020. A new genus of sinogaleaspids (Galeaspida, stem-Gnathostomata) from the Silurian Period in Jiangxi, China. *PeerJ*, 8: e9008.
 
 Shan, X.R., Gai, Z.K., Lin, X.H., Chen, Y., Zhu, M., and Zhao, W.J., 2022. The oldest eugaleaspiform fishes from the Silurian red beds in Jiangxi, South China and their stratigraphic significance. *Journal of Asian Earth Sciences*, 229: 105187.
 
-Si, C.D., Gai, Z.K., and Zhao, W.J., 2015. A new species of Siyingia from the Lower Devonian Xishancun Formation of Qujing, Yunnan. *Vertebrata PalAsiatica*, 53(2): 1–13.
+Si, C.D., Gai, Z.K., and Zhao, W.J., 2015. A new species of *Siyingia* from the Lower Devonian Xishancun Formation of Qujing, Yunnan. *Vertebrata PalAsiatica*, 53(2): 1–13.
 
-Sun, H.R., Gai, Z.K., Cai, J.C., Li Q., Zhu, M., and Zhao, W.J., 2022. Xitunaspis, a new eugaleaspid fish (Eugaleaspiformes, Galeaspida) from the Lower Devonian of Qujing, Yunnan. *Vertebrata Palasiatica*, 60(3): 169–183.
+Sun, H.R., Gai, Z.K., Cai, J.C., Li Q., Zhu, M., and Zhao, W.J., 2022. *Xitunaspis*, a new eugaleaspid fish (Eugaleaspiformes, Galeaspida) from the Lower Devonian of Qujing, Yunnan. *Vertebrata Palasiatica*, 60(3): 169–183.
 
 Zhang, Y.M., Li, X.T., Shan, X.R., Lin, X.H., Tan, K., Li, Q., Zhao, W.J., Tang, L.Z., Zhu, M., and Gai, Z.K., 2023. The first galeaspid fish (stem-gnathostomata) from the Silurian Xiushan formation of Hunan Province, China. *Historical Biology*, 1–12, doi: 10.1080/08912963.2023.2225083.
 
