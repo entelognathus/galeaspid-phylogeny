@@ -421,7 +421,12 @@
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
 > - Li et al., in prep.
 
-## Added by Lin *et al*. in prep.
+## Added by Lin *et al*. in prep. 1
+[*Deanaspis longpingi*] gen. et sp. nov. Lin *et al*., in prep. 1
+
+> - Any other species added in the matrix? To be complemented here.
+
+## Added by Lin *et al*. in prep. 2
 
 64. [*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
 > upper Telychian, 435.1, 433.4
