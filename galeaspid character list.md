@@ -282,6 +282,22 @@
 
 > - This is a character added by Chen et al. (in prep.). This character defines the shared state in the 'eugaleaspid cluster'. In *Yongdongaspis* and *Sinogaleaspis*, the connection between two canals forms a twisted line.
 
+69. Orientation of post-branchial wall:(0) horizontal； (1) oblique.
+> - This is a character added by Lin et al. (in prep.). 
+
+70. Post-branchial division of the headshield posterior to the post-branchial wall:(0) present; (1) absent.
+> - This is a character added by Lin et al. (in prep.). 
+
+71. length of post-branchial division: (0) long; (1) short.
+> - This is a character added by Lin et al. (in prep.). 
+
+72. Inter-branchial region between the post-branchial walls :(0) present; (1) absent.
+> - This is a character added by Lin et al. (in prep.). 
+
+73. Shape of the inter-branchial region between the post-branchial walls: (0) cylinder; (1) triangle.
+> - This is a character added by Lin et al. (in prep.). 
+
+
 **References**
 
 > - **reference to be complemented. **
