@@ -1,7 +1,5 @@
 # **List of galeaspid taxa, geological range, and references**
-
 > example:
-
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
 
@@ -408,33 +406,53 @@
 > - [Wang and Zhu, 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ruqyCrR4NhENlbzKozB_XmI2f0oCzxD3qVnL5F1T7xwI9u9ora4TZ0wT6LkK6u7hGWkCZ_PlNWNTfNn3EfoTgpZWPdR7kqSy8SEMYFGzSe51KiZBym5PzchSahUC3dwOI=&uniplatform=NZKPT&language=CHS)
 
 ## Added by Li *et al*. in prep.
-
 62. [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) (Liu, 1986)
 > Ludfordian, 425.6, 423.0
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
 > - [Liu, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pHiH_V12eJSwtV5__RKZYFyJsNaqyhnEhEAe4F6ToqpV2YJGjgv95UYMSRNwu6z_229bz2UJ_mJJKaiCEVjp0tLLImyi3YkbrBMRItjPIvzHv84dNT0BfWylFKTQx5myI=&uniplatform=NZKPT&language=CHS); [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
 
-63. [*Dunyu tianlu*] sp. nov. Li *et al*., in prep.
+63. [*Dunyu tianlu*] sp. nov. Li *et al*. (submitted, PeerJ)
 > Ludfordian, 425.6, 423.0
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
-> - Li et al., in prep.
+> - Li et al. (submitted, PeerJ)
 
 ## Added by Lin *et al*. in prep. 1
-[*Deanaspis longpingi*] gen. et sp. nov. Lin *et al*., in prep. 1
-
-> - Any other species added in the matrix? To be complemented here.
-
-## Added by Lin *et al*. in prep. 2
-
 64. [*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
 > upper Telychian, 435.1, 433.4
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - [Pan and Wang, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rO72crg4p4wMyyKyUTJXs4l7hyRW-S9UHYtJ372bV2HSOgsAlFBZFDQnks6GjaFeW-UMMFtuOmkfzvRrk6p_WWoOgcx8bvPFOu-GwqKnE6DXp7oTPvJxeX80yAXEEdFl0=&uniplatform=NZKPT&language=CHS)
 
-65. [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
+65. [*Xiyuichthys zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007)
+> lower Telychian, 438.3, 436.8
+
+> - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
+> - [Lu *et al*., 2007](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o6aqjs3RPDPH0bplr0kWIhD_jNH7KbBrlkFtsfW46nvW6chTHbMxGA15SBqdX44I5sUNttDcvIYMxmiTvwJZTCsPVvH3DiIBu7esxiWFtjuHck7tyvyy4zte-RejfAxmo=&uniplatform=NZKPT&language=CHS)
+> - *Xiyuaspis zhangi* (Lu *et al*., 2007) 
+
+66. [*Xiyuichthys lixiensis*] Shan *et al*., 2023
+> lower Telychian, 438.5, 436.8
+
+> - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
+> - Shan et al., 2023
+> - **To be added in deepbone.**
+
+67. [*Deanaspis longpingi*] gen. et sp. nov. Lin *et al*., in prep. 1
+> upper Telychian, 435.1, 433.4
+
+> - Xikeng Formation; near Baishui village, Cheqiao Town, De’an County, Jiujiang City, Jiangxi Province, China
+> - Any other species added in the matrix? To be complemented here.
+
+## Added by Xian *et al*. in prep.
+68. [*Wenshanaspis zhujieensis*] gen. et sp. nov. Xian *et al*., in prep.
+> Pragian, 410.8, 407.6
+
+> - Posongchong Formation, Zhujie Township, Guangnan, Wenshan, Yunnan Province, China
+
+## Added by Lin *et al*. in prep. 2
+69. [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
 > upper Telychian, 435.1, 433.4
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
@@ -641,22 +659,6 @@
 
 > - Xitun Formation; Yunnan, China
 > - Si *et al*., 2015
-
-31. [*Xiyuichthys zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007)
-> lower Telychian, 438.3, 436.8
-
-> - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
-> - [Lu *et al*., 2007](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o6aqjs3RPDPH0bplr0kWIhD_jNH7KbBrlkFtsfW46nvW6chTHbMxGA15SBqdX44I5sUNttDcvIYMxmiTvwJZTCsPVvH3DiIBu7esxiWFtjuHck7tyvyy4zte-RejfAxmo=&uniplatform=NZKPT&language=CHS)
-> - *Xiyuaspis zhangi* (Lu *et al*., 2007) 
-> - **NOT in the matrix due to the poor information.** 
-
-32. [*Xiyuichthys lixiensis*] Shan *et al*., 2023
-> lower Telychian, 438.5, 436.8
-
-> - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
-> - Shan et al., 2023
-> - **To be added in deepbone.**
-
 
 ## **Doubtful galeaspid taxa**
 [*Diploholcaspis daleensis*](https://deepbone.org/public/#/explor?s_id=74309&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2009
