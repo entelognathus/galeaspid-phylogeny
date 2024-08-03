@@ -4,9 +4,13 @@
 
 > Zhu and Gai (2006; 2007), Character 1; Gai *et al*. (2018), Character 1; Shan *et al*. (2020), Character 1; Jiang *et al*. (2021), Character 1; Liu *et al*. (2021), Character 1; Meng and Gai (2021), Character 1; Chen *et al*. (2022), Character 1; Shan *et al*. (2022), Character 1; Sun *et al*. (2022), Character 1; Zhang *et al*. (2023), Character 1; Liu *et al*. (2023), Character 1.
 
+> - The coding of *Wenshanaspis zhujieensis*: 1
+
 2. Festooned pattern of sensory canals on dorsal surface of headshield: (0) absent; (1) present.
 
 > Zhu and Gai (2006; 2007), Character 2; Gai *et al*. (2018), Character 2; Shan *et al*. (2020), Character 2; Jiang *et al*. (2021), Character 2; Liu *et al*. (2021), Character 2; Meng and Gai (2021), Character 2; Chen *et al*. (2022), Character 2; Shan *et al*. (2022), Character 2; Sun *et al*. (2022), Character 2; Zhang *et al*. (2023), Character 2; Liu *et al*. (2023), Character 2.
+
+> - The coding of *Wenshanaspis zhujieensis*: 1
 
 3. Aspidine tubercles: (0) absent; (1) present.
 
