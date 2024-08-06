@@ -58,6 +58,7 @@
 > Zhu and Gai (2006; 2007), Character 13; Gai *et al*. (2018), Character 13; Shan *et al*. (2020), Character 13; Jiang *et al*. (2021), Character 13; Liu *et al*. (2021), Character 13; Meng and Gai (2021), Character 13; Chen *et al*. (2022), Character 13; Shan *et al*. (2022), Character 13; Sun *et al*. (2022), Character 13; Zhang *et al*. (2023), Character 13; Liu *et al*. (2023), Character 13.
 
 > - The state 'ventrolaterally placed' was added by Jiang *et al*. (2021).
+> - The coding of *Hongshanaspis inexpectatus* is revised from 1 (Liu et al. 2023) to 2.
 
 14. Cornual process: (0) absent; (1) present.
 
@@ -66,6 +67,8 @@
 15. Extending trajectory of cornual process: (0) projecting posterolaterally; (1) projecting laterally; (2) projecting backward.
 
 > Zhu and Gai (2006; 2007), Character 15; Gai *et al*. (2018), Character 15; Shan *et al*. (2020), Character 15; Jiang *et al*. (2021), Character 15; Liu *et al*. (2021), Character 15; Meng and Gai (2021), Character 15; Chen *et al*. (2022), Character 15; Shan *et al*. (2022), Character 15; Sun *et al*. (2022), Character 15; Zhang *et al*. (2023), Character 15; Liu *et al*. (2023), Character 15.
+
+> - This character is contingent on the cornual process (#14 here).
 
 16. Portion of headshield behind cornual process: (0) short; (1) long.
 
