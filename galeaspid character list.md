@@ -247,6 +247,7 @@
 > Zhu and Gai (2006; 2007), Character 51; Gai *et al*. (2018), Character 51; Shan *et al*. (2020), Character 51; Jiang *et al*. (2021), Character 51; Liu *et al*. (2021), Character 51; Meng and Gai (2021), Character 51; Chen *et al*. (2022), Character 51; Shan *et al*. (2022), Character 51; Sun *et al*. (2022), Character 51; Zhang *et al*. (2023), Character 51; Liu *et al*. (2023), Character 51.
 
 > - This character is contingent on the presence of oval-like headshield (#4, this analysis).
+> - *Bannhuanaspis vukhuci* is coded from ? to 0.
 
 52. Nearly parallel lateral margins of headshield: (0) absent; (1) present.
 
