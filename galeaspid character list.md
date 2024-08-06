@@ -226,13 +226,13 @@
 
 > Zhu and Gai (2006; 2007), Character 46; Gai *et al*. (2018), Character 46; Shan *et al*. (2020), Character 46; Jiang *et al*. (2021), Character 46; Liu *et al*. (2021), Character 46; Meng and Gai (2021), Character 46; Chen *et al*. (2022), Character 46; Shan *et al*. (2022), Character 46; Sun *et al*. (2022), Character 46; Zhang *et al*. (2023), Character 46; Liu *et al*. (2023), Character 46.
 
-47. Postbranchial wall: (0) short; (1) long.
+47. Dermal postbranchial wall: (0) short; (1) long.
 
 > Zhu and Gai (2006; 2007), Character 47; Gai *et al*. (2018), Character 47; Shan *et al*. (2020), Character 47; Jiang *et al*. (2021), Character 47; Liu *et al*. (2021), Character 47; Meng and Gai (2021), Character 47; Chen *et al*. (2022), Character 47; Shan *et al*. (2022), Character 47; Sun *et al*. (2022), Character 47; Zhang *et al*. (2023), Character 47; Liu *et al*. (2023), Character 47.
 
-> - Here we define this character as the median extension of the ventral rim of headshield behind the branchial region, corresponding to the ventral median abdominal division of the headshield of osteostracans (Janvier, 1985). The extensions of both sides either meet to form a ring or do not meet in midline. As such, the postbranchial wall is a part of dermal skeleton.
+> - Here we re-define this character as the dermal postbranchial wall or bar (Janvier et al., 2009), which represents the median extension of the ventral rim of headshield behind the branchial region, corresponding to the ventral median abdominal division of the headshield of osteostracans (Janvier, 1985). The extensions of both sides either meet to form a ring or do not meet in midline. 
 
-> - The long postbranchial wall is considered as an important apomorphic characteristic for *Xiushuiaspis* and *Changxingaspis* (Zhu and Gai 2006; 2007).
+> - The long dermal postbranchial wall is considered as an important apomorphic characteristic for *Xiushuiaspis* and *Changxingaspis* (Zhu and Gai 2006; 2007).
 
 48. Elongated branchial region: (0) absent; (1) present.
 
@@ -326,7 +326,7 @@
 
 > - This is a character added by Chen et al. (in prep.). This character defines the shared state in the 'eugaleaspid cluster'. In *Yongdongaspis* and *Sinogaleaspis*, the connection between two canals forms a twisted line.
 
-69. Orientation of post-branchial wall:(0) horizontal； (1) oblique.
+69. Orientation of septum between branchial region and post-branchial wall: (0) horizontal； (1) oblique.
 > - This is a character added by Lin et al. (in prep.). This character defines the orientation of post-branchial wall.
 
 70. Post-branchial division of the headshield posterior to the post-branchial wall:(0) present; (1) absent.
