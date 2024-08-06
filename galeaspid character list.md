@@ -81,13 +81,19 @@
 
 > Zhu and Gai (2006; 2007), Character 16; Gai *et al*. (2018), Character 16; Shan *et al*. (2020), Character 16; Jiang *et al*. (2021), Character 16; Liu *et al*. (2021), Character 16; Meng and Gai (2021), Character 16; Chen *et al*. (2022), Character 16; Shan *et al*. (2022), Character 16; Sun *et al*. (2022), Character 16; Zhang *et al*. (2023), Character 16; Liu *et al*. (2023), Character 16.
 
+> - This character is contingent on the the presence of the cornual process (#14, this analysis).
+
 17. Position of cornual process base: (0) near posterior end of headshield; (1) away from posterior end of headshield.
 
 > Zhu and Gai (2006; 2007), Character 17; Gai *et al*. (2018), Character 17; Shan *et al*. (2020), Character 17; Jiang *et al*. (2021), Character 17; Liu *et al*. (2021), Character 17; Meng and Gai (2021), Character 17; Chen *et al*. (2022), Character 17; Shan *et al*. (2022), Character 17; Sun *et al*. (2022), Character 17; Zhang *et al*. (2023), Character 17; Liu *et al*. (2023), Character 17.
 
+> - This character is contingent on the the presence of the cornual process (#14, this analysis).
+
 18. Spines on cornual process: (0) absent;  (1) present.
 
 > Zhu and Gai (2006; 2007), Character 18; Gai *et al*. (2018), Character 18; Shan *et al*. (2020), Character 18; Jiang *et al*. (2021), Character 18; Liu *et al*. (2021), Character 18; Meng and Gai (2021), Character 18; Chen *et al*. (2022), Character 18; Shan *et al*. (2022), Character 18; Sun *et al*. (2022), Character 18; Zhang *et al*. (2023), Character 18; Liu *et al*. (2023), Character 18.
+
+> - This character is contingent on the the presence of the cornual process (#14, this analysis).
 
 19. Inner cornual process: (0) present; (1) absent.
 
