@@ -19,7 +19,8 @@
 4. Shape of headshield: (0) trapezoid-like; (1) triangular-like; (2) oval-like; (3) armet-like; (4) fork-like; (5) torpedo-like.
    
 > Zhu and Gai (2006; 2007), Character 4; Gai *et al*. (2018), Character 4; Shan *et al*. (2020), Character 4; Jiang *et al*. (2021), Character 4; Liu *et al*. (2021), Character 4; Meng and Gai (2021), Character 4; Chen *et al*. (2022), Character 4; Shan *et al*. (2022), Character 4; Sun *et al*. (2022), Character 4; Zhang *et al*. (2023), Character 4; Liu *et al*. (2023), Character 4.
-> The state 'torpedo-like' was added by Jiang *et al*. (2021).
+
+> - The state 'torpedo-like' was added by Jiang *et al*. (2021).
 
 5. Margin of headshield: (0) serrated; (1) smooth.
 
@@ -99,9 +100,13 @@
 
 > Zhu and Gai (2006; 2007), Character 19; Gai *et al*. (2018), Character 19; Shan *et al*. (2020), Character 19; Jiang *et al*. (2021), Character 19; Liu *et al*. (2021), Character 19; Meng and Gai (2021), Character 19; Chen *et al*. (2022), Character 19; Shan *et al*. (2022), Character 19; Sun *et al*. (2022), Character 19; Zhang *et al*. (2023), Character 19; Liu *et al*. (2023), Character 19.
 
+> - This character applies to the galeaspid taxa.
+
 20. Shape of inner cornual process: (0) broad leaf-shaped; (1) spine-shaped.
 
 > Zhu and Gai (2006; 2007), Character 20; Gai *et al*. (2018), Character 20; Shan *et al*. (2020), Character 20; Jiang *et al*. (2021), Character 20; Liu *et al*. (2021), Character 20; Meng and Gai (2021), Character 20; Chen *et al*. (2022), Character 20; Shan *et al*. (2022), Character 20; Sun *et al*. (2022), Character 20; Zhang *et al*. (2023), Character 20; Liu *et al*. (2023), Character 20.
+
+> - This character is contingent on the the presence of the inner cornual process (#20, this analysis).
 
 21. Rostral margin of headshield: (0) without rostral angle; (1) with rostral angle.
 
@@ -115,9 +120,13 @@
 
 > Zhu and Gai (2006; 2007), Character 23; Gai *et al*. (2018), Character 23; Shan *et al*. (2020), Character 23; Jiang *et al*. (2021), Character 23; Liu *et al*. (2021), Character 23; Meng and Gai (2021), Character 23; Chen *et al*. (2022), Character 23; Shan *et al*. (2022), Character 23; Sun *et al*. (2022), Character 23; Zhang *et al*. (2023), Character 23; Liu *et al*. (2023), Character 23.
 
+> - This character is contingent on the the presence of the rostral process (#22, this analysis).
+
 24. Spines or tubercles on margin of rostral process: (0) absent; (1) present.
 
 > Zhu and Gai (2006; 2007), Character 24; Gai *et al*. (2018), Character 24; Shan *et al*. (2020), Character 24; Jiang *et al*. (2021), Character 24; Liu *et al*. (2021), Character 24; Meng and Gai (2021), Character 24; Chen *et al*. (2022), Character 24; Shan *et al*. (2022), Character 24; Sun *et al*. (2022), Character 24; Zhang *et al*. (2023), Character 24; Liu *et al*. (2023), Character 24.
+
+> - This character is contingent on the the presence of the rostral process (#22, this analysis).
 
 25. Fenestrae on dorsal surface of headshield: (0) absent; (1) present.
 
@@ -127,17 +136,25 @@
 
 > Zhu and Gai (2006; 2007), Character 26; Gai *et al*. (2018), Character 26; Shan *et al*. (2020), Character 26; Jiang *et al*. (2021), Character 26; Liu *et al*. (2021), Character 26; Meng and Gai (2021), Character 26; Chen *et al*. (2022), Character 26; Shan *et al*. (2022), Character 26; Sun *et al*. (2022), Character 26; Zhang *et al*. (2023), Character 26; Liu *et al*. (2023), Character 26.
 
+> - This character is contingent on the the presence of the dorsal fenestrae (#25, this analysis).
+
 27. Shape of dorsal fenestra: (0) slender oval-like; (1) broad bean-like.
 
 > Zhu and Gai (2006; 2007), Character 27; Gai *et al*. (2018), Character 27; Shan *et al*. (2020), Character 27; Jiang *et al*. (2021), Character 27; Liu *et al*. (2021), Character 27; Meng and Gai (2021), Character 27; Chen *et al*. (2022), Character 27; Shan *et al*. (2022), Character 27; Sun *et al*. (2022), Character 27; Zhang *et al*. (2023), Character 27; Liu *et al*. (2023), Character 27.
+
+> - This character is contingent on the the presence of the dorsal fenestrae (#25, this analysis).
 
 28. Position of dorsal fenestra: (0) laterodorsal position; (1) dorsal position.
 
 > Zhu and Gai (2006; 2007), Character 28; Gai *et al*. (2018), Character 28; Shan *et al*. (2020), Character 28; Jiang *et al*. (2021), Character 28; Liu *et al*. (2021), Character 28; Meng and Gai (2021), Character 28; Chen *et al*. (2022), Character 28; Shan *et al*. (2022), Character 28; Sun *et al*. (2022), Character 28; Zhang *et al*. (2023), Character 28; Liu *et al*. (2023), Character 28.
 
+> - This character is contingent on the the presence of the dorsal fenestrae (#25, this analysis).
+
 29. Position of dorsal fenestra relative to orbital opening: (0) orbital opening inside, fenestra outside; (1) orbital opening outside, fenestra inside.
 
 > Zhu and Gai (2006; 2007), Character 29; Gai *et al*. (2018), Character 29; Shan *et al*. (2020), Character 29; Jiang *et al*. (2021), Character 29; Liu *et al*. (2021), Character 29; Meng and Gai (2021), Character 29; Chen *et al*. (2022), Character 29; Shan *et al*. (2022), Character 29; Sun *et al*. (2022), Character 29; Zhang *et al*. (2023), Character 29; Liu *et al*. (2023), Character 29.
+
+> - This character is contingent on the the presence of the dorsal fenestrae (#25, this analysis).
 
 30. Median transverse canals: (0) two; (1) one; (2) more than two.
 
@@ -228,6 +245,8 @@
 51. Width/length in oval-like headshield: (0) < 1; (1) >1.
 
 > Zhu and Gai (2006; 2007), Character 51; Gai *et al*. (2018), Character 51; Shan *et al*. (2020), Character 51; Jiang *et al*. (2021), Character 51; Liu *et al*. (2021), Character 51; Meng and Gai (2021), Character 51; Chen *et al*. (2022), Character 51; Shan *et al*. (2022), Character 51; Sun *et al*. (2022), Character 51; Zhang *et al*. (2023), Character 51; Liu *et al*. (2023), Character 51.
+
+> - This character is contingent on the presence of oval-like headshield (#4, this analysis).
 
 52. Nearly parallel lateral margins of headshield: (0) absent; (1) present.
 
