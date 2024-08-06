@@ -16,7 +16,7 @@
 
 > Zhu and Gai (2006; 2007), Character 3; Gai *et al*. (2018), Character 3; Shan *et al*. (2020), Character 3; Jiang *et al*. (2021), Character 3; Liu *et al*. (2021), Character 3; Meng and Gai (2021), Character 3; Chen *et al*. (2022), Character 3; Shan *et al*. (2022), Character 3; Sun *et al*. (2022), Character 3; Zhang *et al*. (2023), Character 3; Liu *et al*. (2023), Character 3.
 
-4. Shape of headshield: (0) trapezoid-like; (1) triangular-like; (2) oval-like; (3) armet-like; (4) fork-like; (5) torpedo-like
+4. Shape of headshield: (0) trapezoid-like; (1) triangular-like; (2) oval-like; (3) armet-like; (4) fork-like; (5) torpedo-like.
    
 > Zhu and Gai (2006; 2007), Character 4; Gai *et al*. (2018), Character 4; Shan *et al*. (2020), Character 4; Jiang *et al*. (2021), Character 4; Liu *et al*. (2021), Character 4; Meng and Gai (2021), Character 4; Chen *et al*. (2022), Character 4; Shan *et al*. (2022), Character 4; Sun *et al*. (2022), Character 4; Zhang *et al*. (2023), Character 4; Liu *et al*. (2023), Character 4.
 > The state 'torpedo-like' was added by Jiang *et al*. (2021).
@@ -25,13 +25,19 @@
 
 > Zhu and Gai (2006; 2007), Character 5; Gai *et al*. (2018), Character 5; Shan *et al*. (2020), Character 5; Jiang *et al*. (2021), Character 5; Liu *et al*. (2021), Character 5; Meng and Gai (2021), Character 5; Chen *et al*. (2022), Character 5; Shan *et al*. (2022), Character 5; Sun *et al*. (2022), Character 5; Zhang *et al*. (2023), Character 5; Liu *et al*. (2023), Character 5.
 
+> -  The coding of *Hongshanaspis inexpectatus* is revised from 0 (Liu et al. 2023) to 1 (personal examiniation). 
+
 6. Shape of median dorsal opening: (0) transverse slit-like; (1) oval-like; (2) slender longitudinal oval.
 
 > Zhu and Gai (2006; 2007), Character 6; Gai *et al*. (2018), Character 6; Shan *et al*. (2020), Character 6; Jiang *et al*. (2021), Character 6; Liu *et al*. (2021), Character 6; Meng and Gai (2021), Character 6; Chen *et al*. (2022), Character 6; Shan *et al*. (2022), Character 6; Sun *et al*. (2022), Character 6; Zhang *et al*. (2023), Character 6; Liu *et al*. (2023), Character 6.
 
-7. Longitudinal oval dorsal opening: (0) not slit-like (length/width<6); (1) slit-like (length/width>6).
+> - This character is contingent on the presence of the median dorsal opening (#1, this analysis).
+
+7. Slender longitudinal oval median dorsal opening: (0) not slit-like (length/width < 6); (1) slit-like (length/width > 6).
 
 > Zhu and Gai (2006; 2007), Character 7; Gai *et al*. (2018), Character 7; Shan *et al*. (2020), Character 7; Jiang *et al*. (2021), Character 7; Liu *et al*. (2021), Character 7; Meng and Gai (2021), Character 7; Chen *et al*. (2022), Character 7; Shan *et al*. (2022), Character 7; Sun *et al*. (2022), Character 7; Zhang *et al*. (2023), Character 7; Liu *et al*. (2023), Character 7.
+
+> - This character is contingent on the slender longitudinal oval median dorsal opening (#7, this analysis).
 
 8. Heart-shaped median dorsal opening: (0) absent; (1) present.
 
