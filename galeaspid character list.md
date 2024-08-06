@@ -326,21 +326,25 @@
 
 > - This is a character added by Chen et al. (in prep.). This character defines the shared state in the 'eugaleaspid cluster'. In *Yongdongaspis* and *Sinogaleaspis*, the connection between two canals forms a twisted line.
 
-69. Orientation of septum between branchial region and post-branchial wall: (0) horizontal； (1) oblique.
-> - This is a character added by Lin et al. (in prep.). This character defines the orientation of post-branchial wall.
+69. Orientation of boundary between branchial region and pericardinal region: (0) horizontal； (1) oblique.
+> - This is a character added by Lin et al. (in prep.). In xiushuiaspids, this boundary is represented by an endoskeletal postbranchial wall, which separates the branchial region and the thoracic region (Wang, 1991), the latter comprising the pericardinal area. 
 
-70. Post-branchial division of the headshield posterior to the post-branchial wall:(0) present; (1) absent.
-> - This is a character added by Lin et al. (in prep.). Among the galeaspids with the horizontal post-branchial wall, Deanaspis longpingi gen. et. sp. nov. and all the members of Xiushuiaspidae such as Xiushuiaspis , Changxingaspis , and Xiyuichthys are characterized by an elongate post-branchial division of the headshield covering the anterior part of trunk (the equivalent of thoracic armour of placoderm). Pan and Wang (1983) first noticed this feature and divided galeaspids into branchial and post-branchial divisions bounded by the post-branchial wall.
+70. Long divison of headshield in dorsal aspect posterior to the branchial region: (0) absent; (1) present.
 
-71. length of post-branchial division: (0) long; (1) short.
-> - This is a character added by Lin et al. (in prep.). This character defines the length of post-branchial division.
+> - long postbranchial division of headshield in dorsal aspect
 
-72. Inter-branchial region between the post-branchial walls :(0) present; (1) absent.
+71. Length/width ratio of postbranchial division of headshield in dorsal aspect: (0) >0.5; (1) <=0.5.
+> - This is a character added by Lin et al. (in prep.).
+
+> - This character is contingent on long postbranchial division of headshield in dorsal aspect (#70, this analysis).
+
+72. Inter-branchial region: (0) absent; (1) present.
 > - This is a character added by Lin et al. (in prep.).  It is a unique region in polybranchiaspiformy galeaspids, in which  the post-branchial walls are squeezed from horizontal to oblique, and even to vertical by the increase of branchial fossae.
 
-73. Shape of the inter-branchial region between the post-branchial walls: (0) cylinder; (1) triangle.
+73. Shape of inter-branchial region: (0) cylinder; (1) triangle.
 > - This is a character added by Lin et al. (in prep.). This character defines the Shape of the inter-branchial region.
 
+> - This character is contingent on the presence of the interbranchial region (#73, this analysis).
 
 **References**
 
