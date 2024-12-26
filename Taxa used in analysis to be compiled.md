@@ -115,7 +115,7 @@
 15. [*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) Liu, 1965
 > lower Lochkovian, 419.2, 415.0
 
-> - Xishancun Formation; Qujing, YUnnan, China
+> - Xishancun Formation; Qujing, Yunnan, China
 > - [Liu, 1965](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o0OzCW46noLeiMdg6QycRruZNzj2NsuURRq4O2iU-0PZrs1JUX3Am9XDBVM27xypGB1cpFbiYqCfJq7cS5xyRZer2DB3N0yMk0Fb2Gf57CVKkimRaJQ6Bc2HSzc4itXJc=&uniplatform=NZKPT&language=CHS); [1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o28NFVQ9xZU7A00RPjzX8DDX8CpN0kbqCR75ZbO6befOfs_hJCLe5V12Jevp_auLVNpIIDTTP165LdeedDmCDBLcjP7MP9LBCpEooLPoTBnJ48OUduHffzWJuTF7uxCBI=&uniplatform=NZKPT&language=CHS); [1980](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pXCwEOhMJmJY7Umb0OMpCU40Da9bbdSGIOQI5PvU-MhBl3ISGic1eXHmoVTLSZe20gzRX0JZ9pKLjk22_Q2XyFM9kUSFowC9EPhWD52uQuOoh9xXQQ8BmJ9hKxmCWOe7Y=&uniplatform=NZKPT&language=CHS); 
 > - Type species.
 
