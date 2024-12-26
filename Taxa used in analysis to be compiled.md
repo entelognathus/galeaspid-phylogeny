@@ -134,7 +134,7 @@
 18. [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
 > Pragian, 410.8, 407.6
 
-> - Posongchong Formation, Wenshan County, Yunnan Province, China; Xujiachong Formation; Qujing City, Yunnan Province, China
+> - Posongchong Formation, Wenshan County, Yunnan Province, China; Xujiachong Formation, Qujing City, Yunnan Province, China
 > - [Wang and Wang, 1992](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pm4DVSWcYIYolOolmRjXVSsy8-YC7Zl3FJ4PAYRTVBJsGLmeShCNSIcl_eqHxmyZUZYzuCjx4fG0os3bbDsW2uoeu7VHDxGkf9ntEn7n2LspR2LAz-PP091JYAHIIA2Xs=&uniplatform=NZKPT&language=CHS); [Zhu *et al*., 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q-k-as1DjvrHiXuGsdKQJzF6phIjU2Ca0D7SiAwBH2VNbz3jYFG--RS8NrBeoB1RZCmljTFbISXlIj5-rxnvvKOWHRTcHPoD55FM_n5T17W_RxUnzx-4SJ644G9XvFfTk=&uniplatform=NZKPT&language=CHS)
 
 19. [*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993  
