@@ -2,51 +2,51 @@
 
 1. Median dorsal opening: (0) absent; (1) present.
 
-> Zhu and Gai (2006; 2007), Character 1; Gai *et al*. (2018), Character 1; Shan *et al*. (2020), Character 1; Jiang *et al*. (2021), Character 1; Liu *et al*. (2021), Character 1; Meng and Gai (2021), Character 1; Chen *et al*. (2022), Character 1; Shan *et al*. (2022), Character 1; Sun *et al*. (2022), Character 1; Zhang *et al*. (2023), Character 1; Liu *et al*. (2023), Character 1; Chen *et al*. (2024), Character ; Li *et al*. (2024), Character ; Lin *et al*., (2025), Character .
+> Zhu and Gai (2006; 2007), Character 1; Gai *et al*. (2018), Character 1; Shan *et al*. (2020), Character 1; Jiang *et al*. (2021), Character 1; Liu *et al*. (2021), Character 1; Meng and Gai (2021), Character 1; Chen *et al*. (2022), Character 1; Shan *et al*. (2022), Character 1; Sun *et al*. (2022), Character 1; Zhang *et al*. (2023), Character 1; Liu *et al*. (2023), Character 1; Chen *et al*. (2024), Character 1; Li *et al*. (2024), Character 1; Lin *et al*., (2025), Character 1.
 
 > - The coding of *Wenshanaspis zhujieensis*: 1
 
 2. Festooned pattern of sensory canals on dorsal surface of headshield: (0) absent; (1) present.
 
-> Zhu and Gai (2006; 2007), Character 2; Gai *et al*. (2018), Character 2; Shan *et al*. (2020), Character 2; Jiang *et al*. (2021), Character 2; Liu *et al*. (2021), Character 2; Meng and Gai (2021), Character 2; Chen *et al*. (2022), Character 2; Shan *et al*. (2022), Character 2; Sun *et al*. (2022), Character 2; Zhang *et al*. (2023), Character 2; Liu *et al*. (2023), Character 2; Chen *et al*. (2024), Character ; Li *et al*. (2024), Character ; Lin *et al*., (2025), Character .
+> Zhu and Gai (2006; 2007), Character 2; Gai *et al*. (2018), Character 2; Shan *et al*. (2020), Character 2; Jiang *et al*. (2021), Character 2; Liu *et al*. (2021), Character 2; Meng and Gai (2021), Character 2; Chen *et al*. (2022), Character 2; Shan *et al*. (2022), Character 2; Sun *et al*. (2022), Character 2; Zhang *et al*. (2023), Character 2; Liu *et al*. (2023), Character 2; Chen *et al*. (2024), Character 2; Li *et al*. (2024), Character 2; Lin *et al*., (2025), Character 2.
 
 > - The coding of *Wenshanaspis zhujieensis*: 1
 
 3. Aspidine tubercles: (0) absent; (1) present.
 
-> Zhu and Gai (2006; 2007), Character 3; Gai *et al*. (2018), Character 3; Shan *et al*. (2020), Character 3; Jiang *et al*. (2021), Character 3; Liu *et al*. (2021), Character 3; Meng and Gai (2021), Character 3; Chen *et al*. (2022), Character 3; Shan *et al*. (2022), Character 3; Sun *et al*. (2022), Character 3; Zhang *et al*. (2023), Character 3; Liu *et al*. (2023), Character 3; Chen *et al*. (2024), Character ; Li *et al*. (2024), Character ; Lin *et al*., (2025), Character .
+> Zhu and Gai (2006; 2007), Character 3; Gai *et al*. (2018), Character 3; Shan *et al*. (2020), Character 3; Jiang *et al*. (2021), Character 3; Liu *et al*. (2021), Character 3; Meng and Gai (2021), Character 3; Chen *et al*. (2022), Character 3; Shan *et al*. (2022), Character 3; Sun *et al*. (2022), Character 3; Zhang *et al*. (2023), Character 3; Liu *et al*. (2023), Character 3; Chen *et al*. (2024), Character 3; Li *et al*. (2024), Character 3; Lin *et al*., (2025), Character 3.
 
 4. Shape of headshield: (0) trapezoid-like; (1) triangular-like; (2) oval-like; (3) armet-like; (4) fork-like; (5) torpedo-like.
    
-> Zhu and Gai (2006; 2007), Character 4; Gai *et al*. (2018), Character 4; Shan *et al*. (2020), Character 4; Jiang *et al*. (2021), Character 4; Liu *et al*. (2021), Character 4; Meng and Gai (2021), Character 4; Chen *et al*. (2022), Character 4; Shan *et al*. (2022), Character 4; Sun *et al*. (2022), Character 4; Zhang *et al*. (2023), Character 4; Liu *et al*. (2023), Character 4; Chen *et al*. (2024), Character ; Li *et al*. (2024), Character ; Lin *et al*., (2025), Character .
+> Zhu and Gai (2006; 2007), Character 4; Gai *et al*. (2018), Character 4; Shan *et al*. (2020), Character 4; Jiang *et al*. (2021), Character 4; Liu *et al*. (2021), Character 4; Meng and Gai (2021), Character 4; Chen *et al*. (2022), Character 4; Shan *et al*. (2022), Character 4; Sun *et al*. (2022), Character 4; Zhang *et al*. (2023), Character 4; Liu *et al*. (2023), Character 4; Chen *et al*. (2024), Character 4; Li *et al*. (2024), Character 4; Lin *et al*., (2025), Character 4.
 
 > - The state 'torpedo-like' was added by Jiang *et al*. (2021).
 
 5. Margin of headshield: (0) serrated; (1) smooth.
 
-> Zhu and Gai (2006; 2007), Character 5; Gai *et al*. (2018), Character 5; Shan *et al*. (2020), Character 5; Jiang *et al*. (2021), Character 5; Liu *et al*. (2021), Character 5; Meng and Gai (2021), Character 5; Chen *et al*. (2022), Character 5; Shan *et al*. (2022), Character 5; Sun *et al*. (2022), Character 5; Zhang *et al*. (2023), Character 5; Liu *et al*. (2023), Character 5; Chen *et al*. (2024), Character ; Li *et al*. (2024), Character ; Lin *et al*., (2025), Character .
+> Zhu and Gai (2006; 2007), Character 5; Gai *et al*. (2018), Character 5; Shan *et al*. (2020), Character 5; Jiang *et al*. (2021), Character 5; Liu *et al*. (2021), Character 5; Meng and Gai (2021), Character 5; Chen *et al*. (2022), Character 5; Shan *et al*. (2022), Character 5; Sun *et al*. (2022), Character 5; Zhang *et al*. (2023), Character 5; Liu *et al*. (2023), Character 5; Chen *et al*. (2024), Character 5; Li *et al*. (2024), Character 5; Lin *et al*., (2025), Character 5.
 
 > -  The coding of *Hongshanaspis inexpectatus* is revised from 0 (Liu et al. 2023) to 1 (personal examiniation). 
 
 6. Shape of median dorsal opening: (0) transverse slit-like; (1) oval-like; (2) slender longitudinal oval.
 
-> Zhu and Gai (2006; 2007), Character 6; Gai *et al*. (2018), Character 6; Shan *et al*. (2020), Character 6; Jiang *et al*. (2021), Character 6; Liu *et al*. (2021), Character 6; Meng and Gai (2021), Character 6; Chen *et al*. (2022), Character 6; Shan *et al*. (2022), Character 6; Sun *et al*. (2022), Character 6; Zhang *et al*. (2023), Character 6; Liu *et al*. (2023), Character 6; Chen *et al*. (2024), Character ; Li *et al*. (2024), Character ; Lin *et al*., (2025), Character .
+> Zhu and Gai (2006; 2007), Character 6; Gai *et al*. (2018), Character 6; Shan *et al*. (2020), Character 6; Jiang *et al*. (2021), Character 6; Liu *et al*. (2021), Character 6; Meng and Gai (2021), Character 6; Chen *et al*. (2022), Character 6; Shan *et al*. (2022), Character 6; Sun *et al*. (2022), Character 6; Zhang *et al*. (2023), Character 6; Liu *et al*. (2023), Character 6; Chen *et al*. (2024), Character 6; Li *et al*. (2024), Character 6; Lin *et al*., (2025), Character 6.
 
 > - This character is contingent on the presence of the median dorsal opening (#1, this analysis).
 
 7. Slender longitudinal oval median dorsal opening: (0) not slit-like (length/width < 6); (1) slit-like (length/width > 6).
 
-> Zhu and Gai (2006; 2007), Character 7; Gai *et al*. (2018), Character 7; Shan *et al*. (2020), Character 7; Jiang *et al*. (2021), Character 7; Liu *et al*. (2021), Character 7; Meng and Gai (2021), Character 7; Chen *et al*. (2022), Character 7; Shan *et al*. (2022), Character 7; Sun *et al*. (2022), Character 7; Zhang *et al*. (2023), Character 7; Liu *et al*. (2023), Character 7; Chen *et al*. (2024), Character ; Li *et al*. (2024), Character ; Lin *et al*., (2025), Character .
+> Zhu and Gai (2006; 2007), Character 7; Gai *et al*. (2018), Character 7; Shan *et al*. (2020), Character 7; Jiang *et al*. (2021), Character 7; Liu *et al*. (2021), Character 7; Meng and Gai (2021), Character 7; Chen *et al*. (2022), Character 7; Shan *et al*. (2022), Character 7; Sun *et al*. (2022), Character 7; Zhang *et al*. (2023), Character 7; Liu *et al*. (2023), Character 7; Chen *et al*. (2024), Character 7; Li *et al*. (2024), Character 7; Lin *et al*., (2025), Character 7.
 
 > - This character is contingent on the slender longitudinal oval median dorsal opening (#7, this analysis).
 
 8. Heart-shaped median dorsal opening: (0) absent; (1) present.
 
-> Zhu and Gai (2006; 2007), Character 8; Gai *et al*. (2018), Character 8; Shan *et al*. (2020), Character 8; Jiang *et al*. (2021), Character 8; Liu *et al*. (2021), Character 8; Meng and Gai (2021), Character 8; Chen *et al*. (2022), Character 8; Shan *et al*. (2022), Character 8; Sun *et al*. (2022), Character 8; Zhang *et al*. (2023), Character 8; Liu *et al*. (2023), Character 8; Chen *et al*. (2024), Character ; Li *et al*. (2024), Character ; Lin *et al*., (2025), Character .
+> Zhu and Gai (2006; 2007), Character 8; Gai *et al*. (2018), Character 8; Shan *et al*. (2020), Character 8; Jiang *et al*. (2021), Character 8; Liu *et al*. (2021), Character 8; Meng and Gai (2021), Character 8; Chen *et al*. (2022), Character 8; Shan *et al*. (2022), Character 8; Sun *et al*. (2022), Character 8; Zhang *et al*. (2023), Character 8; Liu *et al*. (2023), Character 8; Chen *et al*. (2024), Character 8; Li *et al*. (2024), Character 8; Lin *et al*., (2025), Character 8.
 
 9. Position of median dorsal opening: (0) not subterminal; (1) subterminal.
 
-> Zhu and Gai (2006; 2007), Character 9; Gai *et al*. (2018), Character 9; Shan *et al*. (2020), Character 9; Jiang *et al*. (2021), Character 9; Liu *et al*. (2021), Character 9; Meng and Gai (2021), Character 9; Chen *et al*. (2022), Character 9; Shan *et al*. (2022), Character 9; Sun *et al*. (2022), Character 9; Zhang *et al*. (2023), Character 9; Liu *et al*. (2023), Character 9; Chen *et al*. (2024), Character ; Li *et al*. (2024), Character ; Lin *et al*., (2025), Character .
+> Zhu and Gai (2006; 2007), Character 9; Gai *et al*. (2018), Character 9; Shan *et al*. (2020), Character 9; Jiang *et al*. (2021), Character 9; Liu *et al*. (2021), Character 9; Meng and Gai (2021), Character 9; Chen *et al*. (2022), Character 9; Shan *et al*. (2022), Character 9; Sun *et al*. (2022), Character 9; Zhang *et al*. (2023), Character 9; Liu *et al*. (2023), Character 9; Chen *et al*. (2024), Character 9; Li *et al*. (2024), Character 9; Lin *et al*., (2025), Character 9.
 
 10. Anterior end of median dorsal opening: (0) subterminal; (1) some distance behind rostral margin of shield; (2) terminal.
 
@@ -326,7 +326,7 @@
 
 > - This is a character added by Chen et al. (in prep.). This character defines the shared state in the 'eugaleaspid cluster'. In *Yongdongaspis* and *Sinogaleaspis*, the connection between two canals forms a twisted line.
 
-69. Orientation of boundary between branchial region and pericardinal region: (0) horizontal； (1) oblique.
+69. Orientation of boundary between branchial region and pericardinal region: (0) horizontal; (1) oblique.
 > Lin *et al*., (2025), Character 69.
 
 > - In xiushuiaspids, this boundary is represented by an endoskeletal postbranchial wall, which separates the branchial region and the thoracic region (Wang, 1991), the latter comprising the pericardinal area. 
