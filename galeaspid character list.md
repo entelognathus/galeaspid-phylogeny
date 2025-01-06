@@ -305,24 +305,24 @@
 
 64. Middle dorsal spine of headshield: (0) absent; (1) present.
 
-> Shan *et al*. (2022), Character 64; Zhang *et al*. (2023), Character 64; Liu *et al*. (2023), Character 64; Chen *et al*. (in prep.), Character 64.
+> Shan *et al*. (2022), Character 64; Zhang *et al*. (2023), Character 64; Liu *et al*. (2023), Character 64; Chen *et al*. (2024), Character 64.
 
 65. Medial canal: (0) absent; (1) present.
 
-> Chen *et al*. (2022), Character 64; Sun *et al*. (2022), Character 64; Chen *et al*. (in prep.), Character 65.
+> Chen *et al*. (2022), Character 64; Sun *et al*. (2022), Character 64; Chen *et al*. (2024), Character 65.
 
 > - Chen *et al*. (2022) used the term 'central canal' to describe a short canal issued from the middle of the dorsal commissure. As the 'central sensory canal' is conventionally used to represent the canal leaving from the infraorbital canal in placoderms, we replace the 'central canal' in galeaspids with the 'medial canal' to avoid confusion (Chen et al., in prep.). 
 
 66. Dermal bone of headshield: (0) no less than 1 mm in thickness; (1) less than 1 mm in thickness.
 
-> Sun *et al*. (2022), Character 65; Chen *et al*. (in prep.), Character 66.
+> Sun *et al*. (2022), Character 65; Chen *et al*. (2024), Character 66.
 
 67. Vestige of median transverse canal: (0) absent; (1) present.
 
-> Sun *et al*. (2022), Character 66; Chen *et al*. (in prep.), Character 67.
+> Sun *et al*. (2022), Character 66; Chen *et al*. (2024), Character 67.
 
 68. Medial dorsal canal and posterior supraorbital canal forming a smooth curve: (0) no; (1) yes.
-> Chen *et al*. (in prep.), Character 68.
+> Chen *et al*. (2024), Character 68.
 
 > - This is a character added by Chen et al. (in prep.). This character defines the shared state in the 'eugaleaspid cluster'. In *Yongdongaspis* and *Sinogaleaspis*, the connection between two canals forms a twisted line.
 
@@ -333,16 +333,16 @@
 
 > - long postbranchial division of headshield in dorsal aspect
 
-71. Length/width ratio of postbranchial division of headshield in dorsal aspect: (0) >0.5; (1) <=0.5.
+71. Length/width ratio of postbranchial division of headshield in dorsal aspect: (0) >0.5; (1) ≤ 0.5.
 > - This is a character added by Lin et al. (in prep.).
 
-> - This character is contingent on long postbranchial division of headshield in dorsal aspect (#70, this analysis).
+> - This character is contingent on the long postbranchial division of headshield in dorsal aspect (#70, this analysis).
 
 72. Inter-branchial region: (0) absent; (1) present.
-> - This is a character added by Lin et al. (in prep.).  It is a unique region in polybranchiaspiformy galeaspids, in which  the post-branchial walls are squeezed from horizontal to oblique, and even to vertical by the increase of branchial fossae.
+> - This is a character added by Lin et al. (in prep.).  It is a unique region in polybranchiaspiform galeaspids, in which the post-branchial walls are squeezed from horizontal to oblique, and even to vertical by the increase of branchial fossae.
 
 73. Shape of inter-branchial region: (0) cylinder; (1) triangle.
-> - This is a character added by Lin et al. (in prep.). This character defines the Shape of the inter-branchial region.
+> - This is a character added by Lin et al. (in prep.). This character defines the shape of the inter-branchial region.
 
 > - This character is contingent on the presence of the interbranchial region (#73, this analysis).
 
