@@ -65,7 +65,9 @@
 > - The age of the Si Ka Formation is revised as the Pragian ([Gai *et al*., 2022](https://link.springer.com/article/10.1007/s12549-021-00486-z)).
 
 8. [*Changxingaspis gui*](https://deepbone.org/public/#/explor?s_id=263&functionId=Deepbone_header_searchResultOpen) Wang, 1991
-> lower Telychian, 438.5, 436.8  
+> lower Telychian, 438.5, 436.8
+>
+> 顾氏长兴鱼  
 
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - [Wang, 1991](https://cir.nii.ac.jp/crid/1130000793837287552)
@@ -147,7 +149,9 @@
 > - [Wang and Wang, 1992]((https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pm4DVSWcYIYolOolmRjXVSsy8-YC7Zl3FJ4PAYRTVBJsGLmeShCNSIcl_eqHxmyZUZYzuCjx4fG0os3bbDsW2uoeu7VHDxGkf9ntEn7n2LspR2LAz-PP091JYAHIIA2Xs=&uniplatform=NZKPT&language=CHS)); [Zhu *et al*., 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q-k-as1DjvrHiXuGsdKQJzF6phIjU2Ca0D7SiAwBH2VNbz3jYFG--RS8NrBeoB1RZCmljTFbISXlIj5-rxnvvKOWHRTcHPoD55FM_n5T17W_RxUnzx-4SJ644G9XvFfTk=&uniplatform=NZKPT&language=CHS)
 
 21. [*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
-> lower to middle Telychian, 438.5, 435.1 
+> lower to middle Telychian, 438.5, 435.1
+>
+> 锅顶山汉阳鱼 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
 > - [Pan *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9oGBdUgjfj7BRcJ6xgYtJe1GJEKZitogzBEMEatsOrGGHDzYKT-DCL0v6HVmDYm8vJ-Z4ZTTDhJFB0Nu725PbPbrGdMi5il8yXdjRjHn5p0AP3BxzZSPQN1libeRhw25aM=&uniplatform=NZKPT&language=CHS); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)  
@@ -418,6 +422,8 @@
 ## Added by Lin *et al*. （2025）
 64. [*Xiushuiaspis jiangxiensis*](https://deepbone.org/public/#/explor?s_id=255&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
 > upper Telychian, 435.1, 433.4
+>
+> 江西修水鱼
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - [Pan and Wang, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rO72crg4p4wMyyKyUTJXs4l7hyRW-S9UHYtJ372bV2HSOgsAlFBZFDQnks6GjaFeW-UMMFtuOmkfzvRrk6p_WWoOgcx8bvPFOu-GwqKnE6DXp7oTPvJxeX80yAXEEdFl0=&uniplatform=NZKPT&language=CHS)
@@ -437,7 +443,8 @@
 > - **To be added in deepbone.**
 
 67. [*Hongshanaspis inexpectatus*] Liu et al. 2021
-> 
+>
+> 意外洪山鱼
 
 > - 
 > - Liu et al. 2021
@@ -445,6 +452,8 @@
 
 68. [*Deanaspis longpingi*] Lin *et al*., 2025
 > upper Telychian, 435.1, 433.4
+>
+> 隆平德安鱼
 
 > - Xikeng Formation; near Baishui village, Cheqiao Town, De’an County, Jiujiang City, Jiangxi Province, China
 
@@ -457,6 +466,8 @@
 ## Added by Lin *et al*. in prep.
 70. [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
 > upper Telychian, 435.1, 433.4
+>
+> 赣北修水鱼
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - [Pan and Wang, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rO72crg4p4wMyyKyUTJXs4l7hyRW-S9UHYtJ372bV2HSOgsAlFBZFDQnks6GjaFeW-UMMFtuOmkfzvRrk6p_WWoOgcx8bvPFOu-GwqKnE6DXp7oTPvJxeX80yAXEEdFl0=&uniplatform=NZKPT&language=CHS)
@@ -465,6 +476,8 @@
 ## **Galeaspid taxa not used in the phylogenetic analysis**
 1. [*Changxingaspis nianzhongi*] Li *et al*., 2024 
 > lower Telychian, 438.3, 436.8
+>
+> 念忠长兴鱼
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - Li *et al*., 2024
@@ -531,12 +544,16 @@
 
 11. [*Kalpinolepis tarimensis*](https://deepbone.org/public/#/explor?s_id=237&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996
 > lower Telychian, 438.5, 436.8
+>
+> 塔里木柯坪鱼
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - [Wang *et al*., 1996]
 
 12. [*Konoceraspis grandoculus*](https://deepbone.org/public/#/explor?s_id=228&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > lower Telychian, 438.5, 436.8
+>
+> 大眼锥角鱼
 
 > - Rongxi Formation; Longshan, Zhangjiajie, Hunan, China
 > - Pan, 1992
@@ -544,6 +561,8 @@
 
 13. [*Latirostraspis chaohuensis*](https://deepbone.org/public/#/explor?s_id=214&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1980
 > lower Telychian, 438.5, 436.8
+>
+> 巢湖宽吻鱼
 
 > - Houjiatang Formation; Chaohu City, Anhui Province, China
 > - [Wang *et al*., 1980](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9owN0bvu9YXwZmxaySPvJi9OL0rycJ3ZFGQOBM0VQCI9PSffoRdBwcxvX9iR3UjOChsIPWLDo5m9IULRCmroffzjqvGTDJAFpbG__VSQKq2E-8BXzoaraV8WjrH-WBObX0=&uniplatform=NZKPT&language=CHS)
@@ -577,6 +596,8 @@
 
 18. [*Nanjiangaspis kalpinensis*](https://deepbone.org/public/#/explor?s_id=228functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002
 > lower Telychian, 438.5, 436.8
+>
+> 柯坪南疆鱼
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - [Wang *et al*., 2002]((https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rE3jrAuFKW9wVwvN6xPc6t8-n-j3dEvo5mOUur5dm57xEDMDrIGZ6zO2fi3PcpFrkQPE9VwHYf--4VQ5oOoE7cIZzYb-VPDIo99rxsOuMKupouyoDdFc-i-kfAz4m9pUU=&uniplatform=NZKPT&language=CHS))
