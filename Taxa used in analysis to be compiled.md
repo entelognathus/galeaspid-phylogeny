@@ -22,6 +22,8 @@
 ## **Galeaspid taxa used in the phylogenetic analysis**
 1. [*Altigibbaspis huiqingae*](https://deepbone.org/public/#/explor?s_id=73601functionId=Deepbone_header_searchResultOpen)  Liu *et al*., 2018
 > lower Lochkovian, 419.2, 415.0
+>
+> 惠清驼背鱼
 
 > - Xishancun Formation; near the northeast entrance of Liaokuo Park, Qujing City, Yunnan Province, China
 > - [Liu *et al*., 2018](https://www.vertpala.ac.cn/EN/Y2018/V56/I1/1)
@@ -63,6 +65,8 @@
 
 7. [*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
 > Pragian, 410.8, 407.6
+>
+> 武库班润鱼
 
 > - Si Ka Formation; Bac Thai Province, northern Vietnam
 > - [Janvier *et al*., 1993](https://www.academia.edu/download/34975424/1993a-A_new_Early_Devonian_Galeaspid_from_Bac_Thai_Province.pdf).
@@ -78,7 +82,7 @@
 
 9. [*Damaspis vartus*](https://deepbone.org/public/#/explor?s_id=487&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1982
 > lower Lochkovian, 419.2, 415.0
-
+> 变异坝鱼
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Wang and Wang, 1982](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rtZC92JEVepzTVY0gDRVewPo6f2SANood90hlz5xZp_UC982vYUAdC0y2yyuEclkwKk-BXDw8VOj0xxDQDeeePV1JrFMIXDRqmh3pWcTanzo1-XkNssmYMg09MSW3iGTs=&uniplatform=NZKPT&language=CHS)
 > - Type species.
@@ -101,6 +105,8 @@
 
 12. [*Dongfangaspis major*](https://deepbone.org/public/#/explor?s_id=492&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > Pragian, 410.8, 407.6
+>
+> 硕大东方鱼
 
 > - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rjYkm3ypqglZ0kyX1vbwO1RjoCOUErDDw2lfkdHlDexMJDDUNWW8y9nyaNYVIiaFd6-BHTZfRlfW2dQYgZ21O02vluYpreZV26sjhLKgoFN-BMLebw1q4-TN_NwM4z_Kc=&uniplatform=NZKPT&language=CHS)
@@ -108,6 +114,8 @@
      
 13. [*Duyunolepis paoyangensis*](https://deepbone.org/public/#/explor?s_id=455&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > upper Emsian, 400.45, 393.3
+>
+> 包阳都匀鱼
 
 > - Shujiaping Formation； Dunyun City, Guizhou Province, China
 > - [Halstead, 1979](https://www.nature.com/articles/282833a0); Pan, 1992; P'an and Wang, 1978; [Pan and Wang, 1982](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q9MIXcst7zt24C6J3OTk7-5YYeUmeJQSF7BCGi-1IB5w6XIqQ2tN6pDAzfCU9qWwSNlD2cH08et0Z0Zz0m1STkTkK_9DrSsUUWZLoCnxbZfGI55VK6Qd-oF3JPDcBloU0=&uniplatform=NZKPT&language=CHS) 
@@ -132,6 +140,8 @@
 
 16. [*Falxcornus liui*](https://deepbone.org/public/#/explor?s_id=82933&functionId=Deepbone_header_searchResultOpen) Meng and Gai, 2021
 > lower Lochkovian, 419.2, 415.0
+> 
+> 刘氏镰角鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Meng and Gai, 2021](https://www.tandfonline.com/doi/full/10.1080/08912963.2021.1952198)
@@ -139,7 +149,7 @@
 17. [*Foxaspis novemura*](https://deepbone.org/public/#/explor?s_id=168406&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2023
 > Pragian, 410.8, 407.6
 >
-> 刘氏镰角鱼
+> 九尾狐甲鱼
 
 > - Xiaoshan Formation; Tongmu Town, Jinxiu County, Laibin City, Guangxi Zhuang Autonomous Region, China
 > - [Gai *et al*., 2023](https://academic.oup.com/nsr/article/10/7/nwad050/7059227?login=false)
@@ -226,12 +236,16 @@
 
 28. [*Laxaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=480&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > lower Lochkovian, 419.2, 415.0
+>
+> 曲靖宽甲鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rKe-2vX7OIRfxgnshIl0WYU9_4fZSb4WJc3GDjbhaHUv2AXSyxvBWcHAY5BKFAORsjvlENOJiz9eP9N4ZkvuzfltAhfzIIxS-Z_MAc6F8IzPKQbi07r6HiyueATH94uxY=&uniplatform=NZKPT&language=CHS)
      
 29. [*Lopadaspis pinglensis*](https://deepbone.org/public/#/explor?s_id=465&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2001
 > Emsian, 407.6, 393.3
+>
+> 平乐圆盘鱼
 
 > - Hexian Formation; Pingle County, Guangxi, China
 > - [Wang *et al*., 2001](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rrBJ34OPADJDOexlkcigtxhg1y5y5y8fjq-47m1CmrK6kN8HBXGlOwPdPc84uTAdyB2mGevdwzT_5-WRJyulRD8r1qm6Xq2qn6KUjNz2JlEQ==&uniplatform=NZKPT); [2002](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9p0vHxCIT5p2Kx4ywwDp_aAxqXMcNZvEiuLWEI9aARlXJ9TWqSfneENZRh5jgiHFr8NDwlkpenQWgsISHxhaLarfWgPIJVGV4MlOuBLGSTLXQ==&uniplatform=NZKPT)
@@ -268,6 +282,8 @@
 
 34. [*Microhoplonaspis microthyris*](https://deepbone.org/public/#/explor?s_id=452&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > upper Lochkovian, 415.0, 410.8
+>
+> 小孔微盔鱼
 
 > - Xitun Formation; Qujing City, Yunnan Province, China
 > - Pan, 1992
@@ -280,6 +296,8 @@
      
 36. [*Nanningaspis zengi*](https://deepbone.org/public/#/explor?s_id=83167&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018
 > Pragian, 410.8, 407.6
+>
+> 曾氏南宁鱼
 
 > - NahKaoling (Nagaoling) Formation; Nanning City, Guangxi Zhuang Autonomous Region, China
 > - [Gai *et al*., 2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202217)
@@ -294,6 +312,8 @@
      
 38. [*Pentathyraspis pelta*](https://deepbone.org/public/#/explor?s_id=450&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > lower Lochkovian, 419.2, 415.0
+>
+> 盾状五窗鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - Pan, 1992
@@ -308,6 +328,8 @@
 
 40. [*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965
 > Lochkovian to Pragian, 419.2, 407.6
+>
+>  廖角山多鳃鱼
 
 > - Xishancun Formation, Xitun Formation, Qujing City, Yunnan Province, China; Sika Formation, Yen Minh, Vietnam; Khao Loc Formation; Ha Giang, Vietnam
 > - Fang *et al*., 1985; [Liu, 1965](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9oJloBJ0r_yT9UHjV6petv1d7lAlIrVtLCfsfTQhGlRzpQskzrdUGq17HjiOikO18n-9KkvKusNzfy0EPF9OnGf_uCNhzf8iGVY0pp0xavzPdbgy2gT-mnl4w9D0sm_sTs=&uniplatform=NZKPT&language=CHS); [1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9osjgmwUzT5o1Xz5RDUmwrWiY8UDo1RRHLicayKSUBTyJpOd6Zx0UITFhQZKOgRhpmUzZLZVOsTx8zqajJi2E2wijXHTcCJTGKYPgG_4F4IQns-2dglHtsWo9rvxmPW1Jw=&uniplatform=NZKPT&language=CHS); [Tông-Dzuy *et al*., 1995](https://www.palass.org/publications/palaeontology-journal/archive/38/1/article_pp169-186); [Tông-Dzuy and Janvier, 1987](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a3.pdf)
@@ -548,19 +570,25 @@
 > - **To be added in deepbone.**
 
 2. [*Clarorbis apponomedianus*](https://deepbone.org/public/#/explor?s_id=499&functionId=Deepbone_header_searchResultOpen) Pan and Ji, 1993
-> Eifelian, 393.3, 387.7 
+> Eifelian, 393.3, 387.7
+>
+> 近中显眶鱼 
 
 > - 'Xindu Formation'; Santan, Bobai, Guangxi, China
 > - [Pan and Ji, 1993](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pnYAqafYuYLWcgyAagzd6eKwjDiWEOoYGwm1D2WO6GZTYhXoBnpvFHLaTdaXm_dRS6fEEdPoeWQC_UERCuOunu1cgrmnXm1Tv7GtLgGi5s9XAqtlxr1gID3eyEYQEbyRc=&uniplatform=NZKPT&language=CHS)
 
 3. [*Cyclodiscaspis ctenus*](https://deepbone.org/public/#/explor?s_id=489&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > upper Lochkovian, 415.0, 410.8
+>
+> 栉刺团甲鱼
 
 > - Xitun Formation; Yiliang, Yunnan, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pXyc0Lk_ozlm5edcuJbR0zWIzu1F3XT2wi3I3pM-BoVkM54ax7lnyn0ocwRZ8AjnF1yhZ-VS-_vryowPMhS2ZKDS-kwk_VB_0C4-PrTj3-B-aBODm5SCGnS7a1Qxu_HcM=&uniplatform=NZKPT&language=CHS)
 
 4. [*Damaspis qujingensis*](https://deepbone.org/public/#/explor?s_id=482&functionId=Deepbone_header_searchResultOpen) (Pan and Wang, 1981)
 > lower Lochkovian, 419.2, 415.0
+>
+> 曲靖坝鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Pan and Wang, 1981](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9qkOkoQTbAkzhuGiT5dI_IciVulfuIlG_0YqHZJOf9Xqm-7_kKpJ7S6Bs1nOC8Fu9p8eVDghHve0Lg3eoZZsKRNnb_3RViYmZlVXUHMt04fPjv3MNevZzjQV2oe2waygoA=&uniplatform=NZKPT&language=CHS); [Shan *et al*., 2024](https://www.vertpala.ac.cn/EN/10.19615/j.cnki.2096-9899.240321)
@@ -568,6 +596,8 @@
 
 5. [*Diandongaspis xishancunensis*](https://deepbone.org/public/#/explor?s_id=497&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > lower Lochkovian, 419.2, 415.0
+>
+> 西山村滇东鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rjYkm3ypqglZ0kyX1vbwO1RjoCOUErDDw2lfkdHlDexMJDDUNWW8y9nyaNYVIiaFd6-BHTZfRlfW2dQYgZ21O02vluYpreZV26sjhLKgoFN-BMLebw1q4-TN_NwM4z_Kc=&uniplatform=NZKPT&language=CHS)
@@ -637,6 +667,8 @@
 
 14. [*Laxaspis yulongssus*](https://deepbone.org/public/#/explor?s_id=484&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > lower Lochkovian to Pragian, 419.2, 407.6
+>
+> 玉龙寺宽甲鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China; Khao Loc Formation; Hagiang, Vietnam
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rKe-2vX7OIRfxgnshIl0WYU9_4fZSb4WJc3GDjbhaHUv2AXSyxvBWcHAY5BKFAORsjvlENOJiz9eP9N4ZkvuzfltAhfzIIxS-Z_MAc6F8IzPKQbi07r6HiyueATH94uxY=&uniplatform=NZKPT&language=CHS); [Janvier and Phuong, 1999](https://www.semanticscholar.org/paper/Les-vertébrés-(Placodermi%2C-Galeaspida)-du-Dévonien-Janvier-Phuong/8a9136aff1bf2d7740a7de5879e8a264565fdf6f)
@@ -675,6 +707,8 @@
 
 19. [*Paraduyunaspis hezhangensis*](https://deepbone.org/public/#/explor?s_id=457&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > lower Emsian, 407.6, 400.45
+>
+> 赫章副都匀鱼
 
 > - Danlin Formation; Hezhang County, Guizhou Province, China
 > - P'an and Wang, 1978
@@ -682,6 +716,8 @@
 
 20. [*Neoduyunaspis minuta*](https://deepbone.org/public/#/explor?s_id=461&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Emsian, 407.6, 393.3
+>
+> 小型新都匀鱼
 
 > - Wudang Formation; Guiyang City, Guizhou Province, China
 > - P'an and Wang, 1978
@@ -697,6 +733,8 @@
 
 22. [*Polybranchiaspis zhanyiensis*](https://deepbone.org/public/#/explor?s_id=472&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Lochkovian, 419.2, 410.8
+>
+> 沾益多鳃鱼
 
 > - Cuifengshan Group, Zhanyi, Qujing, Yunnan, China.
 > - P'an and Wang, 1978
@@ -705,6 +743,8 @@
 
 23. [*Polybranchiaspis minor*](https://deepbone.org/public/#/explor?s_id=473&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > lower Lochkovian, 419.2, 415.0
+>
+> 小甲多鳃鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9osjgmwUzT5o1Xz5RDUmwrWiY8UDo1RRHLicayKSUBTyJpOd6Zx0UITFhQZKOgRhpmUzZLZVOsTx8zqajJi2E2wijXHTcCJTGKYPgG_4F4IQns-2dglHtsWo9rvxmPW1Jw=&uniplatform=NZKPT&language=CHS)
@@ -712,6 +752,8 @@
 
 24. [*Polybranchiaspis miandiancunensis*](https://deepbone.org/public/#/explor?s_id=474&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Pridoli, 423.0, 419.2
+>
+> 面店村多鳃鱼
 
 > - Yulungssu Formation; Qujing City, Yunnan Province, China
 > - P'an and Wang, 1978
@@ -719,7 +761,8 @@
 
 25. [*Pseudoduyunaspis bachuensis*](https://deepbone.org/public/#/explor?s_id=618&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996
 > middle Telychian, 436.8, 435.0
-
+>
+> 巴楚假都匀鱼
 > - Ymogantau Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - Wang *et al*., 1996
 > - **NOT in the matrix due to the poor information.** 
@@ -747,12 +790,16 @@
 
 29. [*Siyingia altuspinosa*](https://deepbone.org/public/#/explor?s_id=476functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1982
 > upper Lochkovian, 415.0, 410.8
+>
+> 高棘四营鱼
 
 > - Xitun Formation; Yiliang, Yunnan, China
 > - Wang and Wang, 1982
 
 30. [*Siyingia perlatuspinosa*](https://deepbone.org/public/#/explor?s_id=73821&functionId=Deepbone_header_searchResultOpen) Si *et al*., 2015
 > upper Lochkovian, 415.0, 410.8
+>
+> 宽棘四营鱼
 
 > - Xitun Formation; Yunnan, China
 > - Si *et al*., 2015
