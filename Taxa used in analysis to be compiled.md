@@ -28,13 +28,17 @@
 > - 
 
 2. [*Anjiaspis ericius*](https://deepbone.cn/public/#/explor?s_id=172117&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2022
-> lower Telychian, 438.5, 436.8 
+> lower Telychian, 438.5, 436.8
+>
+> 刺猬安吉鱼
 
 > - Qingshui Formation；Lixi Town, Wuning County, Jiangxi Province, China
 > - [Shan *et al*., 2022](https://www.sciencedirect.com/science/article/abs/pii/S1367912022001109)
     
 3. [*Anjiaspis reticularis*](https://deepbone.org/public/#/explor?s_id=341&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2005
-> lower Telychian, 438.5, 436.8 
+> lower Telychian, 438.5, 436.8
+>
+> 网状安吉鱼
 
 > - Kangshan Formation; Anji County, Zhejiang Province, China
 > - [Gai and Zhu, 2005](https://www.vertpala.ac.cn/CN/Y2005/V43/I03/165)
@@ -80,13 +84,17 @@
 > - Type species.
 
 10. [*Dayongaspis hunanensis*](https://deepbone.org/public/#/explor?s_id=300&functionId=Deepbone_header_searchResultOpen) Pan and Zeng, 1985
-> lower Telychian, 438.5, 436.8 
+> lower Telychian, 438.5, 436.8
+>
+> 湖南大庸鱼 
 
 > - Rongxi Formation; Zhangjiajie City, Hunan Province, China
 > - [Pan and Zeng, 1985](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ou2CvEwdXaFlbi0uJG1T7ure4gsQXtf_Vl_5cac1XVNyBIksQoDpXqcV4JlpVGe9NEodLhw8jXUYVDFDUtB0kkR0m-Hev60nBoeLLqbzt57GllQImd_CgNFdjdqkgtEds=&uniplatform=NZKPT&language=CHS); [Zhang et al., 2023](https://www.tandfonline.com/doi/full/10.1080/08912963.2023.2225083)
 
 11. [*Dayongaspis colubra*](https://deepbone.cn/public/#/explor?s_id=172118&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
-> middle Telychian, 436.8, 435.1 
+> middle Telychian, 436.8, 435.1
+>
+> 眼镜蛇大庸鱼 
 
 > - Xiushan Formation; Zhangjiajie City, Hunan Province, China
 > - [Zhang *et al*., 2023](https://www.tandfonline.com/doi/full/10.1080/08912963.2023.2225083)
@@ -106,6 +114,8 @@
     
 14. [*Dunyu longiforus*](https://deepbone.org/public/#/explor?s_id=392&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2012
 > Ludfordian, 425.6, 423.0
+>
+> 长孔盾鱼
 
 > - Kuanti Formation；Qujing, Yunnan, China.
 > - [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
@@ -113,6 +123,8 @@
 
 15. [*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) Liu, 1965
 > lower Lochkovian, 419.2, 415.0
+>
+> 张氏真盔甲鱼
 
 > - Xishancun Formation; Qujing, Yunnan, China
 > - [Liu, 1965](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o0OzCW46noLeiMdg6QycRruZNzj2NsuURRq4O2iU-0PZrs1JUX3Am9XDBVM27xypGB1cpFbiYqCfJq7cS5xyRZer2DB3N0yMk0Fb2Gf57CVKkimRaJQ6Bc2HSzc4itXJc=&uniplatform=NZKPT&language=CHS); [1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o28NFVQ9xZU7A00RPjzX8DDX8CpN0kbqCR75ZbO6befOfs_hJCLe5V12Jevp_auLVNpIIDTTP165LdeedDmCDBLcjP7MP9LBCpEooLPoTBnJ48OUduHffzWJuTF7uxCBI=&uniplatform=NZKPT&language=CHS); [1980](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pXCwEOhMJmJY7Umb0OMpCU40Da9bbdSGIOQI5PvU-MhBl3ISGic1eXHmoVTLSZe20gzRX0JZ9pKLjk22_Q2XyFM9kUSFowC9EPhWD52uQuOoh9xXQQ8BmJ9hKxmCWOe7Y=&uniplatform=NZKPT&language=CHS); 
@@ -126,6 +138,8 @@
 
 17. [*Foxaspis novemura*](https://deepbone.org/public/#/explor?s_id=168406&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2023
 > Pragian, 410.8, 407.6
+>
+> 刘氏镰角鱼
 
 > - Xiaoshan Formation; Tongmu Town, Jinxiu County, Laibin City, Guangxi Zhuang Autonomous Region, China
 > - [Gai *et al*., 2023](https://academic.oup.com/nsr/article/10/7/nwad050/7059227?login=false)
@@ -138,12 +152,16 @@
 
 19. [*Geraspis rara*](https://deepbone.org/public/#/explor?s_id=420&functionId=Deepbone_header_searchResultOpen) Pan and Chen, 1993  
 > middle Telychian, 436.8, 435.1
+>
+>  珍奇秀甲鱼
 
 > - Fentou Formation; Wuwei City, Anhui Province, China
 > - [Pan and Chen, 1993](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o-ipCY73FwiAW7xwKxATMzWI3qiv_ChxM6Nf5aLH7Py2Xr9FYG8hy90TtMEQd4RAU-rFpye9hiAx0U0t6WOslKpkC2OQYjvzjfi9sc_X-2ckSqO19c8iKlMzAsEdOwwDY=&uniplatform=NZKPT&language=CHS) 
 
 20. [*Gumuaspis rostrata*](https://deepbone.org/public/#/explor?s_id=434&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
 > Pragian, 410.8, 407.6
+>
+> 长吻古木鱼
 
 > - Posongchong Formation, Wenshan County, Yunnan Province, China
 > - [Wang and Wang, 1992]((https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pm4DVSWcYIYolOolmRjXVSsy8-YC7Zl3FJ4PAYRTVBJsGLmeShCNSIcl_eqHxmyZUZYzuCjx4fG0os3bbDsW2uoeu7VHDxGkf9ntEn7n2LspR2LAz-PP091JYAHIIA2Xs=&uniplatform=NZKPT&language=CHS)); [Zhu *et al*., 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q-k-as1DjvrHiXuGsdKQJzF6phIjU2Ca0D7SiAwBH2VNbz3jYFG--RS8NrBeoB1RZCmljTFbISXlIj5-rxnvvKOWHRTcHPoD55FM_n5T17W_RxUnzx-4SJ644G9XvFfTk=&uniplatform=NZKPT&language=CHS)
@@ -176,24 +194,32 @@
    
 24. [*Jiangxialepis jiujiangensis*](https://deepbone.cn/public/#/explor?s_id=172119&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2023
 > lower Telychian, 438.5, 436.8
+>
+> 九江江夏鱼
 
 > - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
 > - [Shan *et al*., 2023](https://onlinelibrary.wiley.com/doi/10.1111/1755-6724.15009)
 
 25. [*Jiangxialepis retrospina*](https://deepbone.org/public/#/explor?s_id=76900&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2021
-> lower to middle Telychian, 438.5, 435.1 
+> lower to middle Telychian, 438.5, 435.1
+>
+> 后棘江夏鱼 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
 > - [Liu *et al*., 2021](https://www.tandfonline.com/doi/abs/10.1080/14772019.2021.1883755); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)   
 
 26. [*Jiangxialepis rongi*](https://deepbone.cn/public/#/explor?s_id=172120&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2023
 > lower Telychian, 438.5, 436.8
+>
+> 戎氏江夏鱼
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - [Liu *et al*., 2023](https://www.sciencedirect.com/science/article/pii/S0031018223003929)
 
 27. [*Kwangnanaspis subtriangularis*](https://deepbone.org/public/#/explor?s_id=426&functionId=Deepbone_header_searchResultOpen) Cao, 1979
 > Pragian, 410.8, 407.6
+>
+> 近三角广南鱼
 
 > - Posongchong Formation; Guangnan County, Yunnan Province, China
 > - [Cao, 1979](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9oXMdf1iCUoMH_dYzhEfnaVCJqEDeb24zO1vvevhEyK29QkCBuVh-KbqN6Dh-S2nzZ9VPW_E_LbJ2EyqTCQuoFXZYgrTUXhRz4kEx6zbmcC6jkpSJM_uEbK2086xN2nD0I=&uniplatform=NZKPT&language=CHS)
@@ -226,12 +252,16 @@
 
 32. [*Meishanaspis lehmani*](https://deepbone.org/public/#/explor?s_id=334&functionId=Deepbone_header_searchResultOpen) Wang, 1991
 > lower Telychian, 438.5, 436.8
+>
+> 雷曼煤山鱼
 
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - [Wang, 1991](https://cir.nii.ac.jp/crid/1130000793837287552); [Gai *et al*., 2005](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ol7S36ZC9GqEW2_UWEFWTGYYnlvIEOdude2id0cGScfF1gFnxF8VA5IcFe7Do35ZaJQ_RcMFF5oU8Cyp23Sic5ymj4YMhiBBCXkmQhCk7rTrLRtvq2WFpxzIJJp9RYK68=&uniplatform=NZKPT&language=CHS)
 
-33. [*Miaojiaaspis dichotomus*] Chen *et al*., in prep.
+33. [*Miaojiaaspis dichotomus*] Chen *et al*., 2024
 > upper Telychian, 435.1, 433.4
+>
+> 双叉苗家鱼
 
 > - Huixingshao Formation; Xiushan County, Chongqing, China
 > - Chen *et al*., in prep.
@@ -256,6 +286,8 @@
 
 37. [*Nochelaspis maeandrine*](https://deepbone.org/public/#/explor?s_id=410&functionId=Deepbone_header_searchResultOpen) Zhu, 1992
 > lower Lochkovian, 419.2, 415.0
+>
+> 漫游憨鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Zhu, 1992](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9roTHo34p1xxF56NHfibMtd86Hml8aTctbT7Bj9RQUlPS_VnQe-BKOqxfMQG3v5P_SaMEimByL5v3A8MGhfI5aLiG4U18-HU-sk6tAwRF2NLq-1sO1cIqRI1dHONeAdwfg=&uniplatform=NZKPT&language=CHS); [Meng *et al*., 2021](https://www.vertpala.ac.cn/CN/10.19615/j.cnki.2096-9899.210727)
@@ -268,6 +300,8 @@
 
 39. [*Platylomaspis serratus*](https://deepbone.org/public/#/explor?s_id=83165&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2018
 > lower Telychian, 438.5, 436.8
+>
+> 锯齿宽腹鱼
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - [Gai *et al*., 2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202217)
@@ -281,6 +315,8 @@
 
 41. [*Pterogonaspis yuhaii*](https://deepbone.org/public/#/explor?s_id=403&functionId=Deepbone_header_searchResultOpen) Zhu, 1992
 > Pragian, 410.8, 407.6
+>
+> 玉海翼角鱼
 
 > - Xujiachong Formation; Qujing City, Yunnan Province, China
 > - [Zhu, 1992](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9oFi5n17ExKyQbkXxy0sUjRKQnLdYf3qQDSe5m_KgZdQOt_q-34jhB-gNnfJ9jiPKF96qyL_4lDtyaYpiuHZEFYPRnDqINtEoivzCZmW0tzVcJtd0DL_Of1vwwVcK7_DSo=&uniplatform=NZKPT&language=CHS); [Meng *et al*., 2023](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.25098)
@@ -293,6 +329,8 @@
      
 43. [*Qingshuiaspis junqingi*](https://deepbone.cn/public/#/explor?s_id=172122&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2022
 > lower Telychian, 438.5, 436.8
+>
+> 俊卿清水鱼
 
 > - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
 > - [Shan *et al*., 2022](https://www.sciencedirect.com/science/article/abs/pii/S1367912022001109)
@@ -305,12 +343,16 @@
      
 45. [*Rumporostralis xikengensis*](https://deepbone.org/public/#/explor?s_id=326&functionId=Deepbone_header_searchResultOpen) (Pan and Wang, 1980)
 > upper Telychian, 435.1, 433.4
+>
+> 西坑裂吻鱼
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - [Pan and Wang, 1980](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q3zObcRU5uGKIhcS3hYtML4xZOVho6i_crJe6WJExPogVr_pL8LAgtOchxVlKvmozh6O2aEuI3CdXICw-u8CbI8mzvvuj255QJw_zEC-78kpZQrwjz6Am21h3c6UUCFnM=&uniplatform=NZKPT&language=CHS); [Shan *et al*., 2020](https://peerj.com/articles/9008/)
 
 46. [*Rumporostralis shipanensis*](https://deepbone.org/public/#/explor?s_id=83050&functionId=Deepbone_header_searchResultOpen) Shan *et al*., 2020
 > upper Telychian, 435.1, 433.4
+>
+> 石盘裂吻鱼
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - [Shan *et al*., 2020](https://peerj.com/articles/9008/)
@@ -335,13 +377,17 @@
 > - Type species.
 
 50. [*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) (Pan, 1986)
-> lower Telychian, 438.5, 436.8 
+> lower Telychian, 438.5, 436.8
+>
+> 浙江曙鱼
 
 > - Kangshan Formation; Changxing County, Zhejiang Province, China
 > - Pan, 1986; [Gai *et al*., 2011](https://www.nature.com/articles/nature10276).
 
 51. [*Sinogaleaspis shankouensis*](https://deepbone.org/public/#/explor?s_id=320&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1980
 > upper Telychian, 435.1, 433.4
+>
+> 山口中华盔甲鱼
 
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - [Pan and Wang, 1980](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q3zObcRU5uGKIhcS3hYtML4xZOVho6i_crJe6WJExPogVr_pL8LAgtOchxVlKvmozh6O2aEuI3CdXICw-u8CbI8mzvvuj255QJw_zEC-78kpZQrwjz6Am21h3c6UUCFnM=&uniplatform=NZKPT&language=CHS); [Gai *et al*., 2020](https://www.vertpala.ac.cn/EN/10.19615/j.cnki.1000-3118.191105)
@@ -360,12 +406,16 @@
 
 54. [*Tujiaaspis vividus*](https://deepbone.org/public/#/explor?s_id=166623&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2022
 > upper Telychian, 435.1, 433.4
+>
+> 灵动土家鱼
 
 > - Huixingshao Formation; Huayuan County, Hunan Province, China; Xiushan County, Chongqing, China
 > - [Gai *et al*., 2022](https://www.nature.com/articles/s41586-022-04897-6)
 
 55. [*Tridensaspis magnoculus*](https://deepbone.org/public/#/explor?s_id=407&functionId=Deepbone_header_searchResultOpen) Liu, 1986
 > Pragian, 410.8, 407.6
+>
+> 大眼三尖鱼
 
 > - bottom of Yukiang Formation, Xiangzhou County, Guangxi, China
 > - [Liu, 1986](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rpyzZ2p_XotfvJVPs1Wk1u7qKrymGk2xZWI94-zrdvPMfEV7USe79OM9uNVisJWJnWtEEzK7I2sE7WFOK_JSv-vxADOu0cWs6qW6Zeu1oJpj1CRU2VyJy7K5o2rpemSIU=&uniplatform=NZKPT&language=CHS)
@@ -384,18 +434,24 @@
 
 58. [*Xitunaspis magnus*](https://deepbone.org/public/#/explor?s_id=166500&functionId=Deepbone_header_searchResultOpen) Sun *et al*., 2022
 > upper Lochkovian, 415.0, 410.8
+>
+> 硕大西屯鱼
 
 > - Xitun Formation; Qujing City, Yunnan Province, China
 > - [Sun *et al*., 2022](https://www.vertpala.ac.cn/EN/10.19615/j.cnki.2096-9899.220412)
      
 59. [*Yunnanogaleaspis major*](https://deepbone.org/public/#/explor?s_id=41389&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1980
 > lower Lochkovian, 419.2, 415.0
+>
+> 硕大云南盔甲鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Pan and Wang, 1980](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q_P6QBcOfB-V7-BQ9aF2nQsZBXsJkkRhmoQXmHgkaAz05E5LGHrO3Ks42LAmvZuG1SrM42bd1N1kipuAKh74z41cHbtXJosxY5YThJINbYGe51S-hj1c7tcCEHejc7_mo=&uniplatform=NZKPT&language=CHS)
      
 60. [*Yongdongaspis littoralis*](https://deepbone.cn/public/#/explor?s_id=172125&functionId=Deepbone_header_searchResultOpen) Chen *et al*., 2022
 > upper Telychian, 435.1, 433.4
+>
+> 滨海涌动鱼
 
 > - Huixingshao Formation; Xiushan County, Chongqing, China
 > - [Chen *et al*., 2022](https://onlinelibrary.wiley.com/doi/10.1111/1755-6724.14909)
@@ -409,12 +465,16 @@
 ## Added by Li *et al*. 2024
 62. [*Dunyu xiushanensis*](https://deepbone.org/public/#/explor?s_id=398&functionId=Deepbone_header_searchResultOpen) (Liu, 1986)
 > Ludfordian, 425.6, 423.0
+>
+> 秀山盾鱼
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
 > - [Liu, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pHiH_V12eJSwtV5__RKZYFyJsNaqyhnEhEAe4F6ToqpV2YJGjgv95UYMSRNwu6z_229bz2UJ_mJJKaiCEVjp0tLLImyi3YkbrBMRItjPIvzHv84dNT0BfWylFKTQx5myI=&uniplatform=NZKPT&language=CHS); [Zhu *et al*., 2012](https://www.vertpala.ac.cn/CN/Y2012/V50/I1/1)
 
 63. [*Dunyu tianlu*] Li *et al*. 2024 
 > Ludfordian, 425.6, 423.0
+>
+> 天路盾鱼
 
 > - Xiaoxi Formation; Xiushan County, Chongqing, China
 > - Li et al. (2024)
@@ -430,6 +490,8 @@
 
 65. [*Xiyuichthys zhangi*](https://deepbone.org/public/#/explor?s_id=41689&functionId=Deepbone_header_searchResultOpen) (Lu *et al*., 2007)
 > lower Telychian, 438.3, 436.8
+>
+> 张氏西域鱼
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - [Lu *et al*., 2007](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o6aqjs3RPDPH0bplr0kWIhD_jNH7KbBrlkFtsfW46nvW6chTHbMxGA15SBqdX44I5sUNttDcvIYMxmiTvwJZTCsPVvH3DiIBu7esxiWFtjuHck7tyvyy4zte-RejfAxmo=&uniplatform=NZKPT&language=CHS)
@@ -437,6 +499,8 @@
 
 66. [*Xiyuichthys lixiensis*] Shan *et al*., 2023
 > lower Telychian, 438.5, 436.8
+>
+> 澧溪西域鱼
 
 > - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
 > - Shan et al., 2023c
@@ -510,6 +574,8 @@
 
 6. [*Eugaleaspis xujiachongensis*](https://deepbone.org/public/#/explor?s_id=385&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > Pragian, 410.8, 407.6
+>
+> 徐家冲真盔甲鱼
 
 > - Xujiachong Formation; Qujing, YUnnan, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9p-mqub9fLtNW55WRI13_HcNWVpdnH3zbJzrnJyx8Ef_ObbkH4JUdGJEKTqzbMBCh3le9iuRB7KXom9WFVWR1nsjnGhykGmPlj6TMqKMOrLHxa1XpE2zZWkfzII2Rl-Hus=&uniplatform=NZKPT&language=CHS)
@@ -517,6 +583,8 @@
 
 7. [*Eugaleaspis lianhuashanensis*](https://deepbone.org/public/#/explor?s_id=386&functionId=Deepbone_header_searchResultOpen) Liu, 1986
 > upper Lochkovian, 415.0, 410.8
+>
+> 莲花山真盔甲鱼
 
 > - Lianhuashan Formation; Longshan, Guixian, Guangxi, China
 > - [Liu, 1986](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rR8e7JF5IOLx1CF_fqvEJ-rGY8qEcsnX9fQ8D8ZNjdB4ZQQUwzFOcTRm9lysq-sGOhlWy7eRx5ACzaID-19Cdn_wgGSFIO8BEzDnti0AmwBaDRSKmLvqUp_E5BOiEaoWM=&uniplatform=NZKPT&language=CHS)
@@ -589,6 +657,8 @@
 
 17. [*Microphymaspis pani*](https://deepbone.org/public/#/explor?s_id=312&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2002
 > lower Telychian, 438.5, 436.8
+>
+> 潘氏小瘤鱼
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - [Wang *et al*., 2002](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rE3jrAuFKW9wVwvN6xPc6t8-n-j3dEvo5mOUur5dm57xEDMDrIGZ6zO2fi3PcpFrkQPE9VwHYf--4VQ5oOoE7cIZzYb-VPDIo99rxsOuMKupouyoDdFc-i-kfAz4m9pUU=&uniplatform=NZKPT&language=CHS)
@@ -656,6 +726,8 @@
 
 26. [*Pseudolaxaspis rostrata*](https://deepbone.org/public/#/explor?s_id=83163&functionId=Deepbone_header_searchResultOpen) (Liu, 1975)
 > lower Lochkovian, 419.2, 415.0
+>
+> 长吻假宽甲鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9osjgmwUzT5o1Xz5RDUmwrWiY8UDo1RRHLicayKSUBTyJpOd6Zx0UITFhQZKOgRhpmUzZLZVOsTx8zqajJi2E2wijXHTcCJTGKYPgG_4F4IQns-2dglHtsWo9rvxmPW1Jw=&uniplatform=NZKPT&language=CHS); [Gai *et al*., 2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202217)
