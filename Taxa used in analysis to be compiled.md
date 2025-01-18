@@ -194,7 +194,9 @@
 > - [Pan *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9oGBdUgjfj7BRcJ6xgYtJe1GJEKZitogzBEMEatsOrGGHDzYKT-DCL0v6HVmDYm8vJ-Z4ZTTDhJFB0Nu725PbPbrGdMi5il8yXdjRjHn5p0AP3BxzZSPQN1libeRhw25aM=&uniplatform=NZKPT&language=CHS); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)  
 
 22. [*Hongshanaspis inexpectatus*](https://deepbone.org/public/#/explor?s_id=83152&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2020
-> lower to middle Telychian, 438.5, 435.1 
+> lower to middle Telychian, 438.5, 435.1
+>
+> 意外洪山鱼 
 
 > - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
 > - [Liu *et al*., 2020](http://www.earth-science.net/article/doi/10.3799/dqkx.2020.343); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)  
@@ -209,6 +211,8 @@
 
 23. [*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
 > Pragian, 410.8, 407.6
+>
+> 丘比特华南鱼
 
 > - NahKaoling (Nagaoling) Formation; Nanning City, Guangxi, China
 > - [Zhang *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-341.html)
