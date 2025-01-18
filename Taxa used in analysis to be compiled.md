@@ -47,18 +47,24 @@
 
 4. [*Antiquisagittaspis cornuta*](https://deepbone.org/public/#/explor?s_id=520&functionId=Deepbone_header_searchResultOpen) Liu, 1985
 > Pragian, 410.8, 407.6
+>
+> 角箭甲鱼
 
 > - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
 > - [Liu, 1985](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rPlgolc_OnIDYCgw27p9NQqNbhtZSyYTu8r8eyLERtKv65A7ibXlwZ7zweNktnFZCr1Agn6PUiHIdRYBNzfSXW0oS5tf5HE1j6M4uibqX8yLvmFmAWnsJJX3DkRVsGefo=&uniplatform=NZKPT&language=CHS)
 
 5. [*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) P'an *et al*., 1975
 > Pragian, 410.8, 407.6
+>
+> 宽展亚洲鱼
 
 > - NahKaoling (Nagaoling) Formation; Liujing, Hengxian, Guangxi, China
 > - [P'an *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rShO5CExHS6xjhXP78p22cRtVv2mOpYXoBUkyYT66wwhmQ3yORSBi5Y1733jOicTFqC1aCS3zvrW6BoJXu-KRlYt5tDOSrhIbdDkFYvmOvRa039eX60NsqUCo07oO0JKs=&uniplatform=NZKPT&language=CHS)
 
 6. [*Asiaspis liangi*](https://deepbone.cn/public/#/explor?s_id=172130&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
 > Pragian, 410.8, 407.6
+>
+> 梁氏亚洲鱼
 
 > - NahKaoling (Nagaoling) Formation; Nanning City, Guangxi, China
 > - [Zhang *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-341.html)
@@ -82,6 +88,7 @@
 
 9. [*Damaspis vartus*](https://deepbone.org/public/#/explor?s_id=487&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1982
 > lower Lochkovian, 419.2, 415.0
+> 
 > 变异坝鱼
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Wang and Wang, 1982](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rtZC92JEVepzTVY0gDRVewPo6f2SANood90hlz5xZp_UC982vYUAdC0y2yyuEclkwKk-BXDw8VOj0xxDQDeeePV1JrFMIXDRqmh3pWcTanzo1-XkNssmYMg09MSW3iGTs=&uniplatform=NZKPT&language=CHS)
@@ -156,6 +163,8 @@
 
 18. [*Gantarostrataspis gengi*](https://deepbone.org/public/#/explor?s_id=526&functionId=Deepbone_header_searchResultOpen) Wang and Wang, 1992
 > Pragian, 410.8, 407.6
+>
+> 耿氏鸭吻鱼
 
 > - Posongchong Formation, Wenshan County, Yunnan Province, China; Xujiachong Formation, Qujing City, Yunnan Province, China
 > - [Wang and Wang, 1992](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pm4DVSWcYIYolOolmRjXVSsy8-YC7Zl3FJ4PAYRTVBJsGLmeShCNSIcl_eqHxmyZUZYzuCjx4fG0os3bbDsW2uoeu7VHDxGkf9ntEn7n2LspR2LAz-PP091JYAHIIA2Xs=&uniplatform=NZKPT&language=CHS); [Zhu *et al*., 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q-k-as1DjvrHiXuGsdKQJzF6phIjU2Ca0D7SiAwBH2VNbz3jYFG--RS8NrBeoB1RZCmljTFbISXlIj5-rxnvvKOWHRTcHPoD55FM_n5T17W_RxUnzx-4SJ644G9XvFfTk=&uniplatform=NZKPT&language=CHS)
@@ -192,6 +201,8 @@
 
 23. [*Huananaspis wudinensis*](https://deepbone.org/public/#/explor?s_id=541&functionId=Deepbone_header_searchResultOpen) Liu, 1973
 > Pragian, 410.8, 407.6
+>
+> 武定华南鱼
 
 > - Posongchong Formation; Wuding County, Yunnan Province, China
 > - [Liu, 1973](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q50PGees7ReZDFKOJ2bweD-Z9XT6_FCBzWSaWcTbVGV5hhRtM3k_gJGcp3BjU9vgystJsTXTmtzHgMsfrhkBBUKTbPegN_sB7qsOXqiPXMDFaaxOb1F7gcAWTKtmrREe4=&uniplatform=NZKPT&language=CHS)
@@ -252,6 +263,8 @@
      
 30. [*Lungmenshanaspis kiangyouensis*](https://deepbone.org/public/#/explor?s_id=551&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1975
 > Pragian, 410.8, 407.6
+>
+> 江油龙门山鱼
 
 > - Pingyipu Formation; Yanmenba, Jiangyou City, Sichuan Province, China
 > - [P'an *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q8VtxKn0VPsFGMHl3d9zxE8CTR0Djy87ExgKx1X3XpiKeTxeqO8XJLc8t8RP0GPY0uaSREpWTpbTRqgtDkaw4lKAFDppqLjB1u-ZZf7eslQEXKVnWsripdD0ITOIBuQYU=&uniplatform=NZKPT&language=CHS); Pan and Wang, 1978
@@ -259,6 +272,8 @@
 
 31. [*Macrothyraspis longicornis*](https://deepbone.org/public/#/explor?s_id=596&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > Pragian, 410.8, 407.6
+>
+> 长角大窗鱼
 
 > - Posongchong Formation; Guangnan County, Wenshan County, Yunnan Province, China
 > - Pan, 1992; [Zhao *et al*., 2002](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o_qkte4ucKad4JYWN5_ZjgnAfSCzq6YwZUirJgf59qUF_2AjmPbx2UOFXEo3FHpnrrBaP2TK7cvu9zOJ41fuF74-bcKHuBcExnuldOIbelqw==&uniplatform=NZKPT)
@@ -290,6 +305,8 @@
 
 35. [*Nanpanaspis microculus*](https://deepbone.org/public/#/explor?s_id=548&functionId=Deepbone_header_searchResultOpen) Liu, 1965
 > lower Lochkovian, 419.2, 415.0
+>
+> 小眼南盘鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Liu, 1965](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9qYKOzqdD0tgrrent4OAKaRU3U9qB72qxtt62oDN7rvGvX0k7Q8s7YXmVPbj8HWpuJvO8UC9TF2xR_VhmfSXGHLg08qbIkLEU9zQe6ckOZdAdAdU0bYKALC8DIcXVFmBSg=&uniplatform=NZKPT&language=CHS); [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9qjm7k0NS4p0WWcyq4VItBqiJF6jDqpK81briQE4M2KhOV_rriFTeUIaS-l58acr7VIDNyxYeaksiSOiwSb0qZk6Bk6RDf_cmfSgkxHY-hcCgZufafNTBwPTs0k6S0odb4=&uniplatform=NZKPT&language=CHS)
@@ -345,6 +362,8 @@
 
 42. [*Qingmenaspis microculus*](https://deepbone.org/public/#/explor?s_id=607&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1981
 > Pragian, 410.8, 407.6
+>
+> 小眼箐门鱼
 
 > - Posongchong Formation; Zhaotong City, Yunnan Province, China
 > - [Pan and Wang, 1981](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pQJ0RhBHPe0Fjvzq1gS5XUlzjYhbN9USYgzKUcMumTspjvWMlR_Hdq00diDoJgl6HjdJNyg8FGWMqMFZsSwDDDDPOt4OJRNmD-kYueBsAlGvM-i7AVlLm0RmrJKJxbCIk=&uniplatform=NZKPT&language=CHS); Pan, 1992
@@ -359,6 +378,8 @@
      
 44. [*Qushiaspis elaia*](https://deepbone.org/public/#/explor?s_id=76898&functionId=Deepbone_header_searchResultOpen) Jiang *et al*., 2021
 > Pragian, 410.8, 407.6
+>
+> 橄榄纹曲师鱼
 
 > - Xujiachong Formation; Qujing City, Yunnan Province, China
 > - [Jiang *et al*., 2021](https://www.tandfonline.com/doi/full/10.1080/08912963.2021.1888086)
@@ -381,18 +402,24 @@
      
 47. [*Rhegmaspis xiphoidea*](https://deepbone.org/public/#/explor?s_id=73756&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2015  
 > Pragian, 410.8, 407.6
+>
+> 剑裂甲鱼
 
 > - Posongchong Formation; Zhaotong City, Yunnan Province, China
 > - [Gai *et al*., 2015](https://www.vertpala.ac.cn/EN/Y2015/V53/I2/93)
 
 48. [*Sanchaspis magalarostrata*](https://deepbone.org/public/#/explor?s_id=515&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1981
 > Pragian, 410.8, 407.6
+>
+> 宽大吻突三岔鱼
 
 > - Xujiachong Formation; Qujing City, Yunnan Province, China
 > - [Pan and Wang, 1981](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9qQAUyRq8GwGGntmfw1zabtAlgglY7rDb037LlEISppGvB5J5HICkZSmL9cDjTv5cOmuYUt-9iIbjiC4f8_ZEs8NfIINKJe6gg6-Wg6Xc5HkTTRl9sx1V-KuOw5UA_Kbqo=&uniplatform=NZKPT&language=CHS)
 
 49. [*Sanqiaspis rostrata*](https://deepbone.org/public/#/explor?s_id=534&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > Pragian, 410.8, 407.6
+>
+> 长吻三歧鱼
 
 > - Pingyipu Formation, Yanmenba, Jiangyou City, Sichuan Province, China; Posongchong Formation, Wenshan County, Yunnan Province, China
 > - [Liu, 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9qixEIQzV__aHq_hG1oT5GFb6_4mqkkY__5MrfVV4gdJJPZUOOsg0FtMBhMbDH_-M-I7HmzW9O1h2dKMbHpOn2gGlIwy-Shu8_nFZQ7KZ_Z0XunwREtH4-7W7cceNZ8MOE=&uniplatform=NZKPT&language=CHS); [1986](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q77bUTUnQcT41z-R2w2Bvp3-Olo8MOrPLTiZ4Iv8end0P5DRK7kVMrGfsIDE6oxLN6Mb6YMOqP8k6KGoaYNA6nk_sYrYAbG_x_M97xunjQzVw-zuLeZo0kYr7bQUNBkkY=&uniplatform=NZKPT&language=CHS); Pan and Wang, 1978; [Wang *et al*., 1996](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9o6CI5AIZz01-WipEvmF2lfRMxtbRhwJzQflUxaacBLpKeFaj8XzIuP8eUie7LK3meaTv9zzIsdYQyOjew6qzo_WRALtWnRHLtSZ4KCeMOp86j-ciXhascwbUTVjAN2IAk=&uniplatform=NZKPT&language=CHS); [Zhao *et al*., 2002](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ppjjmN1k_A-VL0XtRwVrogMguJpyLR56wWxKAJ1pw7JExAW8Gu1tKlnk2JY8ixnLbSCTGK_Tfbyt3tHNFhzg_avGqOCNazfJoi8QbpLxVdarOOT0sni9jG5eA9HmlVKuc=&uniplatform=NZKPT&language=CHS)
@@ -416,12 +443,16 @@
 
 52. [*Sinoszechuanaspis yanmenpaensis*](https://deepbone.org/public/#/explor?s_id=601&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Pragian, 410.8, 407.6
+>
+> 雁门坝中华四川鱼
 
 > - Pingyipu Formation, Yanmenba, Jiangyou City, Sichuan Province, China
 > - P'an et al., 1975; P'an and Wang, 1978; Pan, 1992
 
 53. [*Stephaspis dipteriga*](https://deepbone.org/public/#/explor?s_id=613&functionId=Deepbone_header_searchResultOpen) Gai and Zhu, 2007
 > lower Lochkovian, 419.2, 415.0
+>
+> 双翼王冠鱼
 
 > - Xishancun Formation; Qujing City, Yunnan Province, China
 > - [Gai and Zhu, 2007](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pJf_8NoyRMWe_6lnSkibUmDhFjsx_3Fe7Adwd5TjJCuViftlt52kGRUlDbf4yqRAfSFk1gUQEGDKaE-gubUUpbOSiV5R55XWGPq5zw7QcYAw==&uniplatform=NZKPT)
@@ -444,12 +475,16 @@
      
 56. [*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen) Zhao *et al*., 2002
 > Pragian, 410.8, 407.6
+>
+> 纸厂文山鱼
 
 > - Posongchong Formation; Wenshan, Yunnan, China.
 > - [Zhao *et al*., 2002](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ppjjmN1k_A-VL0XtRwVrogMguJpyLR56wWxKAJ1pw7JExAW8Gu1tKlnk2JY8ixnLbSCTGK_Tfbyt3tHNFhzg_avGqOCNazfJoi8QbpLxVdarOOT0sni9jG5eA9HmlVKuc=&uniplatform=NZKPT&language=CHS)
 
 57. [*Wumengshanaspis cuntianensis*](https://deepbone.org/public/#/explor?s_id=530&functionId=Deepbone_header_searchResultOpen) Wang and Lan, 1984
 >  upper Emsian, 400.45, 393.3
+>
+> 寸田乌蒙山鱼
 
 > - Suotoushan Formation; Yiliang County, Yunnan Province, China
 > - [Wang and Lan, 1984](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rFDRRTh5ljVBosJmAfKXRlZp1qzMol3_NNdjgtgkEs8R0kBcl7vgf6chwarzOhlLa98JGfUAjGRuN1IDsj24kZGaALmfeklF2IsG6Kd-87lifHsnqAxFWQlRi0b1_2yDV3UzR-CxRX_Q==&uniplatform=NZKPT&language=CHS)
@@ -480,6 +515,8 @@
 
 61. [*Zhaotongaspis janvieri*](https://deepbone.org/public/#/explor?s_id=509&functionId=Deepbone_header_searchResultOpen) Wang and Zhu, 1994
 > Pragian, 410.8, 407.6
+>
+> 让氏昭通鱼
 
 > - Posongchong Formation, Zhaotong City, Yunnan Province, China
 > - [Wang and Zhu, 1994](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9ruqyCrR4NhENlbzKozB_XmI2f0oCzxD3qVnL5F1T7xwI9u9ora4TZ0wT6LkK6u7hGWkCZ_PlNWNTfNn3EfoTgpZWPdR7kqSy8SEMYFGzSe51KiZBym5PzchSahUC3dwOI=&uniplatform=NZKPT&language=CHS)
@@ -622,12 +659,16 @@
 
 8. [*Huananaspis cupido*](https://deepbone.cn/public/#/explor?s_id=172129&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2023
 > Pragian, 410.8, 407.6
+>
+> 丘比特华南鱼
 
 > - NahKaoling (Nagaoling) Formation; Nanning City, Guangxi, China
 > - [Zhang *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-341.html) 
 
 9. [*Hyperaspis acclivis*](https://deepbone.org/public/#/explor?s_id=623&functionId=Deepbone_header_searchResultOpen) Pan, 1992
 > upper Lochkovian, 415.0, 410.8
+>
+> 陡背耸刺鱼
 
 > - Xitun Formation; Qujing City, Yunnan Province, China
 > - Pan, 1992
@@ -635,6 +676,8 @@
 
 10. [*Jiaoyu imperfectus*](https://deepbone.org/public/#/explor?s_id=83340&functionId=Deepbone_header_searchResultOpen) Liu *et al*., 2019
 > upper Telychian, 435.0, 435.1
+>
+> 残缺角鱼
 
 > - Kezirtag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - [Liu *et al*., 2019](https://www.vertpala.ac.cn/EN/10.19615/j.cnki.1000-3118.190524)
@@ -675,6 +718,8 @@
 
 15. [*Lungmenshanaspis yunnanensis*](https://deepbone.org/public/#/explor?s_id=553&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 1996
 > Pragian, 410.8, 407.6
+>
+> 云南龙门山鱼
 
 > - Posongchong Formation; Zhaotong City, Yunnan Province, China
 > - [Wang *et al*., 1996](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9pDnZXkwKOXvhk_v5S7CT1Co2Bb_JvvPbVyosvKYRckxRj-lvuUR2YDWxF9l5lSrBYLtHlzs94PGGBmVKFSSHzv8SOortgT3nvjADE97OjAe03L350YVFKs00MAem4zte8=&uniplatform=NZKPT&language=CHS)
@@ -682,6 +727,8 @@
 
 16. [*Macrothyraspis longilanceus*](https://deepbone.org/public/#/explor?s_id=597&functionId=Deepbone_header_searchResultOpen) Wang *et al*., 2005
 > Pragian, 410.8, 407.6
+>
+> 长矛大窗鱼
 
 > - Posongchong Formation; Gumu Town, Wenshan County, Yunnan Province, China
 > - [Wang *et al*., 2005](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rg_rPG2YVWyk6sG9BpKNpf_IqjX_eb0YCPc3V9Z3XHJkXICFDi4SoLkXgGIOXcCL5A4QH9s3IvUr5M2l3wlzchjQvNGVdm7auFa2FWprxxV4EP5G69fS0f0OZwiEgcLQM=&uniplatform=NZKPT&language=CHS)
@@ -778,12 +825,16 @@
 
 27. [*Sanqiaspis zhaotongensis*](https://deepbone.org/public/#/explor?s_id=535&functionId=Deepbone_header_searchResultOpen) Liu, 1975
 > Pragian, 410.8, 407.6
+>
+> 昭通三岐鱼
 
 > - Posongchong Formation; Zhaotong City, Yunnan Province, China
 > - Liu, 1975
 
 28. [*Sanqiaspis vietnamensis*](https://deepbone.org/public/#/explor?s_id=8373&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 2009
 > Pragian, 410.8, 407.6
+>
+> 越南三歧鱼
 
 > - Sika Formation; Bac Bo, Vietnam.
 > - Janvier *et al*., 2009
