@@ -7,10 +7,7 @@
 > - [references]
 > - **any comments on this species added here**
 
-
-> 迄今为止，正式描述的有效种共有99个；系统发育分析使用68个；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析。
-
-> Eugaleaspiformes已描述的有效种有26种（18个属）。要数一数其他两个目的属、种数。
+> 迄今为止，正式描述的有效种共有98个；系统发育分析使用67个；未使用的种大部分是因为保存不好，部分属仅选用属型种纳入分析。
 
 ## **outgroup taxa**
 [*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair, 1900
@@ -575,14 +572,8 @@
 
 > - Xikeng Formation; near Baishui village, Cheqiao Town, De’an County, Jiujiang City, Jiangxi Province, China
 
-## Added by Xian *et al*. in prep.
-68. [*Wenshanaspis zhujieensis*] gen. et sp. nov. Xian *et al*., in prep.
-> Pragian, 410.8, 407.6
-
-> - Posongchong Formation, Zhujie Township, Guangnan, Wenshan, Yunnan Province, China
-
 ## Added by Lin *et al*. in prep.
-69. [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
+68. [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
 > upper Telychian, 435.1, 433.4
 >
 > 赣北修水鱼
@@ -590,6 +581,11 @@
 > - Xikeng Formation; Xiushui County, Jiujiang City, Jiangxi Province, China
 > - [Pan and Wang, 1983](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rO72crg4p4wMyyKyUTJXs4l7hyRW-S9UHYtJ372bV2HSOgsAlFBZFDQnks6GjaFeW-UMMFtuOmkfzvRrk6p_WWoOgcx8bvPFOu-GwqKnE6DXp7oTPvJxeX80yAXEEdFl0=&uniplatform=NZKPT&language=CHS)
 
+## Added by Xian *et al*. in prep.
+69. [*Wenshanaspis zhujieensis*] gen. et sp. nov. Xian *et al*., in prep.
+> Pragian, 410.8, 407.6
+
+> - Posongchong Formation, Zhujie Township, Guangnan, Wenshan, Yunnan Province, China
 
 ## **Galeaspid taxa not used in the phylogenetic analysis**
 1. [*Changxingaspis nianzhongi*] Li *et al*., 2024 
@@ -599,7 +595,6 @@
 
 > - Tataertag Formation; Kalpin County, Xinjiang Uygur Autonomous Region, China
 > - Li *et al*., 2024
-> - **To be added in deepbone.**
 
 2. [*Clarorbis apponomedianus*](https://deepbone.org/public/#/explor?s_id=499&functionId=Deepbone_header_searchResultOpen) Pan and Ji, 1993
 > Eifelian, 393.3, 387.7
