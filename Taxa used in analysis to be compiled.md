@@ -50,7 +50,7 @@
 >
 > 角箭甲鱼
 
-> - Nagaoling Formation; Liujing, Hengxian, Guangxi, China
+> - NahKaoling (Nagaoling); Liujing, Hengxian, Guangxi, China
 > - [Liu, 1985](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9rPlgolc_OnIDYCgw27p9NQqNbhtZSyYTu8r8eyLERtKv65A7ibXlwZ7zweNktnFZCr1Agn6PUiHIdRYBNzfSXW0oS5tf5HE1j6M4uibqX8yLvmFmAWnsJJX3DkRVsGefo=&uniplatform=NZKPT&language=CHS)
 
 5. [*Asiaspis expansa*](https://deepbone.org/public/#/explor?s_id=543&functionId=Deepbone_header_searchResultOpen) P'an *et al*., 1975
