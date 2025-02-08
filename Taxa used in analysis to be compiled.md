@@ -567,17 +567,8 @@
 
 > - Qingshui Formation; Wuning County, Jiujiang City, Jiangxi Province, China
 > - Shan et al., 2023c
-> - **To be added in deepbone.**
 
-67. [*Hongshanaspis inexpectatus*] Liu et al. 2021
->
-> 意外洪山鱼
-
-> - 
-> - Liu et al. 2021
-> - **To be added in deepbone.**
-
-68. [*Deanaspis longpingi*] Lin *et al*., 2025
+67. [*Deanaspis longpingi*] Lin *et al*., 2025
 > upper Telychian, 435.1, 433.4
 >
 > 隆平德安鱼
@@ -585,13 +576,13 @@
 > - Xikeng Formation; near Baishui village, Cheqiao Town, De’an County, Jiujiang City, Jiangxi Province, China
 
 ## Added by Xian *et al*. in prep.
-69. [*Wenshanaspis zhujieensis*] gen. et sp. nov. Xian *et al*., in prep.
+68. [*Wenshanaspis zhujieensis*] gen. et sp. nov. Xian *et al*., in prep.
 > Pragian, 410.8, 407.6
 
 > - Posongchong Formation, Zhujie Township, Guangnan, Wenshan, Yunnan Province, China
 
 ## Added by Lin *et al*. in prep.
-70. [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
+69. [*Xiushuiaspis ganbeiensis*](https://deepbone.org/public/#/explor?s_id=258&functionId=Deepbone_header_searchResultOpen) Pan and Wang, 1983
 > upper Telychian, 435.1, 433.4
 >
 > 赣北修水鱼
